@@ -1,0 +1,6 @@
+- Solutions
+	- OpenEBS: container-attached storage (CAS) architecture, iSCSI
+	- Rook
+	- GlusterFS: aggregates data storage from various sources into scalable, distributed file systems.
+	- Longhorn: offers distributed lightweight block storage for Kubernetes. It works by separating block storage into multiple LongHorn volumes to enable using Kubernetes volumes separately or with a cloud provider. It uses containers and microservices to implement distributed block storage.
+	- Portworx

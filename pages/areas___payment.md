@@ -1,0 +1,44 @@
+- DBS IDEAL Connect： a host-to-host solution that makes your daily business processes faster and easier.
+- Mastercard Payment Gateway Services (MGPS)
+	- MID:  Merchant ID
+- how do a payment system handle the issue that bad internet connection from banks without compromising user experiences?
+  collapsed:: true
+	- **Offline Mode**: Implement an offline mode that allows users to continue using the payment system even when there's a bad internet connection. In offline mode, the system can store transaction data locally and synchronize with the bank's servers once the connection is restored. Inform users that their transactions will be processed as soon as connectivity is regained.
+	- **Real-time Feedback**: Provide real-time feedback to users about the status of their transactions. If a transaction fails due to connectivity issues, immediately inform the user, explain the situation, and provide an estimated time for when the system will retry the transaction.
+	- **Smart Caching**: Utilize smart caching mechanisms to store relevant data on the client-side. This can include recently used payment methods, transaction history, and other relevant information. This data can be displayed to the user even when the internet connection is poor.
+	- **Background Processing**: Process transactions in the background while showing a loading indicator to the user. Once the transaction is successfully processed, notify the user. This approach prevents users from waiting for a response and allows them to continue using the application.
+	- **Partial Submissions**: Allow users to partially submit transaction details. If a connection is lost during the transaction process, the user won't need to start over. They can continue from where they left off once the connection is restored.
+	- **Retry and Recovery**: Implement automatic retry mechanisms as mentioned earlier. If a transaction fails due to bad connectivity, the payment system can retry the transaction a certain number of times with increasing delays. If all attempts fail, prompt the user to retry manually or offer alternative payment options.
+	- **Prevent Data Loss**: Design the system to prevent data loss during a connectivity interruption. Store transaction data securely and ensure that no user data is lost even if the connection drops.
+	- **Bandwidth-Optimized Interfaces**: Optimize the user interface for low-bandwidth conditions. Use compressed images, reduce the number of HTTP requests, and minimize the use of large multimedia files to ensure the application remains responsive.
+	- **Local Feedback**: Provide local feedback for user actions. For example, if a user selects a payment method, immediately show a visual indication that the selection has been made, even if the confirmation from the bank is pending.
+	- **Educational Messages**: Provide informative messages to users about the potential impact of bad internet connections. Help users understand that connectivity issues may arise and explain the steps they can take to ensure successful transactions.
+	- **User-Centric Design**: Prioritize user-centered design principles to ensure that the application remains intuitive and easy to use, even in challenging network conditions.
+	- **Continuous Testing and Optimization**: Regularly test the payment system under various network conditions to identify bottlenecks and areas for improvement. Continuously optimize the system to enhance its performance in low-bandwidth scenario
+- ISO 20022: xml
+- Straight-through Processing (STP):
+	- a system that processes financial transactions electronically. It replaces physical and paper-based activities with automation.
+	- An STP system speeds up remittance and settlement when taking payments. The goal is to streamline payments so that when a transaction starts, all activities associated with the payment processing are automated. This method doesn't require any manual intervention and is quicker.
+- end-to-end payment processing: all-inclusive payment services to merchants, covering everything from point-of-sale terminals to online payments, fraud protection, billing management, sales reporting and more. In a business environment in which having multiple sales channels is becoming the norm, end-to-end payment processing can help you save time and money compared to using several different providers.
+  collapsed:: true
+	- Opening a dedicated merchant account
+	- Point of sale software and hardware or a virtual terminal
+	- A global payment gateway
+	- Payment processing at customised rates
+	- An e-wallet
+	- Merchant services, including:
+		- PCI compliance
+		- Fraud scrub software
+		- Chargeback mitigation
+		- Billing and invoicing
+		- Recurring billing and subscription management
+		- Manage the reconciliation process in the case of a credit card chargeback
+		- Customer loyalty programs
+		- Customer database
+		- Real-time transaction tracking
+		- Real-time payment data
+		- Sales reporting and analytics
+		- Inventory management software integration
+		- Multi-currency management
+		- Multi-currency settlement services
+		- 24/7 technical support

@@ -1,0 +1,7 @@
+- host pool: a collection of Azure virtual machines that register to Azure Virtual Desktop as session hosts when you run the Azure Virtual Desktop agent
+	- personal & pooled
+- Validation environment: set a host pool to be a *validation environment*. Validation environments let you monitor service updates before the service applies them to your production or non-validation environment.
+- application group: a logical grouping of applications installed on session hosts in the host pool.
+	- RemoteApp
+	- Desktop
+- Workspaces:  a logical grouping of application groups in Azure Virtual Desktop

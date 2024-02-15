@@ -1,0 +1,4 @@
+- **An IHS server refers to IBM HTTP Server, which is based on the Apache HTTP Server**. The IBM HTTP Server includes the Apache HTTP Server and adds additional features and support for IBM platforms.
+- WebSphere Application Server (WAS): the middleware application used to deploy the Java Virtual Machine (JVM) application and to manage JVMs once deployed.
+- In order to support High Availability (HA), Fault Tolerance (FT), and Load Balancing (LB), IHS is configured with an interface and plug-in to provide load balancing to clusters configured in WAS.
+- IBM HTTP Server (IHS)

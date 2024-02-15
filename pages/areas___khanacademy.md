@@ -1,0 +1,12 @@
+- khanmigo
+	- features:
+		- **Personalization:** Khanmigo can remember what you like and tailor learning to you.
+		- **Video Content:** Khanmigo has lots of videos to help explain things.
+		- **Progress Tracking:** Khanmigo keeps track of what you've learned.
+		- **Math Accuracy:** Khanmigo is really good at helping with math problems.
+		- **Essay Feedback:** Khanmigo can give you tips on your writing.
+		- **Step-by-Step Tutoring:** Khanmigo can guide you through exercises and videos.
+		- **Lesson Planning:** Khanmigo can help plan your learning.
+		- **Classroom Tools:** Khanmigo has tools for teachers too.
+- khanmigo vs Khanmigo Lite
+	- With Khanmigo, use of your data is subject to Khan Academy’s own privacy policy; GPTs like Khanmigo Lite are subject to OpenAI’s privacy policy and controls instead.

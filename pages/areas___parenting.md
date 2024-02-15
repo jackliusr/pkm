@@ -1,0 +1,3 @@
+- https://www.moe.gov.sg/parentkit
+- education news site: https://www.schoolbag.edu.sg/
+- https://www.myskillsfuture.gov.sg/content/portal/en/index.html

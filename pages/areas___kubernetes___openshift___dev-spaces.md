@@ -1,0 +1,4 @@
+- A cloud development environment (CDE) service for OpenShift
+- devfile: `yaml` text files used for development environment customization. Use them to configure a devfile to suit your specific needs and share the customized devfile across multiple workspaces to ensure identical user experience and build, run, and deploy behaviours across your team.
+	- **Devfile and Universal Developer Image*: You do not need a devfile to start a workspace. If you do not include a devfile in your project repository, Red Hat OpenShift Dev Spaces automatically loads a default devfile with a Universal Developer Image (UDI).
+- ide: [Che Theia](https://theia-ide.org/docs/). [Visual Studio Code - Open Source](https://github.com/che-incubator/che-code),[IntelliJ IDEA Community](https://github.com/che-incubator/jetbrains-editor-images)

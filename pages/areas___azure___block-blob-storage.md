@@ -1,0 +1,2 @@
+- Block blobs have a maximum block count of 50,000 blocks. The maximum size of your block blob, then, is 50,000 times `MaximumTransferSize`.
+-

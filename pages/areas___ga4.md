@@ -1,0 +1,6 @@
+- GTM integrations
+- `tagging endpoints`: Each GA4 web stream and each Google Ads conversion; **Each destination can be added to one, and ONLY ONE, Google Tag**.
+- multiple tags: later flexibility : combine tags or add multiple destinations
+- A `destination` is a Google measurement product account that shares configuration with, and receives data from, a Google tag. You can add destinations to your Google tag to reuse your Google tag’s configuration and footprint on your site. Currently, only Google Ads accounts and web data streams in Google Analytics 4 properties can be destinations.
+- tracking capacities :
+	- scrolling

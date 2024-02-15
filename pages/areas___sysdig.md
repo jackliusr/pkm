@@ -1,0 +1,6 @@
+- Sysdig agent is a lightweight host component that processes syscall, creates capture files, and performs auditing and compliance. It is a platform that supports monitoring, securing, and troubleshooting cloud-native environments. In addition, the agent performs the following:
+	- Metrics processing, analysis, aggregation, and transmission.
+	- Policy monitoring and alert notification through bidirectional communication with the Sysdig collector.
+	- Integration with third-party software for consolidating customer ecosystem data.
+	- Full assimilation into containerized and orchestrated environment.
+	- Matches runtime policies against the syscall events and generates policy events.

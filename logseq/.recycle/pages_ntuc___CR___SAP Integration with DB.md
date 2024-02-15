@@ -1,0 +1,8 @@
+- [CR2021-014-SAP integration with DBS V0.2_SignOff.pdf](https://sntuc.sharepoint.com/:b:/r/sites/VendorSite/DXC/CR%20-%20Committed%20Completed/2021/CR2021-014-SAP%20DBS%20Integration/CR2021-014-SAP%20integration%20with%20DBS%20V0.2_SignOff.pdf?csf=1&web=1&e=mhSdjI)
+- DBS and DBSSAL folders
+- Sending files path is the existing same GIRO path which is “Outbox
+- (ACK1, ACK2, ACK3 and MT940)
+- Files without “SAL” keyword will be deposit into the respectively folders based on key words “ACK1”, “ACK2”, “ACK3” and “MT940”
+- Files with “SAL” keyword will be deposit into the respectively folders based on key words “ACK1”, “ACK2”, “ACK3”
+- DBS:  DBS IDEAL  Connect.  which version 3.0?
+- By default **GIRO** and **SIRS** file should be excluded and should not get any impact the existing GIRO and SIRS process

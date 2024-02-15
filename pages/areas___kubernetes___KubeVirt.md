@@ -1,0 +1,22 @@
+- ![](https://kubevirt.io/user-guide/assets/architecture.png){:height 616, :width 997}
+- ![](https://kubevirt.io/user-guide/assets/architecture-simple.png)
+- components
+	- virt-launcher
+	- virt-host-validate
+	- virt-api-server
+	- libvirtd: An instance of `libvirtd` is present in every VMI pod. `virt-launcher` uses libvirtd to manage the life-cycle of the VMI process.
+	- virt-controller: responsible for monitoring the VMI (CRs) and managing the associated pods. Currently the controller will make sure to create and manage the life-cycle of the pods associated to the VMI objects.
+- VirtualMachine (VM) - StateFul VM that can be stopped and started while keeping the VM data and state.
+- VirtualMachineInstanceReplicaSet (VMIRS) - Similar to pods ReplicaSet, a group of ephemeral VMIs with similar configuration defined in a template.
+- VirtualMachineInstance (VMI) is the custom resource that represents the basic ephemeral building block of an instance. In a lot of cases this object won't be created directly by the user but by a high level resource
+- virtctl
+	- console: serial console
+	- vnc: vnc
+	- start
+	- stop
+	- ssh
+	- restart
+	- expose: expose as a service
+- Containerized Data Importer (CDI): an utility designed to import Virtual Machine images for use with Kubevirt.
+	- DataVolume (DV): DataVolumes handle the provisioning of PersistentVolumeClaims (PVCs) for KubeVirt. A custom controller watches for new DVs, and when one is discovered, starts an import process to create a new PVC into which it will import the desired content.
+- Zero downtime rolling updates

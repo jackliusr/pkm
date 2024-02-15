@@ -1,0 +1,1 @@
+- architecture: https://upload.wikimedia.org/wikipedia/commons/d/df/WebCrawlerArchitecture.svg #architecture

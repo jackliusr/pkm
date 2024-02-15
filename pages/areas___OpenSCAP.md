@@ -1,0 +1,14 @@
+- **SCAP content**: security policies in SCAP format
+- SCAP content provided by **SCAP Security Guide** (SSG).
+- oscap
+- Open Vulnerability and Assessment Language (OVAL): is an XML-based community standard for representing and exchanging security content.
+- [Extensible Configuration Checklist Description Format (XCCDF)](https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/xccdf): a specification language for writing security checklists, benchmarks, and related kinds of documents
+- Script Check Engine (SCE): an alternative check engine for XCCDF checklist evaluation. SCE allows you to call shell scripts out of the XCCDF document. This approach might be suitable for various use cases, mostly when OVAL checks are not required.
+- Tailoring: Tailoring allows you to change behavior of SCAP content without its direct modification.
+- Tailoring files: created using `autotailor` or [SCAP Workbench](https://www.open-scap.org/tools/scap-workbench/)
+- DISA STIG Viewer
+- remediation: online (), offline, review
+	- Remediation during scanning
+	- Remediation after scanning
+	- Reviewing remediations
+- OpenVAS and OpenSCAP: Whereas, OpenVAS is categorized as a Linux vulnerability scanning tool, vulnerability management tool, and vulnerability scanner. In the field of Linux systems, **OpenVAS is essentially an open-source vulnerability scanner and OpenSCAP, an open-source auditing scanner**

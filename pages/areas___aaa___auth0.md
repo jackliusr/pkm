@@ -1,0 +1,1 @@
+- okta joins forces with auth0

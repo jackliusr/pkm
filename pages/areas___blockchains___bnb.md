@@ -1,0 +1,3 @@
+- Build N Build Chain aka BNB Chain: BNB Chain is composed of two blockchains - BNB Beacon Chain (BC) and BNB Smart Chain (BSC). The [BNB Beacon Chain](https://docs.bnbchain.org/docs/learn/beaconIntro) is the blockchain component that is responsible for the governance of the BNB Chain and manages staking and voting on the BNB Chain. Whereas, the [BNB Smart Chain](https://docs.bnbchain.org/docs/learn/intro) is the blokchain component that is EVM compatible, consensus layers, and with hubs to multi-chains.
+- ![](https://docs.bnbchain.org/assets/images/BNB-Chain-Ecosytem-5392250253c2bfcba91f56b54fa73760.png){:height 351, :width 685}
+-

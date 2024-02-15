@@ -1,0 +1,11 @@
+- rules
+	- require that dns records proxied
+	- Configuration Rules: customize certain Cloudflare [configuration settings](https://developers.cloudflare.com/rules/configuration-rules/settings/) for matching incoming requests.
+- Orange-to-Orange (O2O):
+- Area 1 cloud-native email security service: Stop phishing attacks with Area 1 cloud-native email security service.
+- Notifications: only works on the [proxied](https://developers.cloudflare.com/dns/manage-dns-records/reference/proxied-dns-records/) domain
+	- Free plans can set up email-based Notifications.
+	- Business and higher plans can also [access PagerDuty](https://developers.cloudflare.com/notifications/create-notifications/create-pagerduty/).
+	- Professional and higher plans can also [use webhooks](https://developers.cloudflare.com/notifications/create-notifications/configure-webhooks/).
+- cloudflare to other cdn
+	- full proxy: cloudflare will pass the domain name

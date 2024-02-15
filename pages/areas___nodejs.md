@@ -1,0 +1,6 @@
+- Async hooks
+- Microtask Queue
+- [[areas/nodejs/libraries]]
+- common issues:
+	- UNMET DEPENDENCY: https://stackoverflow.com/a/20765400/1101691
+	- [How can I mount a file with the contents of key/value of a ConfigMap without clearing the folder?](https://stackoverflow.com/questions/63412817/how-can-i-mount-a-file-with-the-contents-of-key-value-of-a-configmap-without-cle)

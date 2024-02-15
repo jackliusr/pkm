@@ -1,0 +1,3 @@
+- modes: pull vs push
+	- [push](https://learn.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-dotnet-core-push-refresh?tabs=linux): Azure App Configuration events
+		- Applications can choose to subscribe to these either directly from Event Grid, or through one of the [supported event handlers](https://learn.microsoft.com/en-us/azure/event-grid/event-handlers) such as a webhook, an Azure function, or a Service Bus topic.

@@ -1,0 +1,4 @@
+- Cisco Modeling Labs: an on-premises network simulation tool that runs on workstations and servers. With Cisco Modeling Labs, you can quickly and easily simulate Cisco and non-Cisco networks, using real Cisco images. This gives you highly reliable models for designing, testing, and troubleshooting. Compared to building out real-world labs, Cisco Modeling Labs returns results faster, more easily, and for a fraction of the cost.
+- Mininet: Mininet creates a **realistic virtual network**, running **real kernel, switch and application code**, on a single machine (VM, cloud or native), in seconds, with a single command:
+  Mininet is also a great way to develop, share, and experiment with Software-Defined Networking (SDN) systems using [OpenFlow](https://opennetworking.org/software-defined-standards/specifications/) and [P4](http://p4.org/).
+  ![](https://mininet.org/images/frontpage_diagram.png)

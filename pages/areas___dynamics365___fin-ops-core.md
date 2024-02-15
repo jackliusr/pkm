@@ -1,0 +1,9 @@
+- extended data types (EDTs)
+- Application Object Server (AOS)
+- Testing and validations
+	- link: https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/perf-test/testing-validation
+	- Use SysTest Framework to author unit/component test code.
+	- Test isolation
+	- Test module creation to manage test code and FormAdaptors.
+	- Import Task Recorder recordings into Visual Studio to generate test code.
+	- Integrate a Test module with a build machine.

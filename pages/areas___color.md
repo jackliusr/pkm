@@ -1,0 +1,1 @@
+- color scheme: coolors.co

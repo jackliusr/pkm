@@ -1,0 +1,1 @@
+- The NIST Definition of Cloud Computing

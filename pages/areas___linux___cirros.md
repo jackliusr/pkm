@@ -1,0 +1,3 @@
+- The CirrOS project provides linux disk and kernel/initramfs images. The images are well suited for testing as they are small and boot quickly.
+	- **Images are provided for test only**. They should not be used in production.
+	- **Images have well known login information**. Users can log in with 'cirros:letsgocubs' locally or remotely and have passwordless sudo access to root.

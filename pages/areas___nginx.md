@@ -1,0 +1,2 @@
+- [Get Me to the Cluster](https://www.nginx.com/resources/library/get-me-to-the-cluster/):Learn how to easily and reliably expose services in your on-premises Kubernetes environment to external clients with NGINX Ingress Controller, NGINX Plus reverse proxy, and BGP.
+-

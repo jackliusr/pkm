@@ -1,0 +1,17 @@
+- Velero
+	- use cases
+		- Backing up your Kubernetes cluster and enabling recovery in the event of data loss.
+		- Recovering a cluster in the event of a disaster.
+		- Copying cluster resources to other clusters.
+		- Replicating your cluster environment to create development and testing clusters.
+		- Taking a snapshot of your applications state before upgrading a cluster.
+	- components: a server and a comment-line utility that runs locally
+	- How Velero Works
+	  ![](https://cloudcasa.io/assets/How-Velero-backup-works.jpg){:height 237, :width 631}
+	- Plugins
+		- **Object Store** – persists and retrieves backups, backup log files, restore warning/error files, restore logs.
+		- **Volume Snapshotter** – creates snapshots from volumes (during a backup) and volumes from snapshots (during a restore).
+		- **Backup Item Action** – performs arbitrary logic on individual items prior to storing them in the backup file.
+		- **Restore Item Action** – performs arbitrary logic on individual items prior to restoring them in the Kubernetes cluster.
+		- **Delete Item Action** – performs arbitrary logic on individual items prior to deleting them from the backup file.
+- Velero vs. Kasten

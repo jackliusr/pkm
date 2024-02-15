@@ -1,0 +1,47 @@
+- PMBOK 6 vs PMBOK7
+	- PMI Has Shifted from Process Based Standard To Principle Based Standard
+	- PMBOK 7 Is NOT A Replacement of PMBOK6
+	- PMBOK® 6 Focuses on Knowledge Domains And PMBOK® 7 Focuses On The Performance Domains
+	- If you look at key differences between PMBOK 6 and 7, you can see, PMBOK 7 puts more emphasis on the value delivery perspective than the knowledge perspective.
+	- It is important to note that PMBOK 7 is not a replacement for PMBOK 6. It is only meant to provide high-level guidance on how to deliver value to the customer.
+- PMBOK7
+	- The Standard for Project Management
+		- Intro
+		- System For Value Delivery
+			- Fundamental Elements
+				- ***Factors to consider***
+				  ![](https://www.projecttimes.com/wp-content/uploads/PMBOK3.png){:height 380, :width 836}
+			- Value Delivery Processes
+		- Project Management Principles: A Principle is “***A statement, truth or rule that guides and leads our thoughts and actions***“. Principles guide the actions, but do not detail how to do things, and are not strict.
+			- Stewardship
+			- Team
+			- Stakeholders
+			- Value
+			- System Thinking
+			- Leadership
+			- Tailoring
+			- Quality
+			- Complexity
+			- Risk
+			- Adaptability and Resilience
+			- Change
+	- The Guide To Project Management Body of Knowledge
+		- Performance domains
+			- **Team**: Develop high-performance teams.
+			- **Stakeholders**: Build good relationships with Stakeholders.
+			- **Life Cycle**: Develop appropriate phases and approaches for the project.
+			- **Planning**: Carry out adequate planning at each precise moment.
+			- **Navigating between uncertainty and ambiguity**: Analyze the project environment to anticipate risks and seize opportunities.
+			- **Delivery**: Proportionate value.
+			- **Performance Measure**: Track to ensure results are achieved.
+			- **Project work**: Guarantee the activities to facilitate the team the delivery of results.
+		- Tailoring
+			- approaches: **predictive, agile, hybrid, or cascading**
+			- ***Tailoring Process***
+			  ![](https://www.projecttimes.com/wp-content/uploads/PMBOK6.png){:height 535, :width 829}
+		- Models, Methods, and Artifacts
+			- **Initiate:** defines and authorizes the project or a phase.
+			- **Planning:** clarifies and refines the objectives, planning the necessary actions to carry them out.
+			- **Execute:** Integrates people and other resources to produce the deliverables and performance information of the project.
+			- **Monitoring and controlling:** measures and monitors the progress of the project in order to identify possible variations and discrepancies with respect to the original plan and correct them when necessary.
+			- **Close:** completes all activities of all groups of project management processes to formally complete the project (or a phase) and formalize the acceptance of the product, service, or result.

@@ -1,0 +1,31 @@
+- security best practices: https://www.kiteworks.com/secure-file-transfer/sftp-security/
+	- Disable FTP
+	- Use the strongest encryption
+	- Use file and folder security for external access
+	- Use folder security for internal access
+	- Include documentation and auditing
+	- Use IP blacklisting and whitelisting
+	- Provide logging integration with your SIEM
+	- Require certificate-based authentication for external users
+	- Harden your SFTP server
+	- Protect the SFTP server behind your corporate firewall
+- Harden SFTP
+	- 1. Disable plain FTP
+	- 2. Enable password compliance policies
+	- 3. Detect and respond to brute force attacks
+	- 4. Disable weak encryption ciphers
+	- 5. Scan incoming files for viruses
+	- 6. Inspect outgoing content using DLP
+	- 7. Encrypt data-at-rest
+	- 8. Enforce IP access rules
+	- 9. Enable Multi-Factor Authentication
+	- 10. Restrict file types
+	- 11. Manage and monitor your logs
+	- 12. Stay up-to-date
+- SFTP vs SMB
+- SFTP options
+	- winscp
+	- rclone
+	- rsync: rolling hash
+	- sftp
+	- scp

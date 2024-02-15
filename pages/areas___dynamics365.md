@@ -1,0 +1,22 @@
+- graphql https://www.sergevandenoever.nl/powerapp_portals_the_graphql_story/
+- ConditionOperator: https://learn.microsoft.com/en-us/power-apps/developer/data-platform/webapi/reference/conditionoperator?view=dataverse-latest
+- Activity tables
+- inheritance; custom view combining multiple entity types
+	- https://community.dynamics.com/crm/f/microsoft-dynamics-crm-forum/240861/multiple-entities-in-same-view
+- legal designation of a message: By default, all new messages that you create will be commercial messages. can be changed to **Transactional**
+- TODO **Extensibility Model**
+- Entity relationship behavior
+- FLS VISITOUR: FLS is a leading European developer of real-time field force and logistics scheduling solutions. The FLS VISITOUR solution for Dynamics 365 (D365) extends beyond the limitations of Microsoft Resource Scheduling Optimization (RSO); for high volumes of work or field resources, dynamic in-day response, and/or complex requirements.
+- filtered view: access CRM data in SQL. restrict the data to what is available to the security role of the person running the view
+- SQL Server Reporting Services (SRS): SRS is a separate application that you can install on a different server than SQL Server or the Microsoft Dynamics CRM Server if desired. Microsoft Dynamics CRM then connects to SRS by using the Reporting Services URL, as specified during installation.
+- Internet Facing Deployment (IFD)
+- `Dynamics 365 Report Authoring Extension` is required to author custom Fetch-based reports for Dynamics 365 for Customer Engagement by using SQL Server Data Tools.
+- Lookup, Option Set and MultiSelect
+- Universal Resource Scheduling (URS)
+- migration assessment https://learn.microsoft.com/en-us/dynamics365/get-started/migration/standard-migration-assessment
+- CICID, zero-down time
+- [How to show/hide Section or Tab in model-driven apps using business rules?](https://powerusers.microsoft.com/t5/Building-Power-Apps/How-to-show-hide-Section-or-Tab-in-model-driven-apps-using/m-p/629446#M199521)
+- workaround: 2 mins constraints: for sync and async
+	- https://dynamics-chronicles.com/article/dynamics-365-2-minutes-plugin-time-out-workaround
+	- https://www.linkedin.com/pulse/how-overcome-dynamics-crm-online-plugins-limitations-osama-zarour/
+- [Dataverse Service Client vs CRM Service Client SDk](https://powerapps.microsoft.com/en-us/blog/dataverse-service-client-is-now-generally-available/)

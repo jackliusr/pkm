@@ -1,0 +1,23 @@
+- [Nmstate](https://nmstate.io/) is a library with an accompanying command line tool that manages host networking settings in a declarative manner. The networking state is described by a pre-defined schema. Reporting of current state and changes to it (desired state) both conform to the schema.
+- Nmstate is aimed to satisfy enterprise needs to manage host networking through a northbound declarative API and multi provider support on the southbound. NetworkManager acts as the main (and currently the only) provider supported.
+- features:
+	- [Ethernet](https://nmstate.io/examples.html#interfaces-ethernet)
+	- [Bond](https://nmstate.io/examples.html#interfaces-bond)
+	- [Vlan](https://nmstate.io/examples.html#interfaces-vlan)
+	- [Vxlan](https://nmstate.io/examples.html#interfaces-vxlan)
+	- [Linux Bridge](https://nmstate.io/examples.html#interface-linux-bridge)
+	- [OpenvSwitch Bridge](https://nmstate.io/examples.html#interfaces-ovs-bridge)
+	- [Dummy](https://nmstate.io/examples.html#interfaces-dummy)
+	- [Veth](https://nmstate.io/features/veth.html)
+	- [Static IP Addresses](https://nmstate.io/examples.html#interfaces-ethernet)
+	- [IP Route](https://nmstate.io/examples.html#route)
+	- [DNS Client Configuration](https://nmstate.io/examples.html#dns)
+	- [LLDP](https://nmstate.io/features/lldp.html)
+	- [Open vSwitch Patch Port](https://nmstate.io/features/ovs_patch.html)
+	- [Open vSwitch database plugin](https://nmstate.io/features/ovsdb.html)
+	- [Generate Network Configuration](https://nmstate.io/features/gen_conf.html)
+	- [MultiPath TCP](https://nmstate.io/features/mptcp.html)
+	- [Conditional compiling](https://nmstate.io/features/conditional_compile.html)
+	- [Refer SR-IOV VF via PF name and VF ID](https://nmstate.io/features/iface_vf_id.html)
+	- [Refer Interface using MAC Address](https://nmstate.io/features/mac_identifier.html)
+	- [IPsec](https://nmstate.io/features/ipsec.html)

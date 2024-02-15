@@ -1,0 +1,1 @@
+- [2019 Designing for failure: Architecting resilient systems on AWS](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Designing_for_failure_Architecting_resilient_systems_on_AWS_ARC335-R1.pdf)

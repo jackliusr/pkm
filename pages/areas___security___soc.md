@@ -1,0 +1,17 @@
+- SOC stands for Security Operations Center. It is a central location within an organization responsible for monitoring, detecting, analyzing, and responding to cybersecurity threats and incidents.
+- Processes
+	- Identification of Potential Security Threats
+	- Prevention of Security Threats
+	- Detection of Security Threats: EDR
+	- Response to Security Threats
+	- Recovery From Security Threats
+- Operations: the processes, tasks, and activities the security operations team carries out to ensure that the organization’s assets, data, and systems are secure.
+- SOC Tools and Technologies:
+	- Security Information and Event Management (SIEM)
+	- Intrusion Detection System (IDS)
+	- Threat Intelligence Platforms (TIPs)
+	- Vulnerability Scanning and Management Tools
+	- Endpoint Detection and Response (EDR)
+	- Data Loss Prevention (DLP)
+	- Security Orchestration, Automation, and Response (SOAR)
+- Best Practices for SOC Processes

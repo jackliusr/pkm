@@ -1,0 +1,4 @@
+- link: https://pubs.opengroup.org/togaf-standard/business-architecture/information-mapping.html
+- a collection of information concepts and their relationships to one another. Information concepts, in effect, reflect the business’ vocabulary; e.g., *client*, *account*, or *product*. Mapping information in Business Architecture starts with listing those elements that matter most to the business as well as how they are described in business terms.
+- The Relationship to Business Capabilities, Value Streams, and Organization Maps
+- Distinguishing between Information Maps and Data Models

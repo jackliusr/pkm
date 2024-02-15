@@ -1,0 +1,2 @@
+- a true knowledge audit will take into account tacit knowledge as well as information (explicit knowledge).
+- ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aL7H9Y75sVVn8-U72xbdQg.png){:height 445, :width 752}

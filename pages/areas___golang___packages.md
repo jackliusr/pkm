@@ -1,0 +1,3 @@
+- automaxprocs: Automatically set `GOMAXPROCS` to match Linux container CPU quota.
+-
+-

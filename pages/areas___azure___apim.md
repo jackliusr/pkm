@@ -1,0 +1,23 @@
+- workset:  cs
+  soap wsdl --> rest
+- external vs internal:  same backend web service URL
+- naming conventions
+- Delegation: Delegation enables your website to own the user data and perform custom validation. With delegation, you can handle developer sign-in/sign-up (and related account management operations) and product subscription using your existing website, instead of the developer portal's built-in functionality.
+- Named values: a global collection of name/value pairs in each API Management instance
+	- Value types: Plain, secret (encrypted by apim), keyvault (identifier of a secret stored in a azure keyvault)
+- Restrict caller IPs
+- terms:
+	- *backend* (or *API backend*): A *backend* (or *API backend*) in API Management is an HTTP service that implements your front-end API and its operations.
+	- product: a bundle of **frontend** APIs that can be made available to a specified group of API consumers for self-service onboarding under a single access credential and a set of usage limits. An API can be part of multiple products
+	- API operations: A frontend API in API Management can define multiple operations. An operation is a combination of an HTTP verb and a URL template uniquely resolvable within the frontend API. Often operations map one-to-one to backend API endpoints.
+	- version vs revision
+	- policy: A policy is a reusable and composable component, implementing some commonly used API-related functionality. API Management offers over 50 built-in policies that take care of critical but undifferentiated horizontal concerns - for example, request transformation, routing, security, protection, caching. The policies can be applied at various scopes, which determine the affected APIs or operations and dynamically configured using policy expressions.
+	- **subscriptions**:  A *subscription* is a named container for a pair of subscription keys.
+	- **Named values**: are a global collection of name/value pairs in each API Management instance. There is no imposed limit on the number of items in the collection. Named values can be used to manage constant string values and secrets across all API configurations and policies.
+	- policy fragments
+	- ==policy expression==: well-formed **C#** expression statement,  **context** variable, subset of .NET framework types
+		- expression  @()
+		- block @{}, must end with a **return** statement
+	- What are the compute platforms for API Management?
+		- st: Single-tenant, v1 vs v2
+		- mt: multi-tenant, v1 vs v2

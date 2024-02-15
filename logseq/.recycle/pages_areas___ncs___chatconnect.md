@@ -1,0 +1,8 @@
+- a software platform to help deliver automation and conversational solutions
+- No code conversation flow designer to set up conversational flows
+- Built-in integration with robotic process automation
+- aka the botbot.ai platform
+- demo:  [https://qa.botbotai.net/chat/app/ntucndca](https://qa.botbotai.net/chat/app/ntucndca)
+- thoughts:
+	- vendor lock-in issue, no tech doc(api docs etc)
+	- in architecture diagram, don't show how to integration with openai and chatgpt

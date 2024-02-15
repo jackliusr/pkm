@@ -1,0 +1,6 @@
+- Cloud Solution Provider (CSP)
+- supports:
+	- unified:
+	- fast track: free
+	- ? VBT/vpt , chargable
+- public IP address (PIP)

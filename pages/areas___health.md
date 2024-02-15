@@ -1,0 +1,2 @@
+- FHIR, HL7
+- [Point-of-Care Device Implementation Guide](https://build.fhir.org/ig/HL7/uv-pocd/mappingsdc.html)

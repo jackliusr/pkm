@@ -1,0 +1,69 @@
+- Terraform Basics Training Course #course
+	- Types of IAC Tools
+		- Configuration Management:
+		  collapsed:: true
+			- properties
+				- Designed to Install and Manage Software
+				- Maintains Standard Structure
+				- Version Control
+				- Idempotent
+			- Tools
+				- ansible
+				- Salt
+				- puppet
+				- chef
+		- Server Templating
+		  collapsed:: true
+			- Properties
+				- Pre Installed Software and Dependencies
+				- Virtual Machine or Docker Images
+				- Immutable Infrastructure
+			- Tools
+				- Docker
+				- vagrant
+				- packer
+		- Provisioning Tools
+		  collapsed:: true
+			- Properties
+				- Deploy Immutable Infrastructure resources
+				- Servers, Databases, Network Components etc.
+				- Multiple Providers
+			- Tools
+				- CloudFormation
+				- Terraform
+	- local provider
+		- resources:
+			- local_file
+			- local_sensitive_file
+	- Meta-Argument:
+	  collapsed:: true
+		- depends_on
+		- count
+		- for_each
+		- provider
+		- lifecycle
+	- provider types:
+		- Official providers: Owned and maintained by HashiCorp
+		- Verified providers: Owned and maintained by third-party technology partners
+		- Partner plugins: Written, maintained, validated, and published by other companies against their own APIs
+		- Community providers: Automatically downloaded and installed by terraform init
+	- basics:
+		- provider, resource block
+		- **order of precedence for variable sources**
+			- Environment variables
+			- The `terraform.tfvars` file, if present.
+			- The `terraform.tfvars.json` file, if present.
+			- Any `*.auto.tfvars` or `*.auto.tfvars.json` files, processed in lexical order of their filenames.
+			- Any `-var` and `-var-file` options on the command line, in the order they are provided. (This includes variables set by a Terraform Cloud workspace.)
+	- object: a collection of named attributes that each have their own type.
+- alternatives
+	- Scalr.com
+	- Env0
+	- Spacelift
+	- Atlantis
+	- Terragrunt
+	- Terrateam
+	- Terramate
+	- Terrakube
+	- Digger
+	- Terraspace

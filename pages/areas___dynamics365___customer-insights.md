@@ -1,0 +1,1 @@
+- Microsoft's customer data platform (CDP) that helps deliver personalized customer experiences. The application provides a holistic view of customers with unmatched time to insight. Gain the most comprehensive view of your customers by unifying customer data with operational and IoT data in real-time. Enrich customer profiles with first and third-party data sources.

@@ -1,0 +1,5 @@
+- Modules: self-contained packages of Terraform configurations that are managed as a group.
+- Policy Libraries: sets of Sentinel policies which can be used to validate the resource changes in a Terraform plan are in compliance with company standards.
+- Providers: a logical abstraction of an upstream API. They are responsible for understanding API interactions and exposing resources.
+- Run Tasks
+-

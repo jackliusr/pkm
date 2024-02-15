@@ -1,0 +1,15 @@
+- Travis CI
+- New Relic
+- PullReview: Automated Code Review for Ruby in GitHub
+- Code Climate: Code Climate’s flagship Software Engineering Intelligence platform, Velocity, empowers leaders at all levels with the critical context and visibility needed to improve everything from efficiency and on-time delivery to code quality and developer retention.
+- Papertrail: Frustration-free log management. Seamlessly manage logs from apps, servers, and cloud services.
+- Gemnasium: best dependency monitoring solution
+- JFrog
+- Jenkins
+	- plugins:
+		- Matrix Authorization Strategy: Implement fine-grained access control in Jenkins with this plugin.
+		- Folders: allows users to create "folders" to organize jobs. Users can define custom taxonomies (e.g. by project type, organization type). Folders are nestable and you can define views within folders.
+- NetBackup
+- LDOM/OVM
+- Veritas Infoscale Cluster
+- MC/Service Guard Cluster

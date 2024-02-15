@@ -1,0 +1,5 @@
+- rebranded as Entra
+- CN = Common Name
+- OU = Organizational Unit
+- DC = Domain Component
+- AU = Administrative units: a Microsoft Entra resource that can be a container for other Microsoft Entra resources. An administrative unit can contain only users, groups, or devices. Administrative units restrict permissions in a role to any portion of your organization that you define

@@ -1,0 +1,7 @@
+- [AWS Certification Path](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+- Terraform
+- Ansible
+- Penetration Testing
+- security certificate
+- CISA (Certified Information Systems Auditor)
+-

@@ -1,0 +1,17 @@
+- Track Button Clicks in Google Analytics 4
+- user journey
+- user behaviour, --journay
+- google Marketing Platform: at least $150,000 per year
+	- analytics
+	- tag manager
+	- integration center
+	- administration
+	- Campaign Manager 360
+	- Display & Video 360
+	- Search Ads 360
+	- Analytics 360
+	- Tag Manager 360
+- Debug Tools
+	- **Tag Assistant Companion**:  especially useful for real-time debug.
+	- Debugger for Google Analytics 4 (GA4)
+	- Google Analytics Debugger

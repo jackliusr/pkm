@@ -1,0 +1,4 @@
+- github vs devops
+- [Azure DevOps Pipelines: Practices for Scaling Templates](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/azure-devops-pipelines-practices-for-scaling-templates/ba-p/3855524#)
+- pipeline
+	- pipeline decorator

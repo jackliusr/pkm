@@ -1,0 +1,20 @@
+- repo: Nexus
+- testing
+	- gating, scala, karate, cucumber, junit
+	- mobile:
+		- integration: **Appium**
+		- unit: flutter_test, mockito
+- security
+	- security scan:
+		- sca: [npm_audit](https://docs.npmjs.com/cli/v9/commands/npm-audit),  [dependency-check](https://github.com/dependency-check), [Checkov](https://www.checkov.io/)
+		- sast: opensecurity/njsscan
+		- image: trivy scan
+		- dast: owasp/zap2docker-weekly
+		- secrets: git-secrets
+		- code quality: Sonarqube
+		- MobSF: where ?
+	- Application Self-Protection:
+		- {{colored-text #ff0000, "Hdiv"}} acquired by datadog on Jun 2022.
+- e-check
+	- stack: next.js, mui, MSAL.js, react
+- strapi: v3.6.6

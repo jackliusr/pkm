@@ -1,0 +1,3 @@
+- Content marketing platforms: **tools and services used by marketers to create, curate, collate and cultivate branded, user-generated and third-party content across multiple channels**.
+- **Co-browsing** will allow agents to get full visibility into the customer’s screen, enabling them to guide customers through product purchases, complex form filling, or confusing information on websites while maintaining privacy and security.
+- ![](https://images.ctfassets.net/ukazlt65o6hl/2cRNDiKsSMLRCbN1CwifvP/d56fb086705bd6ef833147003351fa02/Marketecture-desktop_fixed_2__2_.svg)

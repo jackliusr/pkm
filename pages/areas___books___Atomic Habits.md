@@ -1,0 +1,2 @@
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.opportunitiesforyouth.org/wp-content/uploads/2021/04/Atomic_Habits_by_James_Clear-1.pdf)
+	- https://github.com/MokoSan/AtomicHabits/blob/main/Notes.md

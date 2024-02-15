@@ -1,0 +1,1 @@
+- cmdb, sync data, how to integrate with other systems (raise alert, tickets, incidents)

@@ -1,0 +1,2 @@
+- Application Security Verification Standard (ASVS)
+- Reflected File Download(RFD): a web attack vector that enables attackers to gain complete control over a victims machine by virtually downloading a file from a trusted domain.

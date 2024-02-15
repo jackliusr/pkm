@@ -1,0 +1,14 @@
+- provide an interface between Large Language Models (LLM’s), and your private, external data.
+- https://miro.medium.com/v2/resize:fit:1100/format:webp/1*9NdZM-LEurJdk46lhZc6wg.png
+	- At the core of LlamaIndex, an `Index` manages the state: abstracting away underlying storage, and exposing a view over processed data & associated metadata.
+	- Then, a `Retriever` fetches the most relevant Nodes from an `Index` given a query.
+	- Lastly, a `QueryEngine` synthesizes a response given the query and retrieved Nodes.
+- Low-level composition API
+	- ![](https://miro.medium.com/v2/resize:fit:1050/1*s0k3cgpRrWlwRMXjVwXz-Q.png){:height 291, :width 605}
+	- **Index**: maintain the **state** of processes documents (i.e. Nodes). It can also be understood as a view of a collection of data, along with useful metadata that facilitates retrieval and response synthesis.
+	- **Retriever**: maintains the logic for fetching relevant Nodes from an Index. It is often defined for a specific index.
+	- **Response synthesizer**: manages the **compute** for generating a final response given retrieved Nodes. Its core component is the response builder, but can be optionally augmented by additional components e.g. node post processors and token optimizers to further improve retrieval relevancy and reduce token cost.
+	- **Query engine**: ties everything together and exposes a clean query interface. It can optionally be augmented with query transformations and multi-step reasoning to further improve query performance.
+- storage architecture
+- ![](https://miro.medium.com/v2/resize:fit:893/1*EMEv7uX0xUujsZF65xcNhA.png){:height 337, :width 429}
+-

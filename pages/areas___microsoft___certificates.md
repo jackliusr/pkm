@@ -1,0 +1,8 @@
+- https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- Power-platform
+	- PL-100 - Your job is not Power Platform. Maybe you’re an accountant, maybe you work on the shop floor. You are an expert in what you do but you want to solve problems with Power Apps. This is a good way to show IT that you can be trusted to make apps in ”their” environments, or maybe even transition to a role of making Power Apps.
+	- [PL-200](https://powerwiki.net/wiki/PL-200)/[MB-200](https://powerwiki.net/index.php?title=MB-200&action=edit&redlink=1) - You **make** Power Apps with low code or no code. This is your explicit job.
+	- [PL-400](https://powerwiki.net/wiki/PL-400)/[MB-400](https://powerwiki.net/index.php?title=MB-400&action=edit&redlink=1) - You **extend** Power Apps with code. You will do this better if you also understand what’s needed from PL-200/MB-200 above. This is your explicit job.
+	- [PL-500](https://powerwiki.net/wiki/PL-500) - You are a pro developer with interest in automation and RPA
+	- [PL-600](https://powerwiki.net/wiki/PL-600)/[MB-600](https://powerwiki.net/index.php?title=MB-600&action=edit&redlink=1) - An advanced certification for **architecting** Power Platform solutions. You need to know a bit of everything and be able to apply it to solve real problems. This is your explicit job.
+	- [PL-900](https://powerwiki.net/wiki/PL-900) - Your job might be Power Platform, but the non-technical side. It’s important for you to understand abstract ideas about what the platform can and should do.

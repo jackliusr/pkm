@@ -1,0 +1,7 @@
+- URL redirect
+	- type:  sets the response status code for the clients to understand the purpose of the redirect.
+		- 301 (Moved permanently):
+		- 302 (Found)
+		- 307 (Temporary redirect)
+		- 308 (Permanent redirect)
+- [Redirect APEX domain to www using Azure Front Door](https://www.azure365pro.com/redirect-apex-domain-to-www-using-azure-front-door/)

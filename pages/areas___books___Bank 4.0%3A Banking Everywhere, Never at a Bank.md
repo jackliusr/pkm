@@ -1,0 +1,4 @@
+- bank 3:  in Omni-channel, QR-Code, KYC and/or Big-data is the foundation technology layer
+- bank 4:
+	- be instant, smart and ubiquitous, and all stakeholders will have to be agile to adapt faster than ever before just to survive. one where either your bank is embedded in your world via tech
+	- includes AI, Blockchain and futuristic payment systems.

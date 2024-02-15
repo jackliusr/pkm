@@ -1,0 +1,4 @@
+- [Bank Payment Gateway](https://sntuc.sharepoint.com/:b:/r/sites/itd/ItdOnly/ITD/04%20Projects-APPS/Closed%20Projects/Payment%20Gateway/OCBC/OCBC%20BPG_DEVELOPER_GUIDE%20V2%208.pdf?csf=1&web=1&e=iOe1De)
+- [FND NTUC-CR-00000106](https://sntuc.sharepoint.com/:f:/r/sites/itd/ItdOnly/IT%20Project/Archive%20Old%20Project/SAP%20FND,%20Payroll%20and%20HRD/4.%20CRs%20%26%20Approval%20Paper/Change%20Requests%20(Invoices%20%26%20POs)/FND%20NTUC-CR-00000106?csf=1&web=1&e=puzk2o)
+- OCBC Velocity:  NTUC FIN use this for GIRO, GFX encrytion
+-

@@ -1,0 +1,16 @@
+- link: https://learn.microsoft.com/en-us/dynamics365/fasttrack/
+- FastTrack for Dynamics 365
+	- success by design
+- Get started with Success by Design for Dynamics 365
+- Create a `solution blueprint` for Dynamics 365 solutions
+- Plan a `testing strategy` for your Dynamics 365 solution
+- Design data models for Dynamics 365 solutions
+- Business intelligence and analytics design for Dynamics 365 solutions
+- `Gap solution design` for Dynamics 365 solutions
+- Create a `data migration strategy` for Dynamics 365 solutions
+- Review the `security model` for your Dynamics 365 solutions
+- `Integration design` for Dynamics 365 solutions
+- `Dual-write implementation` for Dynamics 365 solutions
+- Implement a `performance strategy` for Dynamics 365 solutions
+- `Cutover strategy` for Dynamics 365 solutions
+- `Post go-live strategy` for Dynamics 365 solutions

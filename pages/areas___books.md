@@ -1,0 +1,20 @@
+- [The Data Model Resource Book](https://www.amazon.com/Data-Model-Resource-Book-Vol/dp/0471380237)
+- [analysis pattern](https://martinfowler.com/books/ap.html)
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.sg/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=asc_df_1455586692/?tag=googleshoppin-22&linkCode=df0&hvadid=406384431252&hvpos=&hvnetw=g&hvrand=5843189672092232421&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062530&hvtargid=pla-421604508630&psc=1)
+- [Shape Up  v 1.8, 2019 edition](https://basecamp.com/shapeup)
+- ArchiMate Cookbook
+- https://archimatetool.gitbook.io/archimate_learn_by_example/
+- **API design interviews**
+- The McKinsey Way: Using the Techniques of the World's Top Strategic Consultants to Help You and Your Business
+- [REMOTE **Office not required**](https://basecamp.com/books/remote)
+- First, Break All the Rules: What the World's Greatest Managers Do Differently
+- Communication
+	- speaking into the air
+	- body languages
+		- How to Analyze People on Sight
+		- What Every Body is Saying
+		- The Definitive Book of Body Language
+		- The Power of Body Language
+		- Principles of Kinesic Interview & Interrogation
+		- How to Read a Person Like a Book
+		- Body Language Of The Hands Mean (Hand Gesture)

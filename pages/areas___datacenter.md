@@ -1,0 +1,4 @@
+- Performance Optimized Datacenter: a modular and scalable unit that provides the infrastructure to house and manage data center operations. . Most commonly these PODs are modular data center solutions associated with a single-aisle, multi-rack enclosure that has built-in hot- or cold-aisle containment.
+- Cisco Application Centric Infrastructure (ACI): a software-defined networking (SDN) solution for data centers. ACI allows network infrastructure to be defined based on network policies, which simplifies, optimizes, and speeds up the application deployment lifecycle
+- Inter-Pod Network (IPN): An IPN, or Inter-Pod Network, is ==a Layer 3 interpod network that connects multiple Cisco Application Policy Infrastructure Controller (APIC) pods==. The IPN is used to interconnect all pods within a topology from a data-plane standpoint
+- Policy-Based Redirect (PBR).

@@ -1,0 +1,3 @@
+- Device registration management
+	- Registrations method: an older way of registering devices with AZN. This process links Platform Notification Service (PNS) handle for a device with tags and templates. Then the tags are used to route the notifications to correct set of device handles.
+	- **Installations method**

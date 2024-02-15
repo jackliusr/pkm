@@ -1,0 +1,17 @@
+- messytables: Tabular data as published on the web is often not well formatted and structured. Messytables tries to detect and fix errors in the data
+- csvkit: a suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
+	- [in2csv](https://csvkit.readthedocs.io/en/latest/scripts/in2csv.html)
+	- [sql2csv](https://csvkit.readthedocs.io/en/latest/scripts/sql2csv.html)
+	- [csvclean](https://csvkit.readthedocs.io/en/latest/scripts/csvclean.html)
+	- [csvcut](https://csvkit.readthedocs.io/en/latest/scripts/csvcut.html)
+	- [csvgrep](https://csvkit.readthedocs.io/en/latest/scripts/csvgrep.html)
+	- [csvjoin](https://csvkit.readthedocs.io/en/latest/scripts/csvjoin.html)
+	- [csvsort](https://csvkit.readthedocs.io/en/latest/scripts/csvsort.html)
+	- [csvstack](https://csvkit.readthedocs.io/en/latest/scripts/csvstack.html)
+	- [csvformat](https://csvkit.readthedocs.io/en/latest/scripts/csvformat.html)
+	- [csvjson](https://csvkit.readthedocs.io/en/latest/scripts/csvjson.html)
+	- [csvlook](https://csvkit.readthedocs.io/en/latest/scripts/csvlook.html)
+	- [csvpy](https://csvkit.readthedocs.io/en/latest/scripts/csvpy.html)
+	- [csvsql](https://csvkit.readthedocs.io/en/latest/scripts/csvsql.html)
+	- [csvstat](https://csvkit.readthedocs.io/en/latest/scripts/csvstat.html)
+- csv-diff

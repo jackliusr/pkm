@@ -1,0 +1,1 @@
+- CMDB/asset repository, aws config, ISTM integration

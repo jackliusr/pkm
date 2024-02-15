@@ -1,0 +1,4 @@
+- [customer journey map example](https://lucid.app/lucidchart/82d4c3ff-89fc-42fe-a441-b30ea02fe8ac/edit?rtempr=1&invitationId=inv_31b8831a-c175-4a3d-a608-b7885ecaef2c&page=0_0#)
+- [User Journeys vs. User Flows](https://www.nngroup.com/articles/user-journeys-vs-user-flows/)
+	- A user journey (or customer journey) is a scenario-based sequence of the steps that a user takes in order to accomplish a high-level goal with a company or product, usually across channels and over time.
+	- A user flow is a set of interactions that describe the typical or ideal set of steps needed to accomplish a common task performed with a product.

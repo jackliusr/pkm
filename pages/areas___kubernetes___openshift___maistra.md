@@ -1,0 +1,1 @@
+- an opinionated distribution of Istio designed to work with Openshift. It combines Kiali, Jaeger, and Prometheus into a platform managed according to the **OperatorHub** lifecycle.

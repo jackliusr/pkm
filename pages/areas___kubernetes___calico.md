@@ -1,0 +1,1 @@
+- https://docs.tigera.io/calico/3.24/getting-started/kubernetes/requirements#kubernetes-requirements

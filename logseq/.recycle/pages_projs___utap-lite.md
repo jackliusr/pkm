@@ -1,0 +1,48 @@
+- PM:  Chow Ying Yi
+- users: e2i admin, finance user, social ?
+- systems: UTAP, YD, FINIX, SMTP, Batch job
+- [BQ CR2022-037D-NTUC Starter Membership in UTAP Replatform Litev1.4.2.docx](https://sntuc.sharepoint.com/:w:/r/sites/TODataandTechnology/Shared%20Documents/YD%20NTUC%20Starter%20App/CVP/UTAP-Lite/BQ%20CR2022-037D-NTUC%20Starter%20Membership%20in%20UTAP%20Replatform%20Litev1.4.2.docx?d=w403d0906088146019eb12076a8bf9cb9&csf=1&web=1&e=a1Wpqm)
+- [CR2022-037D-UTAP LITE for Starter Membership_v1.0.docx](https://sntuc.sharepoint.com/sites/TODataandTechnology/Shared%20Documents/YD%20NTUC%20Starter%20App/Technical/UTAP/API%20Specs/CR2022-037D-UTAP%20LITE%20for%20Starter%20Membership_v1.0.docx?web=1)
+- [CR2022-037D-UTAP LITE for Starter Membership_Backend_v1.3.docx](https://sntuc.sharepoint.com/:w:/r/sites/TODataandTechnology/Shared%20Documents/YD%20NTUC%20Starter%20App/Technical/UTAP/API%20Specs/CR2022-037D-UTAP%20LITE%20for%20Starter%20Membership_Backend_v1.3.docx?d=wc91fa7b7c5b845b280153bacb4154f25&csf=1&web=1&e=iKZeyT)
+- support ==YD starter membership to submit UTAP claim==
+	- database: a new column to indicate "==Starter Member==" or "Union Member" in claim db
+	- doubts: L1, L2 and L3 Audit; delivery in UTAP-replatform?
+	- changes on UTAP:
+		- change
+			- Eligibility check: indicate SM/Union member;  dual member check, balance and return member type
+			- Funding Criteria fn for SM: <= 200 per yr; configurable in Funding Rules
+			- UTAP Application page
+			- audit rule: include UTAP-lite claims
+			- claim application:
+				- statues:
+					- Complete: uploaded required files
+					- Incomplete: without uploaded required files.
+			- batch jobs:
+				- UtapApplicationStatus
+				- UtapClaimApproval
+			- Application Management
+			- Include UTAP-Lite claims in L1, L2 and L3 Audit function.
+			- search application, search member, funding adjustment & refund, appeals in admin module
+			- Generate Online Claim Report for finance user
+			- FINIX integration ( file, change on an existing column  to indicate SM/union membership
+			- email notification
+			- other reports:
+		- new
+			- UTAP claim submission API
+			- UTAP svc API to upload files for external systems:
+				- PDF & image file
+				- <= 5MB per file
+				- 3 files per API calls
+			- new API retrieve the list of Training Provider configured in UTAP
+			- new API retrieve the list of active courses that associated to a Training Provider
+			- API to retrieve UTAP claims (just for UTAP Lite Or )
+- blacklist process
+	- eligibility criterion : UTAP system process, during claim submission & UTAP eligibility check
+	- e2i admin: list blacklists(screen) and upload the blacklists (NRIC in excel). For uploading, wipe out old data and add new ones.
+		- concerns: file size?
+- YD Assumptions:
+	- 2)  YD will provide the necessary APIs for UTAP system to retrieve/update ==SM== records. This BQ do not cover any cost required by YD to create those necessary APIs.
+	- 3)  It is expected YD’s App (or APIs) will be ready by SIT period of this UTAP enhancement.
+	- 4)  It is expected YD’s App will be ready for UAT and Prod release together with UTAP re-platform (based on UTAP re-platform schedule).
+- TODO NTUC TO: Initiate the planning for the transition of existing TP users to the OKTA authentication method. Collaborate with E2I to develop a change management plan for the migration.
+- TODO NTUC TO: Review and sign off on the Technical Requirements document of the CR Paper. Also, to organize a walkthrough session for the CR Paper (Business Logic) with business users. (Target: 6 Oct)

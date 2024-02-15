@@ -1,0 +1,8 @@
+- Clean Numbers
+	- - The Numerator can be larger than 1, as shown with 75 = ¾ ⋅ 100.
+	- The Numerator can be larger than the Denominator, as shown with 150.
+	- The Integer exponent of 10 can be positive or negative**,** as shown with 0.05—which has a negative exponent of 10.
+	- You can represent percentages as a Clean Fraction, as shown with 2.5%.
+	- 33% and 67% are approximately equal to ⅓ and ⅔, respectively (the symbol “≈” means “approximately equal to.” These fractions are actually repeating decimals, but, in case interviews, you can often round these percentage values to these **Clean Fractions**.
+- **Casebooks**
+- MBB: **M**cKinsey & Company, **B**oston Consulting Group (BCG) and [**B**ain & Company]

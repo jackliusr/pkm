@@ -1,0 +1,1 @@
+- **NRC stands for a Non-recurring charge, which is basically a one-time charge.** **MRC stands for a Monthly recurring charge**.

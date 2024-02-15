@@ -1,0 +1,6 @@
+- Managed Cloud with Containers (MCC)
+- Sitecore Experience Accelerator (SXA)
+- Email Experience Manager (EXM)
+- Sitecore Installation Framework (SIF): The Sitecore Install Framework (SIF) enables users to deploy and configure a Sitecore environment using a standard configuration design that can be extended through custom PowerShell functions.
+- SaaS DXP ![image.png](../assets/image_1704878149956_0.png)
+- [A Quick Guide on Setting up Branded Microsites in Sitecore](https://community.sitecore.com/community?id=community_user_profile&user=59b2e36d1b8370d0b8954371b24bcb28)

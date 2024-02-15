@@ -1,0 +1,2 @@
+- link: https://preprod-media.nedigital.sg/pay/docs/payment-service/index.html
+- APIs: authentication, payment, card

@@ -1,0 +1,6 @@
+- ![TSG-full](https://biz-architect.com/wp-content/uploads/2017/05/Diagram-2-2017-05-27.png){:height 375, :width 601}
+- differences between BIZBOK and TAGAF:
+	- BIZBOK® has the concepts of Value Streams and Value Stages, which are mapped to their enabling business capabilities, allowing to easily understand which capabilities provide the most value and which ones do not; while TOGAF® decomposes capabilities into detailed processes instead,
+	- BIZBOK® maps information using Information Concepts linking it to various other maps, as where TOGAF® relates them to Data Entities that are part of Business Data models and business services/information diagrams,
+	- TOGAF® does not map Initiatives, Products & Services, Strategies and Policies. BIZBOK® does.
+	- TOGAF® relates to business transformation preparation in general, and does not go as deep as BIZBOK® with shifts to a customer-centric approach, merger and acquisition analyses, new product/service rollout, globalization, business capability outsourcing, supply chain streamlining, divestiture, regulatory compliance, etc.

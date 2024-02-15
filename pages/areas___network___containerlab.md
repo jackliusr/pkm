@@ -1,0 +1,1 @@
+- [Containerlab](https://containerlab.dev/) provides a CLI for orchestrating and managing container-based networking labs. It starts the containers, builds a virtual wiring between them to create lab topologies of users choice and manages labs lifecycle.

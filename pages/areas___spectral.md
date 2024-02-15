@@ -1,0 +1,13 @@
+- **Rules**
+- **Functions**
+- **Rulesets**
+- openapi,
+- AsyncAPI
+- api style guide
+- apistylebook
+- workflows:
+	- cli
+	- Spectral in [Stoplight Studio](https://stoplight.io/studio/?utm_source=github&utm_medium=spectral&utm_campaign=docs) or [VS Code](https://github.com/stoplightio/vscode-spectral?utm_source=github&utm_medium=spectral&utm_campaign=docs)
+	- git hooks
+	- ci
+-

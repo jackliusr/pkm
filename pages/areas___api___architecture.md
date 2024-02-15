@@ -1,0 +1,1 @@
+- key components: api gateway, service layer, endpoint, security(authn & authz), rate limiting and throtting, api versioning, doc, client layer (lab), data layer (data model), analytics and monitering

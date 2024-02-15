@@ -1,0 +1,1 @@
+- ENCOR labs: practice labs that test Cisco IOS configuration skills. They include over two dozen labs that test skills in topics such as

@@ -1,0 +1,1 @@
+- Error: Can't open display: 0 https://superuser.com/a/1637767/315949

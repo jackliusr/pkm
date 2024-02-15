@@ -1,0 +1,6 @@
+- 109 福建
+- 鱼汤 raffle plazas basement.
+- https://tong-ah-eating-house.business.site/
+- http://www.mingchung.com.sg/
+- known as 108 eating house, Good Old Taste first started in 1997, where it opened at The Arcade at Raffles Place. Mainly offering Pig Trotter Bee Hoon and Chicken RIce, their authentic traditional recipes used were a hit among customers https://singaporefoodie.com/good-old-taste-at-raffles-place/ https://singaporefoodie.com/wp-content/uploads/2021/10/goodoldtastesg.jpg
+-

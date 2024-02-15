@@ -1,0 +1,2 @@
+- vs code integration in windows
+	- must activate an Anaconda environment in VS Code, or another Python environment in which you've installed the [Jupyter package](https://pypi.org/project/jupyter/).

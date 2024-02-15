@@ -1,0 +1,51 @@
+- https://github.com/masteringapi
+- Intro: case study: [[areas/books/master_api_architecture/conference_system]]
+- Part 1: designing, building and testing API
+  collapsed:: true
+	- chapter 1: design, build and specify
+		- pratical applications of openapi specification
+			- code generation
+			- openapi validation
+			- example and mocking
+			- detecting changes
+		- api versioning: sematic versioning
+		- multiple specification, multiple format
+		- grpc-gateway
+	- chapter 2: testing apis
+		- testing strategies
+		- agile test quardrant 
+		  ![](https://testsigma.com/blog/wp-content/uploads/67997939.png){:height 615, :width 699}
+		- contract testing: two parties, consumer and producer
+			- [Schema-based contract testing with JSON schemas and Open API](https://pactflow.io/blog/contract-testing-using-json-schemas-and-open-api-part-1/)
+			- scenario testing
+			- component testing
+			- consume driven contracts
+			- pack, spring cloud contact
+		- api component testing?: not well defined term
+		- api integration testing: stub server
+			- testcontainer
+			- case study: apply testcontainers to verify integration
+		- e2e testing: bdd
+		- WireMock
+- Part 2: traffic management
+	- chapter 3: api gateways: ingress traffic management
+		- api lifecycle management
+		- apim
+		- common api gateway implementation pitfalls
+			- api gateway loopback: issues
+			- api gateway as esb
+			- turtle (api gateway) all the ways down
+	- chapter 4: service mesh:
+		- evolution: shared library, sidecar proxy, kernel
+		- proxyless gRPC
+- part 3: api operations and security
+	- chapter 5: deploying and releasing
+		- case study: feature flag
+		- release strategy: canary, blue-green
+		- application level header propagation
+	- chapter 6: operational security: threat modeling for APIs
+	- chapter 7: authn and authz: api-keys
+- part 4: evolutionary architecture with api
+	- chapter 8: redesign applications to api-driven architectures
+		- [type of cohension](https://en.wikipedia.org/wiki/Cohesion_(computer_science)#Types_of_cohesion):
+	- chapter 9: using api infrastructure to evolve toward cloud platforms

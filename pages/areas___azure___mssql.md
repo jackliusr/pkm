@@ -1,0 +1,5 @@
+- Always Encrypted:
+	- Always Encrypted allows clients to encrypt sensitive data inside client applications and never reveal the encryption keys to the Database Engine
+	- Always Encrypted allows clients to encrypt sensitive data inside client applications and never reveal the encryption keys to the Database Engine
+	- can be configured to support limited confidential queries on encrypted data, the queries that involve equality comparisons
+	- Always Encrypted makes encryption transparent to applications. An Always Encrypted-enabled driver installed on the client computer achieves this by automatically encrypting and decrypting sensitive data in the client application.

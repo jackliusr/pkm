@@ -1,0 +1,7 @@
+- dns servers
+	- cloudflare 1.1.1.1
+	- google: 8.8.8.8
+- dnsmadeeasy
+- pacnet
+- https://www.sgnic.sg/ to find Registrar for .sg domains. whois
+- [Kea DHCP](https://www.isc.org/kea/)

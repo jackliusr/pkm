@@ -1,0 +1,33 @@
+- pg_ctl -D ^"C^:^\pgsql^_data^" -l logfile start
+- fdw
+	- log_fdw: access your database engine log using a SQL interface
+	- oracle_fdw
+	- mysql_fdw
+	- tds_fdw: mssql, sybase ( hard to find windows build of tds_fdw)
+	- jdbc_fdw
+	- odbc_fdw
+- load balancer/pool:
+	- pgbouncer
+	- Pgpool-II
+	- [PgCat](https://github.com/postgresml/pgcat): PostgreSQL pooler with sharding, load balancing and failover support.
+	- Odyssey: Scalable PostgreSQL connection pooler
+- tools:
+	- logminer: [XLogMiner](https://github.com/HighgoSoftware/XLogMiner)
+	- pgmetrics: Collect and display information and stats from a running PostgreSQL server
+	- pgDash: a comprehensive diagnostic and monitoring solution designed to help you ensure the ongoing health and performance of your PostgreSQL deployment.
+- backup & restore
+- stream replication ( physical & logical)
+- logical decoding on a standby instance
+- replication slots
+	- streaming
+	- A replication slot has an identifier that is unique across all databases in a PostgreSQL cluster. Slots persist independently of the connection using them and are crash-safe.
+- Replication origins: name and id
+	- table: [`pg_replication_origin`](https://www.postgresql.org/docs/devel/catalog-pg-replication-origin.html)
+	- func:
+		- [`pg_replication_origin_create()`](https://www.postgresql.org/docs/devel/functions-admin.html#PG-REPLICATION-ORIGIN-CREATE)
+		- [`pg_replication_origin_drop()`](https://www.postgresql.org/docs/devel/functions-admin.html#PG-REPLICATION-ORIGIN-DROP)
+- Distributed PostgreSQL
+	- Azure Cosmos DB, CockroachDB, YugabyteDB
+	- factor: performance, resilience, global consistency, elasticity, auto-splitting/rebalancing?
+- storage engines
+	- OrioleDB a new storage engine for PostgreSQL, bringing a modern approach to database capacity, capabilities and performance to the world's most-loved database platform. OrioleDB consists of an extension, building on the innovative table access method framework and other standard Postgres extension interfaces. By extending and enhancing the current table access methods, OrioleDB opens the door to a future of more powerful storage models that are optimized for cloud and modern hardware architectures.

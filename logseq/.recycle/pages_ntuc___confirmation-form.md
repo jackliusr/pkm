@@ -1,0 +1,50 @@
+- Competencies
+- NTUC is the voice of the working people. We care deeply about the workers we serve and seek to better their lives in meaningful and sustainable ways. Wherever we are and whichever function we serve, our actions are guided by core values and passion.
+- DO GOOD Behaviour Statements
+	- Got Cause
+	- NTUC staff are committed to the Labour Movement – We seek feedback and make decisions that consider long term objectives.
+		- 1. Demonstrates commitment to the Labour Movement by striving to contribute beyond own goals/ work plans.
+		- 2. Aligns own work to ensure long term positive impact on Singapore’s working people.
+		- 3. Is close to the ground – seeks and acts on feedback.
+		- 4. Makes or supports and explains hard or unpopular decisions that are beneficial in the long term.
+	- Got Character
+	  NTUC staff demonstrate trustworthiness - We deliver on commitments and lead by personal example.
+		- 1. Builds trust through honest communication.
+		- 2. Is objective in making decisions that benefit the Labour Movement.
+		- 3. Walks the talk – is consistent in words and actions.
+		- 4. Builds credibility by delivering on commitments.
+	- Got Heart
+	- NTUC staff have a heart to serve – We are caring, and demonstrate passion in all we do.
+		- 1. Cares about others – considers the impact of own actions on stakeholders.
+		- 2. Willingly goes the extra mile to serve stakeholders.
+		- 3. Shares own opinion with courage and conviction.
+		- 4. Does not give up easily, perseveres to achieve results.
+- ### DO TOGETHER
+- We collaborate within NTUC and with stakeholders to leverage on all possible resources, achieving synergy to realise NTUC's mission and vision.
+- DO TOGETHER Behaviour Statements
+	- Team Leadership
+	- NTUC leaders develop staff and build effective teams.
+		- 1. Recognises each person’s strengths, development needs, assigns work and creates opportunities to maximise their talent.
+		- 2. Gives people timely and honest feedback and discusses issues openly to encourage learning and development.
+		- 3. Motivates teams around common goals by communicating clear directions and individual responsibilities.
+		- 4. Helps team leverage on the work of other departments by actively sharing information on activities, work plans and goals of other departments.
+		- 5. Recognises and highlights team achievements.
+	- Team Mindset
+	- NTUC staff align their efforts to NTUC objectives. We collaborate across boundaries to best serve the working people.
+		- 1. Sets a clear direction (aligned with organisation goals) for own team and ensures clarity and focus for each team member.
+		- 2. Continuously evaluates and adjusts own team’s work priorities to ensure alignment to organisation’s interests.
+		- 3. Understands the unique culture and relationships within other organisations and leverages this to build mutually beneficial relationships.
+	- Team Skills
+	- NTUC staff build strong interpersonal relationships. We influence others positively.
+		- 1. Recognises and prevents potential conflicts by exercising diplomacy and tact.
+		- 2. Adopts an open and consultative approach with stakeholders to gain commitment to department and organisation goals.
+		- 3. Orchestrates situations (e.g. the setting, persons present, sequence of events) to create a desired impact and to maximise the chances of a favourable outcome.
+- DO WELL
+- We continuously strive to achieve excellence in all that we do and constantly look for improvements to make the lives of the people we serve better and more meaningful.
+- DO WELL Behaviour Statements
+	- Can Change
+	- NTUC staff embrace change and enable others to adapt successfully. We show initiative and take ownership for results even in the face of challenges. 1. Identifies changes necessary to address emerging issues and plans ahead to prepare own team. 2. Recognises the effect change will have on others and works with different stakeholders to manage their impact and achieve win-win outcomes for all. 3. Sets clear guidelines to allow the team to make independent decisions and take on responsibility themselves. 4. Helps team to prioritise and motivates them to stay positive even when confronted by distractions and challenges.
+	- Can Implement
+	- NTUC staff proactively plan and manage resources. We strive to achieve high standards of quality and excellence. 1. Creates team work plans and allocates responsibility taking into account resources available and adjusting to changing circumstances. 2. Continuously reviews operating policies and practices to identify areas for improving productivity and quality of results. 3. Creates feedback mechanisms and builds on internal and external customer feedback continuously to improve the results.
+	- Can Think
+	- NTUC staff think through tasks and assignments. We explore options, assess implications and generate innovative solutions when solving problems. 1. Scans the environment, to identify focus areas where innovative solutions are needed. 2. Supports colleagues in developing their thinking process by asking questions, sharing learning points, and providing tools and support needed. 3. Ensures relevant individuals/groups are involved in problem solving to improve understanding of key issues and generate buy-in for the proposed solution.

@@ -1,0 +1,1 @@
+- `Data processing extensions` in Reporting Services enable you to connect to a data source and retrieve data. They also serve as a bridge between a data source and a dataset. Reporting Services data processing extensions are modeled after a subset of the Microsoft .NET Framework data provider interfaces.

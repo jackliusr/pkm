@@ -1,0 +1,2 @@
+- ![PlantUML_Language_Reference_Guide_en.pdf](../assets/PlantUML_Language_Reference_Guide_en_1684394337044_0.pdf)
+- [Welcome to The Hitchhiker’s Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/index.html#welcome-to-the-hitchhiker-s-guide-to-plantuml)

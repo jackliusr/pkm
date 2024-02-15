@@ -1,0 +1,30 @@
+- [Multicloud Networking Software (MCNS)](https://blogs.gartner.com/andrew-lerner/2022/04/21/multicloud-networking-software-mcns/)
+	- **F5 (US), HPE (US), Oracle (US), VMware (US), Cisco (US)** are major vendors in multi-cloud networking market.
+	- Aviatrix
+- [TCP/IP communication troubleshooting guidance](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/troubleshoot-tcp-ip-communication-guidance)
+	- network diagram
+- virtual versions of network operating systems: EVE-NG, GNS3, CML2
+- bridge domain: a set of logical ports that share the same broadcast or flooding characteristics==. It is similar to a virtual LAN (VLAN) and spans one or more ports of multiple devices.
+- Network Infrastructure As Code
+- batfish: An open source network configuration analysis tool
+- Nornir: an automation framework written in Python
+- sFlow®: an industry standard technology for monitoring high speed switched networks. It gives complete visibility into the use of networks enabling performance optimization, accounting/billing for usage, and defense against security threats.
+- [TextFSM](https://github.com/google/textfsm) is a Python module created by Google which purpose is to parse semi-formatted text (i.e. CLI output). It takes a template file and text as input and produces structured output. [NTC templates](https://github.com/networktocode/ntc-templates) is a collection of TextFSM templates for a variety of networking vendors. TextFSM can be used in conjunction with [netmiko](https://pynet.twb-tech.com/blog/automation/netmiko-textfsm.html) and [scrapli](https://github.com/carlmontanari/scrapli#textfsmntc-templates-integration).
+- other tools:
+	- suzieq: the first open source, multi-vendor network observability platform application
+	- batfish: An open source network configuration analysis tool. Batfish finds errors and guarantees the correctness of planned or current network configurations. It enables safe and rapid network evolution, without the fear of outages or security breaches.
+	- NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support): a Python library that implements a set of functions to interact with different network device Operating Systems using a unified API.
+	- Nornir: an automation framework written in python to be used with python
+- Do-it-yourself 🔨 automation for BGP anycast (introducing one next-hop to rule them all 💍)
+- Zone architecuture
+	- zones
+	  ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*UUxyUjSzxafRundv.png)
+		- Internet Zone — No Trust
+		- External DMZ — Low Trust
+		- Enterprise Zone — Medium Trust
+		- Extranet Zone — Medium Trust
+		- Internal DMZ — High Trust
+		- Management Zone — Highest Trust
+		- Restricted Zone — Highest Trust
+	- Zone Interface Point (ZIP): **A ZIP provides a network interface between a zone and another zone**. ZIPs are the logical construct used to describe the controlled interfaces connecting the zones.
+- a

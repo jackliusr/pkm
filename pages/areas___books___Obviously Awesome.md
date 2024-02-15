@@ -1,0 +1,1 @@
+- link: https://commoncog.com/obviously-awesome/

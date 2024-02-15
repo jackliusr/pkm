@@ -1,0 +1,182 @@
+file:: [BIAN-Semantic-API-Pactitioner-Guide-V8.1-FINAL_1694794476892_0.pdf](../assets/BIAN-Semantic-API-Pactitioner-Guide-V8.1-FINAL_1694794476892_0.pdf)
+file-path:: ../assets/BIAN-Semantic-API-Pactitioner-Guide-V8.1-FINAL_1694794476892_0.pdf
+
+- The BIAN standard defines a component business blueprint for banking
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 650484b4-2ec2-4478-bf93-a6e3f5835d68
+- [:span]
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 650da50a-87ac-43e5-a11f-21dc7332d60a
+  hl-type:: area
+  hl-stamp:: 1695393031910
+- [:span]
+  ls-type:: annotation
+  hl-page:: 29
+  hl-color:: yellow
+  id:: 65056e2b-e628-4a4a-b506-d1086919c517
+  hl-type:: area
+  hl-stamp:: 1694854697846
+- [:span]
+  ls-type:: annotation
+  hl-page:: 30
+  hl-color:: red
+  id:: 650da5fa-2915-4871-9ade-1a8145496bad
+  hl-type:: area
+  hl-stamp:: 1695393272954
+- [:span]
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 650da3ab-099c-4939-b3d9-3a118d07a51d
+  hl-type:: area
+  hl-stamp:: 1695392682636
+- [:span]
+  ls-type:: annotation
+  hl-page:: 36
+  hl-color:: yellow
+  id:: 650d9e41-5b34-4d07-809f-fcf321c3b072
+  hl-type:: area
+  hl-stamp:: 1695391295790
+- [:span]
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: yellow
+  id:: 650da4da-58d1-439b-ba0b-81ef7c2d4acc
+  hl-type:: area
+  hl-stamp:: 1695392985065
+- The Information Profile however describes the complete make-up of the business information governed by any Service Domain when implemented as a stand-alone service center
+  ls-type:: annotation
+  hl-page:: 41
+  hl-color:: yellow
+  id:: 650dabfe-0f50-4cf5-ab4f-9fd80edd73f2
+- [:span]
+  ls-type:: annotation
+  hl-page:: 42
+  hl-color:: yellow
+  id:: 650dac5f-597f-40ad-96fc-f6a9d4dea529
+  hl-type:: area
+  hl-stamp:: 1695394908787
+- [:span]
+  ls-type:: annotation
+  hl-page:: 45
+  hl-color:: yellow
+  id:: 650dae5a-f97f-4580-ab75-662f5a4495b2
+  hl-type:: area
+  hl-stamp:: 1695395416482
+- [:span]
+  ls-type:: annotation
+  hl-page:: 46
+  hl-color:: yellow
+  id:: 650daea2-2157-4838-8db2-bceba7b2b8b2
+  hl-type:: area
+  hl-stamp:: 1695395488209
+-
+-
+- The BIAN Wireframe shows the available (first order) service connections between a related collection of Service Domains.
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 650db345-ab82-419f-83d6-68cf7553b8bb
+- [:span]
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 650e5ad5-5b6e-4b41-8583-d941508d3c03
+  hl-type:: area
+  hl-stamp:: 1695439571979
+- [:span]
+  ls-type:: annotation
+  hl-page:: 57
+  hl-color:: yellow
+  id:: 650e5bf6-2064-46a6-a2a6-5ab6ad84e269
+  hl-type:: area
+  hl-stamp:: 1695439860700
+-
+- [:span]
+  ls-type:: annotation
+  hl-page:: 62
+  hl-color:: yellow
+  id:: 650e7fd1-04d2-4e29-aa68-dc84ed3235aa
+  hl-type:: area
+  hl-stamp:: 1695449037778
+- [:span]
+  ls-type:: annotation
+  hl-page:: 85
+  hl-color:: yellow
+  id:: 650e965d-e0e6-42c3-91e0-1fcd751d7ec7
+  hl-type:: area
+  hl-stamp:: 1695454811823
+- [:span]
+  ls-type:: annotation
+  hl-page:: 86
+  hl-color:: yellow
+  id:: 650e982f-4b51-4509-9496-7f2f4d39bff8
+  hl-type:: area
+  hl-stamp:: 1695455277505
+- [:span]
+  ls-type:: annotation
+  hl-page:: 89
+  hl-color:: yellow
+  id:: 650e990d-3ad5-4d55-82e6-5e6b55fef029
+  hl-type:: area
+  hl-stamp:: 1695455499664
+- [:span]
+  ls-type:: annotation
+  hl-page:: 90
+  hl-color:: yellow
+  id:: 650e9952-102b-4d88-ac6e-ee8b3d9cf089
+  hl-type:: area
+  hl-stamp:: 1695455568891
+- [:span]
+  ls-type:: annotation
+  hl-page:: 96
+  hl-color:: yellow
+  id:: 650e99e0-d7f5-4e14-8f3b-e955be049afe
+  hl-type:: area
+  hl-stamp:: 1695455711115
+- [:span]
+  ls-type:: annotation
+  hl-page:: 97
+  hl-color:: yellow
+  id:: 650e9b9c-438d-460c-8c29-7c09fe5b9d66
+  hl-type:: area
+  hl-stamp:: 1695456155813
+- [:span]
+  ls-type:: annotation
+  hl-page:: 98
+  hl-color:: yellow
+  id:: 650e9bcb-3273-4c5d-93d3-8967e644e4c7
+  hl-type:: area
+  hl-stamp:: 1695456201734
+- [:span]
+  ls-type:: annotation
+  hl-page:: 99
+  hl-color:: yellow
+  id:: 650f1096-593b-483f-bd44-73b93ce75f53
+  hl-type:: area
+  hl-stamp:: 1695486100515
+- [:span]
+  ls-type:: annotation
+  hl-page:: 100
+  hl-color:: yellow
+  id:: 650f1233-8871-473e-8f6e-afdf3ecfe6f6
+  hl-type:: area
+  hl-stamp:: 1695486514025
+- [:span]
+  ls-type:: annotation
+  hl-page:: 101
+  hl-color:: yellow
+  id:: 650f125a-d3e3-4364-8273-d2e802587352
+  hl-type:: area
+  hl-stamp:: 1695486553334
+- [:span]
+  ls-type:: annotation
+  hl-page:: 102
+  hl-color:: yellow
+  id:: 650f12bf-0117-4efa-a9f7-22335ce768e1
+  hl-type:: area
+  hl-stamp:: 1695486651045

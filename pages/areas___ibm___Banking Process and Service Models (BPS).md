@@ -1,0 +1,2 @@
+- a content-rich set of models designed specifically for financial services organizations. Enhanced and extended to align with the requirements for risk and compliance and optimally allow for the development of more efficient straight through processing solutions.
+-

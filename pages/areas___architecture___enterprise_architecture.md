@@ -1,0 +1,44 @@
+- EA Domains
+	- business
+		- subdomains
+		  collapsed:: true
+			- Business Requirements
+			- Business Rules
+			- Organization Structure
+			- Critical Success Factors
+			- Business Process Design & Modelling
+			- Mission/Vision
+	- data
+		- subdomains
+		  collapsed:: true
+			- Data Integration
+			- Data Architecture
+			- Master Data Management
+			- Metadata Management
+			- Data Delivery Architecture
+			- Dashboards & Analytics
+			- Business Intelligence
+			- Enterprise Reporting
+			- Corporate Performance Management
+			- Data Modelling
+			- Data Quality
+			- Content Management
+	- application
+		- subdomains
+			- Enterprise Application Integration Components
+			- Custom Application Development
+			- Services Definition
+			- Process Alignment
+			- Services/Event Architectures
+	- Technology
+		- subdomains
+			- Servers
+			- Networks
+			- Telecom
+			- Operating Systems
+			- Desktop
+			- Middleware
+			- Database Infrastructure
+			- Security
+			- Storage
+			- Other hardware

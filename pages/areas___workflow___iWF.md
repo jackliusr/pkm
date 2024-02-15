@@ -1,0 +1,1 @@
+- [iWF is a platform for developing resilient, fault-tolerant, scalable long running applications. It offers a convenient abstraction for durable timers, background execution with backoff retry, persistence(with caching/indexing), message queues, RPC, and more. You will build long-running reliable processes faster than ever](https://github.com/indeedeng/iwf)

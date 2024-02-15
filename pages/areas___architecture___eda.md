@@ -1,0 +1,17 @@
+- [The Ultimate Guide to Event-Driven Architecture Patterns](https://solace.com/event-driven-architecture-patterns/)
+	- Event Generation Patterns: ECST, CQRS, CDC, event sourcing
+	- Communication Patterns: point-to-point, publish/subscribe, request/reply, event streaming
+	- Consumption Patterns: **hierarchical topics**, event filtering, guaranteed delivery, backpressure and push
+	- Consumer Scalability: competing consumers, consumer groups, shock absorber, partitioning
+	- Deployment Architecture Patterns: event bridge, event mesh, event gateway
+	- Error Handling Patterns: dead letter queue, discard, pause and retry, saga
+	- Governance Patterns: event catalog, event APIs, intermediated, disintermediated, access control and authorization
+	- Migration Patterns: strangler, data synchronization
+- shock absorber: The shock absorber pattern is a common technique used in event-driven architecture to mitigate the effects of bursty events that can lead to service degradation or failures. The pattern involves introducing a buffer or a queue between the event source and the downstream services that consume the events.
+- Load Shedding
+- Data loss prevention in event driven architecture
+- Handling failures and errors in an Event-Driven Architecture
+- Failure points, failure mode, failure domain. FEDA
+- Event-Carried State Transfer (ECST): a pattern used in Event-Driven Architecture to manage distributed data and maintain consistency across services.
+	- ECST works by using events to transfer data and state between services. When a service needs to access data or state that is managed by another service, it sends a request event to that service. The responding service then sends a response event that contains the requested data or state, allowing the requesting service to update its local copy of the data. By using events to transfer data, ECST allows services to operate independently and asynchronously, without the need for direct communication or shared storage.
+-

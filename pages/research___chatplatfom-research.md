@@ -1,0 +1,17 @@
+- focus one: a few to look into - can do some research and surface some potential ones - should of cos look at Azure OpenAI and Azure offerings as part of the research
+- we should assess the Azure related offerings (both Azure Native and Azure OpenAI) and probably the NCS chatbot and maybe 1 or 2 more
+- [A Critical Assessment Of The   **Gartner® Magic Quadrant™ for Conversational AI Platforms**](https://cobusgreyling.medium.com/a-critical-assessment-of-the-gartner-magic-quadrant-for-conversational-ai-platforms-6ac538b5fc8c)
+- chatbot four pillars: Intents, Entities, Dialog State Management, Bot Responses/Scriptp
+- GPT-3.5: November 30, 2022
+- **Bing Chat Enterprise**
+- https://www.egazette.com.sg/Welcome.aspx
+- Azure AI Search: formerly known as "Azure Cognitive Search"
+	- Document look-up: retrieves a single [search document by ID](https://learn.microsoft.com/en-us/rest/api/searchservice/lookup-document), with no corresponding index search or scan.
+- Azure Form Recognizer: to chunk files (json with content, extracted contents from pdf)
+- [Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data): works with the powerful language models in OpenAI and Azure Cognitive Search to index your data and provide responses while complying with your organizational policies.
+- https://github.com/MSUSAzureAccelerators/Azure-OpenAI-and-Form-Recognizer-Workshop
+- https://github.com/microsoft/PubSec-Info-Assistant
+- power virtual agent --> openai
+	- notes: Deploying to Power Virtual Agents from Azure OpenAI is only available to US regions. Power Virtual Agents supports Azure AI Search indexes with keyword or semantic search only. Other data sources and advanced features might not be supported.
+	- https://web.powerva.microsoft.com/tryit
+	- {{video https://www.youtube.com/watch?v=4KJ4Vc3Qdok}}

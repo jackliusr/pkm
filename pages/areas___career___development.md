@@ -1,0 +1,40 @@
+- [Avery Pennarun](https://apenwarr.ca/log/)
+- [Will Larson](https://lethain.com/)
+- [StaffEng](https://staffeng.com/)
+- [Julie Zhuo](https://joulee.medium.com/)
+- [Cedric Chin: commoncog](https://commoncog.com/blog/) : a blog about better business and career decision making
+	- [A Framework for Putting Mental Models to Practice](https://commoncog.com/a-framework-for-putting-mental-models-to-practice/)
+	- [Everything You Need to Know About Human Memory Retention](https://commoncog.com/everything-you-need-to-know-about-human-learning-and-memory-retention/)
+	- [The Business Expertise Series](https://commoncog.com/business-expertise-series/)
+		- 1. [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/tacit-knowledge-is-a-real-thing/)
+			- knowledge ratio: explicit: tacit = 5: 95
+			- [Why books donʼt work](https://andymatuschak.org/books/)
+			- transmissionism
+			- Can Tacit Knowledge Be Made Explicit?
+			- Learning Tacit Knowledge: [[areas/ndm]]
+		- collapsed:: true
+		  2. [Copying Better: How To Acquire The Tacit Knowledge of Experts](https://commoncog.com/how-to-learn-tacit-knowledge/)
+			- learnt through emulation, apprenticeship and osmosis.
+			- How The Naturalistic Decision Makers Do It? Steps
+				- Cognitive Task Analysis’ (CTA)
+				- Recognition-primed decision making model (RPD)
+				- develop training programs designed to let less experienced practitioners acquire expert judgment of their own.
+			- How Do We Use RPD?
+		- collapsed:: true
+		  3. [The Three Kinds of Tacit Knowledge](https://commoncog.com/three-kinds-of-tacit-knowledge/)
+			- **Relational **
+			- **Somatic **
+			- **Collective **
+			- wrap up:
+				- In principle, relational tacit knowledge is explicable, even if challenging; somatic tacit knowledge less so, and collective tacit knowledge ‘impossible’. But:
+				- When it comes to human behaviour, the ease with which we pick up the three forms of tacit knowledge is reversed! It is easiest for us to pick up collective tacit knowledge — we begin socialisation from birth; we don’t even notice when we absorb social context from our surroundings. In comparison, it is slightly harder to pick up somatic tacit knowledge, and it is most difficult to pick up relational tacit knowledge, since this hangs on the nature of expertise, and it the depends on the ways with which we relate to each other.
+		- 4. [How to Use YouTube to Learn Tacit Knowledge](https://commoncog.com/youtube-learn-tacit-knowledge/)
+		- 5. [An Easier Method for Extracting Tacit Knowledge](https://commoncog.com/an-easier-method-for-extracting-tacit-knowledge/)
+			- Applied Cognitive Task Analysis
+				- **task diagram**:
+				- **knowledge audit**: an interview that identifies all the ways in which expertise is used in a domain, and provides examples based on actual experience.
+				- **simulation interview**
+				- **cognitive demands table**
+		- 6. [The Tricky Thing About Creating Training Programs](https://commoncog.com/creating-training-programs/)
+			- *simulation*
+		- [An Extracted Tacit Mental Model of Business Expertise](https://commoncog.com/tacit-mental-model-of-business/)

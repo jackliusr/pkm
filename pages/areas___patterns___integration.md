@@ -1,0 +1,7 @@
+- File Transfer:
+	- pros: easy to implement, as it does not require any special software or protocols, and it can handle large volumes of data
+	- cons: low reliability, high latency, lack of synchronization, and potential data corruption. does not support real-time or event-driven integration scenarios
+- Shared Database
+- Remote Procedure Invocation
+- Message Queue
+- Event Bus

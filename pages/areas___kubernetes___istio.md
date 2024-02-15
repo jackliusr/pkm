@@ -1,0 +1,21 @@
+- Concepts
+	- [Virtual services](https://istio.io/latest/docs/concepts/traffic-management/#virtual-services)
+	- [Destination rules](https://istio.io/latest/docs/concepts/traffic-management/#destination-rules)
+	- [Gateways](https://istio.io/latest/docs/concepts/traffic-management/#gateways)
+	- [Service entries](https://istio.io/latest/docs/concepts/traffic-management/#service-entries)
+- [combinations](https://www.gojek.io/blog/our-learnings-from-istios-networking-apis-while-running-it-in-production)
+	- Ingress (Gateway + VirtualService)
+	- Traffic splitting, TCP routing (VirtualService)
+	- Canarying, Blue-green (VirtualService + DestinationRule)a
+	- Loadbalancing Config, traffic shaping (DestinationRule)
+	- Egress to external Services (ServiceEntry)
+- [Blue-Green Upgrades of Istio Control Plane](https://medium.com/snowflake/blue-green-upgrades-of-istio-control-plane-7642bb2c39c2)
+- [Support status of Istio releases](https://istio.io/latest/docs/releases/supported-releases/#support-status-of-istio-releases)
+	- <table><thead><tr><th>Version</th><th>Currently Supported</th><th>Release Date</th><th>End of Life</th><th>Supported Kubernetes Versions</th><th>Tested, but not supported</th></tr></thead><tbody><tr><td>master</td><td>No, development only</td><td></td><td></td><td>1.25, 1.26, 1.27, 1.28</td><td>1.21, 1.22, 1.23, 1.24</td></tr><tr><td>1.19</td><td>Yes</td><td>Sept 5, 2023</td><td>~March 2024 (Expected)</td><td>1.25, 1.26, 1.27, 1.28</td><td>1.21, 1.22, 1.23, 1.24</td></tr><tr><td>1.18</td><td>Yes</td><td>Jun 3, 2023</td><td>~Dec 2023 (Expected)</td><td>1.24, 1.25, 1.26, 1.27</td><td>1.20, 1.21, 1.22, 1.23</td></tr><tr><td>1.17</td><td>Yes</td><td>Feb 14, 2023</td><td>Oct 27, 2023</td><td>1.23, 1.24, 1.25, 1.26</td><td>1.16, 1.17, 1.18, 1.19, 1.20, 1.21, 1.22</td></tr><tr><td>1.16</td><td>No</td><td>Nov 15, 2022</td><td>Jul 25, 2023</td><td>1.22, 1.23, 1.24, 1.25</td><td>1.16, 1.17, 1.18, 1.19, 1.20, 1.21</td></tr><tr><td>1.15</td><td>No</td><td>Aug 31, 2022</td><td>Apr 4, 2023</td><td>1.22, 1.23, 1.24, 1.25</td><td>1.16, 1.17, 1.18, 1.19, 1.20, 1.21</td></tr><tr><td>1.14</td><td>No</td><td>May 24, 2022</td><td>Dec 27, 2022</td><td>1.21, 1.22, 1.23, 1.24</td><td>1.16, 1.17, 1.18, 1.19, 1.20</td></tr><tr><td>1.13</td><td>No</td><td>Feb 11, 2022</td><td>Oct 12, 2022</td><td>1.20, 1.21, 1.22, 1.23</td><td>1.16, 1.17, 1.18, 1.19</td></tr></tbody></table>
+- [Resource Annotations](https://istio.io/latest/docs/reference/config/annotations/)
+- [How does traffic get shaped?](https://www.gojek.io/blog/our-learnings-from-istios-networking-apis-while-running-it-in-production)
+	- Destination rules are applied after virtual service routing rules are evaluated, so they apply to the traffic’s “real” destination.
+	- Flow of traffic
+	  ![](https://blog.gojek.io/content/images/2020/10/image-39.png){:height 205, :width 601}
+	- Logical traffic flow
+	  ![](https://blog.gojek.io/content/images/2020/10/image-40.png){:height 324, :width 608}

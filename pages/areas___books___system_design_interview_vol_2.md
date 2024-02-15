@@ -1,0 +1,14 @@
+- book: System Design Interview, An insider's guide volume 2
+- 1. Proximity Service
+- 2. Nearby Friends
+- 3. Google Maps
+- 4. Distributed Message Queue
+- 5. Metrics Monitering and Alerting System
+- 6. Ad Click Event Aggregation
+- 7. Hotel Reservation System
+- 8. Distributed Email Service
+- 9. S3-like Object Storage
+- 10. Real-time Gaming Leaderboard
+- 11. Payment System
+- 12. Digital Wallet
+- 13. Stock Exchange

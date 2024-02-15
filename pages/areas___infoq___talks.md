@@ -1,0 +1,6 @@
+- [Performance and Scale - Domain-Oriented Objects vs Tabular Data Structures](https://www.infoq.com/presentations/tabular-data-structures/?utm_source=email&utm_medium=ai-ml-data-eng&utm_campaign=newsletter&utm_content=11072023) #inbox
+- data center: https://www.datacenterdynamics.com/en/opinions/take-cover-roof-and-cover-boards-for-data-centers/
+- microsoft monthly patch release
+- dsadd.exe , redircmp.exe
+- Windows Server Update Services (WSUS)
+- cisco access-list commands, vlan

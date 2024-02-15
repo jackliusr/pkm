@@ -1,0 +1,27 @@
+- Advanced Data Analysis in Power BI
+	- Course PL-300T00--A: Microsoft Power BI Data Analyst [Get started with self-directed learning test](https://learn.microsoft.com/en-us/training/courses/pl-300t00#course-syllabus)[Search for a training provider](https://learn.microsoft.com/en-us/training/courses/pl-300t00#browseAllSessionsContainer)
+	- project life cycle
+		- stakeholders -> data source -> data preparation -> data visualization -> data story telling
+	- report --> pages --> visuals
+	- dashboard ( publish reports or pin reports into dashboard)
+	- app ( embedded? )
+	- error handling
+		- remove errors
+		- replace errors, selective
+	- pivot & unpivot:
+		- unpivot other columns
+		- pivot: **Don't aggregate**
+	- Index column
+	- [differences between DAX calculated columns and Power Query computed columns](https://community.fabric.microsoft.com/t5/Desktop/What-s-the-difference-between-adding-column-in-query-or-after/td-p/1701200)
+	- DAX
+		- measures, calculated columns, tables
+		- [how to create measures table](https://www.phdata.io/blog/creating-a-measures-table-in-power-bi/)
+			- folders
+		- calculated columns: In data models for DAX, however, all calculated columns occupy space in memory and are computed during table processing.
+		- measure: useful whenever you do not want to compute values for each row but, rather, you want to aggregate values from many rows in a table
+		- [# Calculated Columns and Measures in DAX](https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/): The difference is the **context** of evaluation. A measure is evaluated in the context of the **cell** evaluated in a report or in a DAX query, whereas a calculated column is computed at the row level within the table it belongs to.
+	- What is the difference in drill down: go to next level vs. expand all one level
+	- Power BI Hierarchy
+	- [# Managing “all” functions in DAX: ALL, ALLSELECTED, ALLNOBLANKROW, ALLEXCEPT](https://www.sqlbi.com/articles/managing-all-functions-in-dax-all-allselected-allnoblankrow-allexcept/)
+		-
+	-

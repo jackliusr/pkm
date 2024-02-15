@@ -1,0 +1,28 @@
+- login matrix:
+- Universal composability: a general-purpose model for the analysis of cryptographic protocols
+- authentication
+	- password-based authentication
+		- [password-authenticated key exchange](https://en.wikipedia.org/wiki/Password-authenticated_key_agreement) (PAKE)
+		- *asymmetric* PAKE (aPAKE): the client knows the password, and the server knows a *hashed* password
+		- **CPace**: **a balanced composable PAKE**  https://datatracker.ietf.org/doc/html/draft-haase-cpace-01
+		- **Secure Remote Password protocol** (**SRP**)
+		- AuCPace: Augmented Composable Password Authenticated Connection Establishment
+		- **OPRF** stands for Oblivious Pseudo-Random Function, which is a protocol by which two parties compute a function *F(key, x)* that is deterministic but outputs random-looking values. One party inputs the value *x*, and another party inputs the key - the party who inputs *x* learns the result *F(key, x)* but not the key, and the party providing the key learns nothing.
+		- Authenticated Key Exchange (AKE)
+		- ==OPAQUE==: a combination of the names of two cryptographic protocols: OPRF and PAKE, *strong aPAKE*, which simply means that it resists these pre-computation attacks by using a secretly salted hash on the server.
+		- OPAQUE with Exported Authenticators (OPAQUE-EA)
+		- OPAQUE vs CPace: OPAQUE is an augmented PAKE (aPAKE, client-server) and croc can use a balanced PAKE (peer to peer). Balanced PAKEs are normally faster than aPAKEs https://github.com/schollz/pake/issues/2#issuecomment-835860293
+		- verifier-based password-authenticated key exchange (V-PAKE)
+		- MQV: **MQV** (**Menezes–Qu–Vanstone**) is an [authenticated](https://en.wikipedia.org/wiki/Authentication) [protocol](https://en.wikipedia.org/wiki/Protocol_(cryptography)) for [key agreement](https://en.wikipedia.org/wiki/Key_agreement) based on the [Diffie–Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman) scheme. Like other authenticated Diffie–Hellman schemes, MQV provides protection against an active attacker. The protocol can be modified to work in an arbitrary [finite group](https://en.wikipedia.org/wiki/Finite_group), and, in particular, [elliptic curve](https://en.wikipedia.org/wiki/Elliptic_curve) groups, where it is known as **elliptic curve MQV (ECMQV)**.
+		- HMQV
+		- Extensible Authentication Protocol – Transport Layer Security (EAP-TLS): an IETF open standard that’s defined in [RFC 5216](https://tools.ietf.org/html/rfc5216). More colloquially, EAP-TLS is the authentication protocol most commonly deployed on WPA2-Enterprise networks to enable the use of X.509 digital certificates for authentication. https://www.securew2.com/wp-content/uploads/2020/01/Authentication-EAP-TLS-1.webp
+		- strategy and pitfalls:
+			- **client-side hashing**: This means that if the database is exposed, attackers can authenticate as anyone by submitting the correct hash. Even though they cannot determine the original passwords, they can still use the hashes directly to break authentication. With client-side hashing, **the hash effectively becomes the password**
+			- **Password-over-TLS**: A large security hole remains open. *Password-over-TLS *(as we will call it) requires users to **send plaintext passwords to servers during login**, because servers must see these passwords to match against registered passwords on file. Even a well-meaning server could accidentally cache or log your password attempt(s), or become corrupted in the course of checking passwords. (For example, Facebook detected in 2019 that it had [accidentally been storing hundreds of millions of plaintext user passwords](https://about.fb.com/news/2019/03/keeping-passwords-secure/?ref=blog.cloudflare.com)). Ideally, servers should never see a plaintext password at all.
+			- **password hashing**:  if a server hashes only the passwords, attackers can download precomputed *rainbow tables *containing hashes of trillions of possible passwords and almost instantly retrieve the plaintext passwords.
+			- encrypting the password in transit
+			- **salted, hardened hashes**:  As computers have increased in speed with Moore's Law the speed of hash functions has made it possible to do away with rainbow tables and start attacking passwords directly even when salted. slow hash function. only long, complex passwords are safe with a salted hash.
+	- password-less authentication:  a means to verify a user's identity, without using a password Instead, password-less uses more secure alternatives like possession factors (one-time passwords [OTP], registered smartphones), or biometrics (fingerprint, retina scans). Passwords haven't been safe for a long time.
+- authorization
+- accounting: log an audit trail
+-

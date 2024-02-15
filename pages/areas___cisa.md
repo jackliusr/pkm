@@ -1,0 +1,7 @@
+- **Certified Information Systems Auditor** (CISA): the global standard for professionals who have a career in information systems, in particular, auditing, control, and security. CISA candidates must pass a comprehensive exam and satisfy industry work experience requirements.
+- To prepare for the CISA exam, it is recommended to study using a variety of materials, including official study materials provided by ISACA (Information Systems Audit and Control Association), as well as other supplementary materials such as textbooks, online courses, and practice exams.
+- Here are some popular study materials for the CISA exam:
+	- Official ISACA study materials, including the CISA Review Manual and CISA Review Questions, Answers & Explanations Manual
+	- Online courses, such as those offered by Udemy, Simplilearn, and ISACA
+	- Practice exams, such as those offered by ISACA, ExamTopics, and Kaplan
+- https://www.examtopics.com/exams/isaca/cisa/view/5/

@@ -1,0 +1,1 @@
+- [Why ScyllaDB is Moving to a New Replication Algorithm: Tablets](https://www.scylladb.com/2023/07/10/why-scylladb-is-moving-to-a-new-replication-algorithm-tablets/) #inbox

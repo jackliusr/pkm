@@ -1,0 +1,7 @@
+- Singapore
+	- Singapore Open eXchange (SOX): National University of Singapore (NUS)
+	- Singapore Internet Exchange (SGIX): IMDA
+	- BGP.Exchange - Singapore
+	- Equinix Singapore
+	- CSL Thai-IX Singapore
+	- EdgeIX - Singapore

@@ -1,0 +1,1 @@
+- [Operator capabilities](https://operatorframework.io/operator-capabilities/)

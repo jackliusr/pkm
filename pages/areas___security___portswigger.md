@@ -1,0 +1,1 @@
+- The practice labs and training material is all free

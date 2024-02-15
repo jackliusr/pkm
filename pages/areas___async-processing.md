@@ -1,0 +1,11 @@
+- Challenges in Async processing
+	- Data loss:
+		- additional standby cluster. Does all data require this? cost?
+		- publish time:  lose the leader broker
+			- non-keyed partitions: partition were to be unavailable because the broker is unavailable, then it automatically writes to a different partition
+			- upbound of data loss:  asynchronous mode, where the publisher writes it into an in-memory queue and asynchronously publishes into Kafka
+	- Processing latencies
+	- Out of order and duplicate records
+	- Consumer platform choice
+	- Intermittent processing failures
+	- Cross region routing

@@ -1,0 +1,11 @@
+- dev tools
+	- vscode
+	- docker
+	- visual studio
+	- xmind
+	- wsl
+	- ubuntu
+	- azure cli/bash
+	- notepad++
+	- git
+	- azure data studio

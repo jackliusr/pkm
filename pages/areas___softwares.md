@@ -1,0 +1,1 @@
+- system development methodology (SDM): a standard process that organizations use to analyze, design, implement, and maintain information systems (IS). It's a framework for organizing, planning, and controlling the process of developing software systems.

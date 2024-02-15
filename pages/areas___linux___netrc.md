@@ -1,0 +1,1 @@
+- Define a **macro**. This token functions like the `ftp` `macdef` command functions. A macro is defined with the specified name; its contents begin with the next .netrc line and continue until a null line (consecutive new-line characters) is encountered. If a macro named init is defined, it is automatically executed as the last step in the auto-login process.

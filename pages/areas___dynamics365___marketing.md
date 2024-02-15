@@ -1,0 +1,16 @@
+- Dynamics 365 Marketing vs  Dynamics 365 Marketing Attach
+	- Dynamics 365 Marketing Attach: Requires a minimum of 10 users of Dynamics 365 applications: Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Supply Chain Management, Dynamics 365 Finance, or Dynamics 365 Commerce.
+- additional costs: contact packs, interaction packs, application instances
+- triggers
+	- Triggers control the flow of [trigger-based journeys](https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-trigger-based-journey)
+	- can be used to start, continue, or stop a journey
+	- `custom` triggers, `interaction` triggers, and `business` triggers.
+- Real-time marketing journey tile reference
+	- Trigger-based journey vs Segment
+	- Branching the customer journey
+		- If/then
+		- Attribute branch
+	- wait step
+- SMS https://learn.microsoft.com/en-us/dynamics365/marketing/real-time-marketing-outbound-text-messaging#add-a-sender-number-from-an-infobip-link-mobility-telesign-or-twilio-account-worldwide
+- A `custom channel` contains custom entities, workflows or plug-ins containing your custom logic, and a couple of web resources that help surface the custom channel as a “tile” in the customer journey designer. All these components are bundled into a solution that can be imported into a Dynamics 365 Marketing instance to enable a custom channel.
+  https://learn.microsoft.com/en-us/dynamics365/marketing/media/marketing-custom-channel-flow.png

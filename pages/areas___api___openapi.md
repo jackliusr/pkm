@@ -1,0 +1,14 @@
+- Redocly vs. Swagger vs blobr
+- tools comparision: https://www.blobr.io/vs-pages/redocly-vs-swagger
+- api linter
+	- [api-linter](https://github.com/googleapis/api-linter?ref=apisyouwonthate.com) by Google:  protocol buffer
+	- [graphql-doctor](https://github.com/cap-collectif/graphql-doctor?ref=apisyouwonthate.com) by [Cap Collectif](https://cap-collectif.com/?ref=apisyouwonthate.com)
+	- [graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter?ref=apisyouwonthate.com) by [Christian Joudrey](https://twitter.com/cjoudrey?ref=apisyouwonthate.com)
+	- [Spectral](https://stoplight.io/open-source/spectral/?ref=apisyouwonthate.com) by [Stoplight](https://stoplight.io/?ref=apisyouwonthate.com): openapi, json
+- **SAFE** API design: Single responsibility, API versioning, First Class Specifications, and an External interface
+- toos:
+	- https://bitbucket.org/atlassian/swagger-request-validator/src/master/
+	- https://github.com/OpenAPITools/openapi-generator
+	- openapi-examples-validator: Validates embedded JSON-examples in OpenAPI-specs (v2 and v3 are supported)
+	- https://openapi.tools/
+	- OpenAPI-diff

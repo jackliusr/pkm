@@ -1,0 +1,2 @@
+- The "access token" will be valid for 30 minutes.
+- auth_code: **2 minutes**  https://stg-id.singpass.gov.sg/docs/authorization/api#_token_endpoint

@@ -1,0 +1,15 @@
+- API Documentation
+- API Governance: the practice of defining and applying development rules that promote consistent API behaviors across your organization's API landscape
+- Collection: a set of API endpoints or requests, along with each endpoint's authorization type, parameters, headers, request bodies, tests, and settings grouped under the same collection ID.
+	- data format: json,csv
+	- Newman: a command-line Collection Runner for Postman.
+- Environment:  a set of one or more  [[areas/postman/variable]]
+- Interceptor: a browser extension that acts as a companion to the Postman desktop app. Interceptor enables you to capture network requests and cookies directly from a web browser.
+- integrations:
+- labs:
+	- Flows: a visual tool to create API workflows, chain requests
+- Mock Servers
+- Monitors: enable you to continuously check the health and performance of your APIs.
+- **Runner**
+- Pre-request Script
+- test scripts: javascripts, run after the response is received.

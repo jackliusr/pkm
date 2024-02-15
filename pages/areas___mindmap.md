@@ -1,0 +1,4 @@
+- xmind
+- https://docs.freeplane.org/
+- Semantik
+- Docear

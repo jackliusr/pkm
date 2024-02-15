@@ -1,0 +1,3 @@
+- Kubernetes NMState Operator: The Kubernetes NMState Operator provides a Kubernetes API for performing state-driven network configuration across the OpenShift Container Platform cluster’s nodes with NMState. The Kubernetes NMState Operator provides users with functionality to configure various network interface types, DNS, and routing on cluster nodes. Additionally, the daemons on the cluster nodes periodically report on the state of each node’s network interfaces to the API server.
+- Node Tuning Operator (NTO): manages cluster node-level tuning for [OpenShift](https://openshift.io/).
+- Cluster Version Operator (CVO)

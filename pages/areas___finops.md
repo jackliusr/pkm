@@ -1,0 +1,9 @@
+- finops
+	- *an operational framework and cultural practice which maximizes the business value of cloud, enables timely data-driven decision making, and creates financial accountability through collaboration between engineering, finance, and business teams.*
+	- the practice of bringing a financial accountability cultural change to the variable spend model of cloud, enabling distributed engineering and business teams to make trade-offs between speed, cost, and quality in their cloud architecture and investment decisions.
+- [principles](https://www.finops.org/framework/principles/):
+- [Intro to FinOps 1.1](https://docs.google.com/presentation/d/1gt9ev4OU79-N0tkkdx78rrZM0jJPuxQqlL6pCImL4ww/edit?usp=sharing)
+- ![](https://www.finops.org/wp-content/uploads/2023/12/finops-framework-overview-202312-0.png){:height 571, :width 829}
+- FOCUS™: The FinOps Cost and Usage Specification (FOCUS™), delivers consistency and standardization to cloud cost data, enabling companies to better visualize the value of cloud. Transform complex cloud billing data into a simple standardized schema. Simplify multi-cloud billing data and improve reporting consistency between multiple vendors. Remove complexity and overhead from processes such as allocation, chargeback, budgeting, forecasting, and the other FinOps capabilities.
+- [The 7 Best FinOps Blogs, Books, And Other Resources](https://www.cloudzero.com/blog/finops-resources/?ref=quuu)
+- tools: 1. CloudZero · 2. ProsperOps · 3. Harness · 4. Densify · 5. AWS Cost Explorer · 6. CloudCheckr · 7. Apptio · 8. Vantage.

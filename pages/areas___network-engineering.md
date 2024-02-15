@@ -1,0 +1,14 @@
+- How to Set Route Priorities
+- Adjust the TCP Window Size Limit on Linux
+- Traffic Control
+	- consists of
+		- SHAPING
+		- SCHEDULING
+		- POLICING
+		- DROPPING
+	- objects: qdiscs, classes and filters
+		- qdiscs: queueing discipline
+			- Common Applications Kept Enhanced (CAKE)
+		- classes
+		- filters: used by a classful qdisc to determine in which class a packet will be enqueued.
+- iPerf

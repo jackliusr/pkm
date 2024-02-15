@@ -1,0 +1,6 @@
+- Dynamic Site Acceleration (DSA): a set of technologies that improve the performance of dynamic websites by caching and delivering dynamic content closer to end users. DSA solutions typically use a combination of the following techniques:
+	- Content caching: cache dynamic content at edge servers located closer to end users
+	- Route optimization: optimize the routing of traffic to dynamic content, avoiding congested networks and bottlenecks
+	- TCP optimization: optimize TCP performance
+	- Object prefetch: prefetch dynamic content that is likely to be needed by end users, even before it is requested
+	- **Adaptive image compression**

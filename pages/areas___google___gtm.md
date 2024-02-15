@@ -1,0 +1,12 @@
+- css selector
+- trigger
+- variables
+- Common mistakes for Google Tag Manager users
+	- [Not tagging every page of your website](https://skillshop.exceedlms.com/uploads/resource_courses/targets/1468249/original/index.html?_courseId=66819#)
+	- [Double tagging](https://skillshop.exceedlms.com/uploads/resource_courses/targets/1468249/original/index.html?_courseId=66819#)
+	- [Deploying gtag.js as a custom tag](https://skillshop.exceedlms.com/uploads/resource_courses/targets/1468249/original/index.html?_courseId=66819#)
+- Common mistakes for global site tag users
+	- [Not tagging every page of your website](https://skillshop.exceedlms.com/uploads/resource_courses/targets/1468249/original/index.html?_courseId=66819#)
+	- [Leaving legacy tags](https://skillshop.exceedlms.com/uploads/resource_courses/targets/1468249/original/index.html?_courseId=66819#)
+	- [Incorrect code snippet](https://skillshop.exceedlms.com/uploads/resource_courses/targets/1468249/original/index.html?_courseId=66819#)
+-

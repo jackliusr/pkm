@@ -1,0 +1,11 @@
+- knowledge graph
+	- type of knowledge graph
+		- conceptual
+		- domain-specific
+		- structured
+		- open
+	- reading: https://towardsdatascience.com/a-guide-to-the-knowledge-graphs-bfb5c40272f1
+- https://jarche.com/wp-content/uploads/2020/05/Working-Smarter-2020.pdf
+- Seek >Sense > Share framework
+- [Methodologies](https://gist.github.com/erkobridee/f71b37f6f81c65ad458cdaae653fde41#file-02__methodology-md)
+- 2nd brain: CODE, and it stands for **Capture, Organize, Distill, and Express**.

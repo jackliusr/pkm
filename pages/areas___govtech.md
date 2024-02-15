@@ -1,0 +1,12 @@
+- Instruction Manual for ICT&SS Management (IM8): seeks to support agencies as they adopt ICT&SS to enable their digital transformation.
+- https://www.thedigitalacademy.tech.gov.sg/
+- **[Civil Service College](https://www.csc.gov.sg/)**
+- Singapore Government Enterprise Architecture (SGEA)
+- Singapore Government Tech Stack (SGTS)
+	- ![](https://www.developer.tech.gov.sg/assets/img/sgts/overview_sgts.png){:height 463, :width 928}
+	- *different layers in SGTS*
+	  ![](https://www.developer.tech.gov.sg/assets/img/sgts/sgts-layers.png){:height 503, :width 568}
+	- SHIP-HATS: **SHIP (Secure Hybrid Integration Pipeline)-HATS (Hive Agile Testing Solutions)**
+		- Extended Code Analysis (XCA): an integrated tool in [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html) that helps developers detect repeated source code vulnerabilities.
+		- [SHIP-HATS Tools](https://docs.developer.tech.gov.sg/docs/ship-hats-docs/tools/ship-hats-tools)
+	- [Whole-of-Government Application Analytics (WOGAA)](https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html)

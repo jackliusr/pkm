@@ -1,0 +1,13 @@
+- [Visual DDD](https://github.com/Virtual-Domain-driven-design/virtual-domain-driven-design)
+- [Exposing CQRS Through a RESTful API](https://www.infoq.com/articles/rest-api-on-cqrs/)
+- [From Domain to Integration Events](https://www.ledjonbehluli.com/posts/domain_to_integration_event/) #inbox
+- [Domain-Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
+- microservices
+	- **Aggregate Microservice **— a microservice encapsulating an aggregate.
+	- **Complex aggregate Microservice** — a microservice encapsulating a complex aggregate.
+	- **Bounded context Microservice** — a microservice encapsulating a bounded context.
+	- [Transaction Patterns for mission critical microservices in Kubernetes](https://www.oracle.com/webfolder/technetwork/slackimages/devrel/slides-july-27-microtx.pdf)
+	- [Architectural patterns for high performance microservices in kubernetes](https://www.slideshare.net/RafaLeszko/architectural-patterns-for-high-performance-microservices-in-kubernetes)
+- [Mapping REST to DDD patterns](https://learn.microsoft.com/en-us/azure/architecture/microservices/design/api-design#mapping-rest-to-ddd-patterns)
+- reporting: CQRS
+- event sourcing: version,

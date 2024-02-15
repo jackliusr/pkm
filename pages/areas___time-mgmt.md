@@ -1,0 +1,8 @@
+- 时间日志
+- time blocking https://todoist.com/productivity-methods/time-blocking#introduction
+	- task batching
+	- day theming, and
+	- time boxing.
+- shadow work: The shadow work meaning is as follows: **Working with your unconscious mind to uncover the parts of yourself that you repress and hide from yourself**. This can include trauma or parts of your personality that you subconsciously consider undesirable.
+- shallow work: Where deep work is focused activity at your maximum cognitive function, shallow work is **logistical and administrative tasks and duties that can be done while distracted, that aren't usually creating new value, and are easily replicated**.
+-

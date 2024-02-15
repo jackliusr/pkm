@@ -1,0 +1,2 @@
+- an open source policy engine for Kubernetes that validates and remediates resource configuration.
+- <img src="https://polaris.docs.fairwinds.com/img/architecture.svg"></img>

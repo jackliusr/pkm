@@ -1,0 +1,12 @@
+- **DeploymentConfig**: objects add the additional features of **change triggers**, which are able to automatically create new versions of the `Deployment` objects as new versions of the container image are available, or other changes.
+- **Build**: the process of transforming input parameters into a resulting object. Most often, the process is used to transform input parameters or source code into a runnable image. A `BuildConfig` object is the definition of the entire build process.
+- **Project**: a Kubernetes namespace with additional annotations
+- `OperatorGroup`: An *Operator group*, defined by the `OperatorGroup` resource, provides multitenant configuration to **OLM**-installed Operators. An Operator group selects target namespaces in which to generate required RBAC access for its member Operators.
+- *security context constraints* (SCCs)
+- [GPU sharing methods](https://docs.openshift.com/container-platform/4.14/architecture/nvidia-gpu-architecture-overview.html#nvidia-gpu-sharing-methods_nvidia-gpu-architecture-overview)
+	- Compute Unified Device Architecture (CUDA) streams
+	- Time-slicing
+	- CUDA Multi-Process Service (MPS)
+	- Multi-instance GPU (MIG)
+	- Virtualization with vGPU
+- NetworkAttachmentDefinition

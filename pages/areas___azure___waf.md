@@ -1,0 +1,19 @@
+- Azure-managed Default Rule Set (DRS)
+- WAF policy can be configured to run in the following two modes: ==detection== and ==prevention==;
+- WAF rules: custom rules and Azure-managed pre-configured set of rules
+- A rule is made of a **match condition**, a **priority**, and an **action**.
+- WAF Actions:
+	- Allow
+	- Block
+	- Log
+	- Redirect
+	- Anomaly score
+- Bot protection rule set
+- Custom authored rules
+	- IP allow list and block list
+	- Geographic based access control
+	- HTTP parameters-based access control
+	- Request method-based access control
+	- Size constraint
+	- Rate limiting rules
+- monitoring

@@ -1,0 +1,17 @@
+- How to THINK in English | No More Translating in Your Head! {{video https://www.youtube.com/watch?v=SJOnhWiJArM}}
+	- Step 1: Name objects around you in English in your head
+	- Step 2: Think in simple sentences
+	- Step 3: Have small conversations with yourself in English
+	- Step 4: Change one of your everyday life things to English
+	- Step 5: Keep track so you're doing it every day
+	- Step 6: Recap your day in English
+- 3 reasons why it’s HARD to understand TV without subtitles (and how to fix that) {{video https://www.youtube.com/watch?v=JT3iVvrizq4}}
+	- Reasons
+		- 1-Brain capacity: When watching TV or movies, your brain processes various elements, including dialogue, storyline, characters, facial expressions, and more, which can make it difficult to focus solely on language.
+		- 2-Lack of experience with spoken English: English speakers often emphasize important words and reduce less important ones when speaking, making it challenging for non-native speakers to understand. Practice listening to chunks of speech rather than individual words.
+		- 3-Technology: Sound compression and actors' lack of diction can make audio less clear, even for native speakers. This issue is not exclusive to non-native speakers.
+	- Tips
+		- Expose yourself to different speakers and accents, practicing without subtitles.
+		- Train your brain to understand the main idea of a sentence or chunk, rather than analyzing every word.
+		- Practice pronunciation, focusing on reductions and function words.
+		- Transcribe lines from TV shows or movies and compare your transcription with scripts or captions to identify weaknesses in your listening skills.

@@ -1,0 +1,13 @@
+- [architecture](https://aws.amazon.com/blogs/containers/de-mystifying-cluster-networking-for-amazon-eks-worker-nodes/)
+  ![architecture](https://aws.github.io/aws-eks-best-practices/reliability/docs/images/eks-data-plane-connectivity.jpeg){:height 405, :width 588}
+- [Running large clusters](https://aws.github.io/aws-eks-best-practices/reliability/docs/controlplane/#running-large-clusters)
+- [Know limits and service quotas](https://aws.github.io/aws-eks-best-practices/reliability/docs/controlplane/#know-limits-and-service-quotas)
+- issues
+	- API limits
+	- [Exhausting IP addresses in a VPC](https://aws.amazon.com/blogs/containers/addressing-ipv4-address-exhaustion-in-amazon-eks-clusters-using-private-nat-gateways/)
+	- Experiencing network packet drop
+	- Facing control plane performance issue
+- [Exploring the effect of Topology Aware Hints on network traffic in Amazon Elastic Kubernetes Service](https://aws.amazon.com/blogs/containers/exploring-the-effect-of-topology-aware-hints-on-network-traffic-in-amazon-elastic-kubernetes-service/) #inbox
+- [Manage scale-to-zero scenarios with Karpenter and Serverless](https://aws.amazon.com/blogs/containers/manage-scale-to-zero-scenarios-with-karpenter-and-serverless/)
+- [Proactive autoscaling of Kubernetes workloads with KEDA using metrics ingested into Amazon Managed Service for Prometheus](https://aws.amazon.com/blogs/mt/proactive-autoscaling-kubernetes-workloads-keda-metrics-ingested-into-aws-amp/)
+- [Using Prometheus Adapter to autoscale applications running on Amazon EKS](https://aws.amazon.com/blogs/mt/automated-scaling-of-applications-running-on-eks-using-custom-metric-collected-by-amazon-prometheus-using-prometheus-adapter/?nc1=b_rp)

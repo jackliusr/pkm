@@ -1,0 +1,8 @@
+- data factory
+	- activity
+	- trigger
+	- source
+	- sink
+	- mapping ( from source to sink)
+- Tumbling windows: a series of fixed-sized, non-overlapping, and contiguous time intervals.
+-

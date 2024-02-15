@@ -1,0 +1,11 @@
+- **practices**:
+	- Daily Reflections: https://www.maggiedelano.com/garden/daily-reflection
+	- weekly review
+	- spaced repetition
+- beeminder: Quantified Self plus Commitment contracts. If you just want self-tracking you have [a lot of choices](https://blog.beeminder.com/trackhack) and if you just want commitment devices you have [more and more options](https://blog.beeminder.com/competitors) as well ([StickK](http://stickk.com/) is our biggest competitor). Beeminder combines self-tracking and commitment contracts: cross a Bright Red Line to your goal and [we take your money](https://beeminder.com/money). The combination is powerful. We call it [flexible self-control](https://blog.beeminder.com/flexbind).
+- [intend](https://intend.do/) *used to be called Complice*
+	- principles
+		- **choosing & doing**, over **organizing**
+		- **aliveness**, instead of **exhaustiveness**
+		- **goals** as fundamental, rather than **tasks**
+		- **proactive**, rather than **reactive**

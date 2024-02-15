@@ -1,0 +1,1 @@
+- https://www.getambassador.io/trend-report-kubernetes-in-the-enterprise?utm_campaign=Ambassador-Labs-Newsletter&utm_medium=HubSpot-Email&_hsmi=281447515&_hsenc=p2ANqtz-88MKRft0u7M5Bfr4GaOwUVTjn9XXXBPLkkZuw3iqnw1_Z-NOhHSw81vTet0pQ43tzzylKg5qaSQ9VfWKWfHnNU80rAhQ&utm_content=Newsletter-100723-November&utm_source=Email

@@ -1,0 +1,36 @@
+- Virtual User Hour (VUH): **1 VUH corresponds to 1 virtual user running test for 1 hour**
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/load-testing_valprop-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1810&qlt=100&fmt=png-alpha&fit=constrain){:height 456, :width 713}
+- tools:
+	- ab
+	- wrk: lua
+	- gatling
+	- vegeta: go, json, text
+	- [Goose](https://docs.rs/goose): rust
+	- hey:
+	- locust: python
+	- k6: javascript
+	- Siege
+	- **[Hyperfoil](https://hyperfoil.io/docs/intro.html): distributed, YAML**
+- injection rate:  Injects a given number of users distributed evenly on a time window of a given duration
+- ramp-up period:
+- [Functional Load Testing](https://www.jug.ch/events/slides/180517_Functional_Load_Testing.pdf)
+	- type: batch and online
+	- input to load test scenarios
+		- perf requirements
+			- target users ( concurrent, per duration, total)
+			- response time (90%, 95%, 99%)
+			- throughout
+		- Historical Data:
+			- Number of Total Users per Duration
+			- Number of Concurrent Users
+			- **Peak Loads** (Peak Month/Day/Hour/Minute)
+			- **Request Logs**
+		- Educated Guesses / Gut Feeling
+- [coordinated omission problem](https://redhatperf.github.io/post/coordinated-omission/):
+	- The problem is that the benchmark omitting the **waiting time** of the threads executing the tests while calculating latency:  Record the latency of response time - request time
+	- [jmeter](https://sqa.stackexchange.com/a/49574/28197):
+		- [best practice](https://jmeter.apache.org/usermanual/best-practices.html)
+		- Running JMeter in [distributed mode](https://jmeter.apache.org/usermanual/remote-test.html) so if one load generator gets stuck the others will still be working
+		- Having a spare [thread pool](https://en.wikipedia.org/wiki/Thread_pool) to deliver extra load if current amount of threads is not sufficient in order to reach/maintain the target throughput via [Throughput Shaping Timer](https://www.blazemeter.com/blog/using-jmeters-throughput-shaping-timer-plugin/) and [Concurrency Thread Group](https://jmeter-plugins.org/wiki/ConcurrencyThreadGroup/) combination
+- theories:
+	- [[areas/papers/Open vs Closed: A Cautionary Tale]]

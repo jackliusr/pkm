@@ -1,0 +1,2 @@
+- [OpenShift Kubernetes Engine and OpenShift Container Platform in the following table](https://docs.openshift.com/container-platform/4.14/welcome/oke_about.html#about_oke_similarities_and_differences)
+- [feature summary](https://docs.openshift.com/container-platform/4.14/welcome/oke_about.html#feature-summary)

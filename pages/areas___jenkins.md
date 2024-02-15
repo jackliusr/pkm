@@ -1,0 +1,8 @@
+- view:
+- workspace
+- job: ui
+- [[areas/jenkins/pipeline]]
+- plugins:
+	- ssh, publish over ssh
+	- git
+- Blue Ocean: provide easy-to-use Pipeline visualization, but it will not be enhanced further. It will only receive selective updates for significant security issues or functional defects.

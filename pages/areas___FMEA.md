@@ -1,0 +1,17 @@
+- Failure Modes and Effects Analysis (FMEA)
+	- Engineering-oriented risk analysis
+	- Severity * Probability * Detectability = Risk
+	- Add observability to mitigate silent failures
+	- Discuss and record component level failure modes
+	- Prioritize mitigation work where it will do most good
+- FMEA for Web Services - Layered Responsibility
+	- Product Managers and Developers – unique business logic
+	- Software Platform Team – standard components and services
+	- Infrastructure Platform Team – resources, regions, and networks
+	- Resilience Engineering – observability and incident management
+	- FMEA Spreadsheets: github.com/adrianco/slides
+- FMEA Severity Mapped to Infrastructure
+- FMEA Probability Per Service Request: Guess to start with, then measure in production
+- FMEA Detectability: Needs an observable monitoring alert to detect a failure
+- FMEA Example – Application Level
+- [8.05 - SW Failure Modes and Effects Analysis](https://swehb.nasa.gov/display/SWEHBVC/8.05+-+SW+Failure+Modes+and+Effects+Analysis)

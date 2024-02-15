@@ -1,0 +1,7 @@
+- Manage process before people https://world.hey.com/dhh/manage-process-before-people-20736695
+	- 1. On Monday mornings, we ask everyone "What are you going to work on this week?", and at the end of every day, we ask "What did you work on today?".
+	- 2. the vast majority of product management planning decisions to happen only once every other month. in [6-week cycles](https://basecamp.com/shapeup/0.3-chapter-01#six-week-cycles), with [2-week cool-downs](https://basecamp.com/shapeup/2.2-chapter-08#cool-down).
+	- 3. use [Hill Charts in Basecamp](https://basecamp.com/features/hill-charts) to give a bird's eye view of "where are we with this project" to anyone who cares to know https://basecamp.com/assets/screenshots/hill-charts-bcb208f51d8388753d0425a01e1c97619715353da29468852011d94292ba145d.webp
+	- 4. the bounded autonomy of the 6-week cycle to cap the risk that projects drag on forever. Everyone working on a feature knows that they have to find a way to [hammer the scope](https://basecamp.com/shapeup/3.5-chapter-14#scope-hammering) enough to ship within that maximum budget (and often the budget is shorter still!).
+	- 5. delegate the review of the work of new employees to mentoring peers.
+- Managers of One

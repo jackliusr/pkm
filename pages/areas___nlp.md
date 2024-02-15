@@ -1,0 +1,20 @@
+- Neuro-linguistic programming (NLP): a psychological approach that involves analyzing strategies used by successful individuals and applying them to reach a personal goal. It relates thoughts, language, and patterns of behavior learned through experience to specific outcomes.
+- key concepts:
+	- **Modeling Excellence**: NLP practitioners observe and analyze successful individuals' **patterns of behavior, communication, and thinking**, aiming to replicate those patterns to achieve similar results.
+	- **Anchoring**: This technique involves associating a specific emotion, state, or feeling with a particular stimulus, enabling individuals to access desired mental states at will.
+	- **Reframing**: NLP encourages individuals to **reinterpret or reframe** their perceptions of situations, allowing them to view challenges from a more empowering perspective.
+	- **Submodalities**: Submodalities are the finer distinctions of **sensory** experiences, such as visual, auditory, and kinesthetic elements. NLP practitioners use submodalities to modify the impact of memories or perceptions.
+	- **Rapport**: NLP emphasizes building strong rapport and effective communication with others by mirroring body language, speech patterns, and other non-verbal cues.
+	- **Sensory Acuity**: Developing heightened sensory awareness to read and interpret non-verbal cues in order to better understand people's emotional states.
+	- **Meta-Model and Milton Model**: The Meta-Model is used to challenge and clarify vague or limiting language, while the Milton Model involves using vague language intentionally to induce **trance-like states or influence behavior**.
+	- **Outcome-Oriented Thinking**: NLP encourages setting clear and specific goals, designing strategies to achieve them, and aligning thoughts and behaviors with those goals.
+- [Milton model](https://nlpsure.com/nlp-milton-model-language-patterns/): The Milton Model is a set of language patterns and techniques used in neuro-linguistic programming (NLP) and hypnotherapy. It is designed to influence and communicate with individuals on a subconscious level to facilitate change, enhance persuasion, and encourage personal development. The key idea behind the Milton Model is that people can be more easily influenced and guided toward positive outcomes by using language patterns that bypass their conscious resistance and appeal to their unconscious mind.
+	- **Vague Language**: Using ambiguous or vague language to allow the listener's mind to fill in the details. This can lead to a more open interpretation and receptivity.
+	- **Metaphors and Stories**: Utilizing metaphors and storytelling to convey messages indirectly and engage the listener's imagination and emotions.
+	- **Embedded Commands**: Embedding suggestions or commands within sentences in a way that the conscious mind may not readily notice, but the unconscious mind can pick up on.
+	- **Positive Assumptions**: Assuming positive intentions or outcomes, which can influence the listener to consider a more positive perspective or response.
+	- **Pacing and Leading**: Beginning by pacing the listener's current thoughts or feelings before leading them towards a desired outcome or change.
+	- **Using Cause and Effect Language**: Implying cause-and-effect relationships to suggest that certain actions will lead to specific results.
+	- **Double Binds**: Presenting the listener with a choice where both options lead to a desired outcome.
+	- **Utilizing Sensory Language**: Incorporating sensory-rich language to evoke sensory experiences and emotions.
+- [NLP model of communication](https://instituteofclinicalhypnosis.com/nlp/nlp-model-of-communication/)

@@ -1,0 +1,2 @@
+- plugins:
+	- kubectl-allctx

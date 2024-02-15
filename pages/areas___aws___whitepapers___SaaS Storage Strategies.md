@@ -1,0 +1,1 @@
+- ![](https://docs.aws.amazon.com/images/whitepapers/latest/multi-tenant-saas-storage-strategies/images/partitioning-tradeoffs.png)

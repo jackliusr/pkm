@@ -1,0 +1,17 @@
+- Ajv: It allows implementing complex data validation logic via declarative schemas for your JSON data, without writing code.
+- Bookshelf is a JavaScript ORM for Node.js, built on the [Knex](http://knexjs.org/) SQL query builder. It features both Promise-based and traditional callback interfaces, transaction support, eager/nested-eager relation loading, polymorphic associations, and support for one-to-one, one-to-many, and many-to-many relations.
+- `tqdm`: Instantly make your loops show a smart progress meter - just wrap any iterable with `tqdm(iterable)`, and you're done!
+- Cypress: a next generation front end testing tool built for the modern web.
+- lerna: the original [monorepo tool](https://monorepo.tools/) for JavaScript/TypeScript.
+- ts-node: TypeScript execution and REPL for node.js
+- pug: Pug, formerly known as Jade, is a high-performance template engine heavily influenced by Haml and implemented with JavaScript for Node.js and browsers. It provides a powerful framework for building HTML templates with a clean and simple syntax.
+- PM2: a daemon process manager that will help you manage and keep your application online
+- nock: HTTP server mocking and expectations library for Node.js
+- validation:
+	- Joi: The most powerful schema description language and data validator for JavaScript.
+- logging
+	- [Winston](https://www.npmjs.com/package/winston) — The most popular logging library, with support for multiple transports. This allows you to easily configure your preferred storage location for your logs.
+	- [Pino](https://www.npmjs.com/package/pino) — Pino's biggest attraction is its speed. It claims to be up to [five times faster](https://getpino.io/#/?id=low-overhead) than alternatives, in many cases.
+	- [Bunyan](https://www.npmjs.com/package/bunyan) — Another feature-rich logging framework that outputs in JSON by default and provides a CLI tool for viewing your logs.
+	- [Roarr](https://www.npmjs.com/package/roarr) — Roarr is a different kind of logger that works in Node.js and the browser.
+- RIFM: React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc

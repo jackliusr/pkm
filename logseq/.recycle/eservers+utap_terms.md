@@ -1,0 +1,226 @@
+tag:: term
+
+- **PaLoDaDi**:  Payment, Loyalty, Data, Digital Interfaces, ... all enabled by Single ID
+- Assistant Secretary-General (ASG)
+- Deputy Secretary-General (DSG)
+- Secretary General (SG)
+- Tuesday Group (TG)
+- Minister of State (MOS)
+- AppGroup:
+- AMS: Application Maintenance Service
+- BQ:  budgetary quotation
+- OA: onboarding application
+- Batch records categorys: U65 Rebates of Members
+- CC& TG Report:
+- CCR payment: credit card recurring
+- CDTO: **Chief Digital and Technology Officer**
+- CMA: Cybersecurity Maturity Assessment
+- CP: Corporate portal
+- CS: custom support
+- Simplicity®: a suite of business software applications that have been designed to be extremely easy to use and simple to implement. https://www.anacle.com/simplicity/
+- CSD: Consumer Sales Department
+- CTC: Company Training Committee
+- CCSS: Customer Care Shared Service
+- Collective agreement (CA):  database union one, CA itself can encompass multiple companies and even multiple branches, one CA can have multiple companies, multiple branches. The branch is tied to one company only. One company may have multiple unions.
+- Control Self-Assessment (CSA)
+- DIM:   Data Inventory Maps
+- DAI: Develop, Align, Inspire
+- BO: billing organization in DBS Doc
+- DJU: date joined union
+- DPO: Dept/Data Protection Office
+- DPTM: The **Data Protection Trustmark (DPTM**) is a voluntary enterprise-wide certification for organisations to demonstrate accountable **data protection** practices
+- DSS: Digital Solutions & Services
+- siis: HRIS Home Page https://siis.smou.org.sg/SMOUHR/Main/Login.aspx - production
+- LXP: learning experience platform, learning hub
+- DX: Digital Experience
+- NDC: NTUC National Delegates' Conference (NDC)
+- IDCC: IT & Data Coordinating Committee
+- LMTP: Labour Movement Training Partners such as LHUB, NEXTU, SEED and OTCi
+- JNPL: Join now, pay later
+- SLF: Singapore Labour Foundation
+- EA: eAppointment for PME
+- ORC: Organising Resource Centre
+- EAS: Educational grant & scholarship application
+- EASY: Employee Access System for You, EASY On-the-Go 
+  System for HR, Payroll and Performance Management, used by ARU HR, Finance and employees. Payslip integration and Claims Module have been delayed.
+- ERIS: ERIS Portal, Go Mobile, Push notification
+- Trusted Identity: Singapore's trusted digital identity
+- EUC: End User Computing (EUC)
+- TADM: Tripartite Alliance for Dispute Management
+- ECT: Employment Claims Tribunals
+- W.I.N.:
+- PWA
+- PME: Professionals, Managers and Executives (PMEs)
+- UCLUB --> UPlay
+- ExCo: Executive Committee (EXCO)
+- FBS: Facility Booking system
+- H2H SFTP Transfer: Host 2 Host?
+- NETF: NTUC Education and Training Fund (NETF)
+- IHL: Institutes of Higher Learning
+- SBOA: Singapore Bank Officers' Association
+- IRA: Industrial Relations & Analysis
+- ITD:IT Systems & Operations Dept
+- IUS: (Case Management System)
+- CAS: Care and Share
+- PRF: purchase REQUISITION FORM
+- IVOC: Integrated View of the Customer (IVoC), show summary data from all subsystems.
+- JWC: Just Wine Club
+- KRIS: **Central** e-filing archival system
+- KT sessions: knowledge transfer
+- LDIS: Union Leaders System
+- LIT: Learning Is Triggered
+- NEC: NTUC Enterprise Co‑operative Limited
+- nEbO: Launched 7 July 2007, nEbO (stands for nobody Enjoys being Ordinary) is the junior membership arm of the Labour Movement (NTUC) in Singapore.
+- LOA: Letter of Acceptance of Tender
+- MEC:  Membership Movement Listing by Period (MEC) ?
+- MED: Memberhship department, alternate name MSD
+- MGM: **Member-Get-Member**
+- MGPS: Multi-Generation Priority Scheme (MGPS)
+  id:: 645de9a1-194d-4a88-9f80-7584b95ab85a
+- MWS: MigrantWell Singapore
+- U Live: It is a community initiated by the National Trade Union Congress (NTUC) for members aged **55** years and above. U Live promotes active ageing and healthy living among its members to achieve a better-quality lifestyle with age-specific enhanced benefits and engagement through a wide variety of activities.
+- MSD: Membership Services Division
+	- Channel
+	- Customer Value Proposition (CVP) and Partnership
+	- Membership Life Cycle (MLM)
+	- Membership Policy (MP)
+	- Operations
+		- Customer Service (CS)
+		- Processing Team (PT)
+	- Digital Experience (DX)
+- MPA: Master Partnership Agreement
+- MIS: data warehouse
+- MLM:
+	- Member Lifecycle Management
+	- multi-level marketing
+- ITQ: Invitation to Quote
+- ITT: Invitation to Tender
+- RBS: Resource Booking and Management Solutions
+- **FIM (File Integrity Monitoring)**
+- MID: **Credit Card** Merchant Identification **:  it’s important to establish your own merchant account. It allows you to offer more payment options, more secure transactions, lower fees, and maximum credibility.
+- EDR: Endpoint Detection and Response
+- CoE: Centre of Excellence
+- MoM: minutes of meeting
+- MP: member platform
+- MPGS:  MasterCard payment gateway service
+- MWC: migrant worker centre
+- Master Config:  Master Config table in UCEM
+- NFC: **NTUC First Campus**
+- NFM: NTUC Family membership --next of kin
+- Next U: Next U is the executive education arm of NTUC LearningHub – Singapore's largest continuing education provider
+- NE Digital:  NTUC Enterprise Nexus Co-operative Limited
+- DPC: (Singtel Private Cloud)
+- OMB: **One Marina Boulevard**
+- OPAL: OPAL (ON-LINE PORTAL FOR ADVANCEMENT OF LEARNING)
+- OneCare: U Care Assistance Programmes
+- PLS: public login services
+- PO
+- SQ: Service quality. in its contemporary conceptualisation, is **a comparison of perceived expectations (E) of a service with perceived performance (P)**, giving rise to the equation SQ=P-E. This conceptualistion of service quality has its origins in the expectancy-disconfirmation paradigm.
+- RO: Reporting Officer
+- SCTP: SkillsFuture Career Transition Programme
+- PR: Purchase Requisition
+- PT:  PT in VAPT, penetration test
+- PSD: Public Service Division
+- MOF: Ministry of Finance
+- PWC: Project Working Committee
+- Pre-create:  stored with rejected reason for blacklisted, how about others  draft, invalidated state? eligibility API ?
+- SCID: Single Customer ID, alternate name, LinkPass UID
+- SDM/OM
+- SEP: Surrogate Employers Program
+- Silver membership: union membership
+- SIRS: Self-Employed Person Income Relief Scheme (SIRS) https://www.ntuc.org.sg/uportal/news/Applying-for-SIRS-Things-You-Should-Know/
+- SM: starter membership
+- SPUR: Skills Programme for Upgrading and Resilience (SPUR)
+- SSOT: Single Source of Truth
+- SUG: Sign-up gift
+- SSU: Shared Services Unit
+- TPE: Training & Placement Ecosystem
+- UA Associate:
+- RBS invoices
+- BAV:
+- UBT: BT (Union Benefits Team)
+- UCEM: dynamic 2013 with customization
+- UID: in linkpass,  random, time-clustered, with a low collision rate. The projected exhaustion of the UID  would be more than a hundred years from now.
+- UMatrix:   based on SiteCore, portal
+- UNetwork: https://www.ntuc.org.sg/wps/portal/up2/home/unetwork comprises our affiliated **unions and associations, U PME, U Associates, U SME partners and U FSE partners** – the Labour Movement is able to expand our suite of services beyond traditional services such as protection and representation for our rank and file workers, to also include professional development, training, placement and networking for both today’s and tomorrow’s workers.
+- UP2: U Portal 2
+- UPME: a community to support Professionals, Managers and Executives (PMEs) with a common interest in workplace, career and professional development.
+- USME: U SME
+- UTAP: Union Training Assistance Programme (UTAP) Lite replatform
+- UTAP-WTS: UTAP-Workfare Training Support (UTAP-WTS)
+- UXS: U-Access System
+- WA: Workspace Advisory, Our online workplace advisory portal is a platform for union members to enquire or lodge a case on workplace grievances or employment-related matters.
+- WFG: workforce group
+- WIN: Whole of Integrated NTUC (WIN)
+- WTS: Workfare Training Support Scheme (WTS)
+- WIS: Workfare Income Supplement (WIS)
+- athenan: dynamci 365 with customization
+- eStatement:
+- finix:  SAP, aws private cloud, managed by Jenny and Fujitsu.
+- insight : snowflake
+- member 360
+- ucare,
+- VA : Virtual Assistant
+- TPE DT
+- IROs: Industrial Relationship Officers, attach to unions and serve members
+- GIRO payment types:
+	- GIRO HARDCOPY    100000000
+	- GIRO eDDA    100000003
+	- GIRO iDDA    100000004
+	- GIRO xDDA    100000005
+- athena: ntuc business, crm  
+          shared with NCS
+        reqs gatherting: hui ling
+        interface integartion: batch , file etc: yin yi
+        data migration: wen zi
+  https://sntuc.sharepoint.com/sites/TODataandTechnology/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FTODataandTechnology%2FShared%20Documents&viewpath=%2Fsites%2FTODataandTechnology%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FTODataandTechnology%2FShared%20Documents%2FTA%20Collaboration%2FAthena%2Fkey%2Dread&viewid=bdaae9dc%2Daaf9%2D4df5%2D94ca%2D3a985cb817e6
+-
+- what to review: everything, every decision with justification
+- dynamice 365 : solution /delivery/ release
+- application processing@MSD PT
+- union allocation rule:
+- turf allocation for union
+- unionization: union --> company --> person
+- Notice of intent(NoI)
+- eGIRO
+- CCR: credit card recurring
+- instant card,
+- delay card
+- backdating membership: tenure
+- CVP: customer value preposition https://sntuc.sharepoint.com/sites/TODataandTechnology/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120008C9FE95F6AC21042B84935154F22D159&id=%2Fsites%2FTODataandTechnology%2FShared%20Documents%2FYD%20NTUC%20Starter%20App%2FUpdates%20to%20Management%2FDigital%20Aspect%20of%20Starter%20App%5FNov%2Epdf&viewid=bdaae9dc%2Daaf9%2D4df5%2D94ca%2D3a985cb817e6&parent=%2Fsites%2FTODataandTechnology%2FShared%20Documents%2FYD%20NTUC%20Starter%20App%2FUpdates%20to%20Management
+- union: not associated with NTUC
+- APIM: api, products, subscripts: attach subscript to productions, so products can use APIS.
+- exchange id:   not all member can't get NRID etc. legacial issue, running number
+- search id:
+- FSD: functional specification documents
+- Member referral programme (MGM)
+- sign up gift (SUG)
+- Direct Service of GB members (DSGB)
+- Managed branch of GB members (MGB)
+- Digital Branch (DB)
+- OB: Ordinary Branch
+- Budgetary Quotation(BQ)
+- Sope of Work (SoW)
+- National Digital Identity initiative (NDI)
+- digital membership entity (DME)
+- mass recruitment group (MRG)
+- apim:  message 1GB max request payload size
+- Domestic Employees **(CDE**)
+- Waiver of Competition (WoC)
+- Performance Guarantee Period (PGP)
+- System Warranty Period (SWP)
+- Statement of Works (“SOW”)
+- OTCi: ?
+- Requirement Traceability Matrix (RTM)
+- dynafense:
+- PLS TO delivery
+	- data structure
+	- cookie
+	- sso
+	- client or server sdk
+	- TODOs
+		- DOING review if there is any issues: call back, concurrent logins
+		  :LOGBOOK:
+		  CLOCK: [2023-06-09 Fri 23:37:57]
+		  :END:
+		- create sessions for different tabs.

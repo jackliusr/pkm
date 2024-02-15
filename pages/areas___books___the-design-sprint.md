@@ -1,0 +1,3 @@
+- https://www.gv.com/sprint/
+- The big idea with the Design Sprint is to build and test a prototype in just five days. You'll take a small team, clear the schedule for a week, and rapidly progress from problem to tested solution using a proven step-by-step checklist.
+- ![](https://assets-global.website-files.com/5eb2bf8eb9c84371c8daea6a/5ec533cd3728f7c7d33320a8_Sprint%20Process%20Transparent-p-1600.png)

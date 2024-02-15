@@ -1,0 +1,3 @@
+- Azure Event Grid is a highly scalable, fully managed **Pub Sub** message **distribution** service that offers flexible message consumption patterns using the **MQTT** and **HTTP** protocols.
+	- Data distribution using **push** and **pull** delivery modes
+	- [CloudEvents 1.0](https://github.com/cloudevents/spec)

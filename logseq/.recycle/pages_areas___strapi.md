@@ -1,0 +1,20 @@
+- [create How to Create a Custom API Endpoint in Strapi?](https://strapi.io/blog/how-to-create-a-custom-api-endpoint-in-strapi)
+- why not typescript
+- can't change below in prod env, have to change at dev model
+- content types
+	- collections
+	- single
+- components: reusable fields that can be shared across content types. They're useful for defining a set of fields that appear in multiple places, like an address block or a rich media gallery.
+- [dynamic zones](https://docs.strapi.io/dev-docs/backend-customization/models#dynamic-zones):
+	- Dynamic zones create a flexible space in which to compose content, based on a mixed list of [components](https://docs.strapi.io/dev-docs/backend-customization/models#components-2).
+	- Dynamic zones are explicitly defined in the [attributes](https://docs.strapi.io/dev-docs/backend-customization/models#model-attributes) of a model with `type: 'dynamiczone'`. They also accept a `components` array, where each component should be named following this format: `<category>.<componentName>`.
+- plugins:
+	- local?
+	- content-types builder:
+	- media Library
+- import data
+- configure view: can be configured in running system
+- integration
+- filter
+- deploy
+- settings

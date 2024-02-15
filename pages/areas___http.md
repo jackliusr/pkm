@@ -1,0 +1,8 @@
+- Security access control methods
+	- Basic access authentication
+	- Digest access authentication
+- Security vulnerabilities
+	- HTTP header injection
+	- HTTP request smuggling
+	- HTTP response splitting
+	- HTTP parameter pollution

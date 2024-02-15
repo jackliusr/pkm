@@ -1,0 +1,2 @@
+- Ironic: an integrated OpenStack program which aims to provision bare metal machines instead of virtual machines, forked from the Nova baremetal driver
+-

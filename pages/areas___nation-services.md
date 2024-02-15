@@ -1,0 +1,2 @@
+- ORNS Training Cycle
+  ![](https://www.ns.sg/web/wcm/connect/nsmen/2a69a3f3-e8f8-4b7d-8b56-aa0480b9256f/ORNS+Training+Cycles.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_1QK41482LO8A60ANGHG1352080-2a69a3f3-e8f8-4b7d-8b56-aa0480b9256f-ouyPSFm)

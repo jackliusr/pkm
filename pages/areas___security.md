@@ -1,0 +1,27 @@
+- trusted root certificates vs ca-bundle
+- [Runtime Security](https://www.contrastsecurity.com/security-influencers/runtime-security-fits-fast-paced-appdev-environments-contrast-security)
+	- **Runtime Application Security Testing** — (sometimes called Interactive Application Security Testing, or IAST) — a form of DAST that autonomously finds zero-day vulnerabilities in both custom code and libraries
+	- **Runtime Software Composition Analysis**
+	- **Runtime Application Security Protection** (sometimes called RASP)
+	- **Runtime Application Security Observability**
+- The Browser Exploitation Framework (BeEF): It is a penetration testing tool that focuses on the web browser.
+- The Information Security Lifecycle
+  ![](https://plextrac.com/wp-content/uploads/2020/07/Lifecycle-768x768.png){:height 571, :width 453}
+- Penetration Testing Methodologies
+	- Open Web Application Security Project (OWASP),
+	- [Penetration Testing Execution Standard (PTES)](http://www.pentest-standard.org/index.php/Main_Page),
+	- [Open Source Security Testing Methodology Manual (OSSTMM)](https://www.isecom.org/research.html#),
+	- https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
+	- Information Systems Security Assessment Framework (ISSAF): The ISSAF is a very good reference source of penetration testing though Information Systems Security Assessment Framework (ISSAF) is not an active community. It provides comprehensive penetration testing technical guidance.
+- Pentest tools
+	- Burp Suite Pro
+	- Nessus Pro: ==a vulnerability assessment tool that helps organizations identify and fix vulnerabilities, including software flaws==. It automates vulnerability scanning and can help save time in compliance cycles.
+	- YARA: a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples. With YARA you can create descriptions of malware families (or whatever you want to describe) based on textual or binary patterns. Each description, a.k.a. rule, consists of a set of strings and a boolean expression which determine its logic.
+	- Metasploit Express
+	- Loki: Scanner for Simple Indicators of Compromise
+	- Thor: the most sophisticated and flexible compromise assessment tool on the market.
+	- [Spark](https://www.sparkinstitute.org/)
+	- Spark Core
+	- OllyDbg 2.0: a 32-bit assembler level analysing debugger for Microsoft® Windows®. Emphasis on **binary code analysis** makes it particularly useful in cases where source is unavailable
+	- IDA Pro: a disassembler for computer software which generates assembly language source code from machine-executable code. It supports a variety of executable formats for different processors and operating systems.
+- Damn Vulnerable Web Application (DVWA)

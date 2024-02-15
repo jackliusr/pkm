@@ -1,0 +1,1 @@
+- DONE check if we need to do HATEOAS way

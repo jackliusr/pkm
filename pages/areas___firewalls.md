@@ -1,0 +1,4 @@
+- three layers:
+- zero-trusted for apps
+- zero-trust to replace VPNs
+- internal firewalls

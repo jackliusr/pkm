@@ -1,0 +1,34 @@
+- UID: a universal identifier (a.k.a UID) unique across the Linkpass user base. The UID
+  is generated such that it is random, time-clustered, with a low collision rate. The projected exhaustion of the UID would be more than a hundred years from now
+- Association: An association is a uniquely maintained, non-revocable relationship established between Linkpass and a **pre-issued** unique user identifier within any particular digital product. An association can uniquely identify a user **both from Linkpass (once associated) as well as from the product user base**
+- Membership: Membership is maintained as a revocable affiliation of the Linkpass user. These are connections that can be shared between multiple users, hence not a unique identifier for Linkpass users. Memberships are maintained such that a view of these temporary, loose links are able to provide better context about users
+- authentication methods:
+	- email and password combination
+	- Passwordless via SMS OTP: Every verified mobile number is associated and identifies one Linkpass uniquely.
+	- Passwordless via Social Login
+	- Apple ID
+	- Google
+- Unified Account Management (also known as Single Account Management SAM) ) allows Linkpass
+  users to self-manage their basic profile data and notification settings. [Profile | Linkpass](https://pass.link.sg/), https://account.ntuclink.com.sg
+	- MyInfo verification through SingPass
+	- Preference Management
+		- service-specific notification: subscribe
+	- account management on mobile applications
+- Linkpass Quick Response (QR) Code
+	- Consumer Presented QR
+- Enterprise Service Bus:   AWS SNS or Google Pub/Sub
+	- User updates
+	- Message Structure: json
+	- Event ordering: not guaranteed
+	- Subscribing To An User Event
+		- AWS SNS
+		- google
+- **User Personal Data Removal as a legal compliance**
+	- Shared responsibility model
+	- Listen to the deletion event
+	- Anonymization: Anonymization is a process of transforming data into a form that is not re-identifiable either on its own or in combination with any other data. One example of the algorithms to use is SHA256 with a random salt.
+- Social enterprises
+	- ways to integrate
+		- Replace their existing identity provider,
+		- use it as a Single Sign-On on top of their current identity provider,
+		- or integrate via API (customer matching only, no login)

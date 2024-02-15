@@ -1,0 +1,5 @@
+- [Dataverse development tools (Microsoft Dataverse) - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-apps/developer/data-platform/download-tools-nuget)
+- plugin repository
+- [How are Dataverse for Teams and Dataverse different?](https://learn.microsoft.com/en-us/power-apps/teams/data-platform-compare)
+- alternate keys: size
+	-

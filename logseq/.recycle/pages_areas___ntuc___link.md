@@ -1,0 +1,2 @@
+- link/linkpass/fpg
+- VC vs CAN number, exchange id, curated memberships, multiple profiles

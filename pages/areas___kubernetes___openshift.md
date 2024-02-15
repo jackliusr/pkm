@@ -1,0 +1,26 @@
+- [OpenShift KNI](https://github.com/openshift-kni): Kubernetes-native Infrastructure with OpenShift
+- Red Hat Enterprise Linux CoreOS (RHCOS): Ignition, CRI-O, kubelet
+- **Red Hat OpenShift Kubernetes Engine**: Kubernetes Red Hat Enterprise Linux CoreOS
+- **Red Hat OpenShift Container Platform**: Red Hat OpenShift Kubernetes Engine* + a full set of operations and developer services and tools, including Serverless, Service Mesh, and Pipelines
+	- OpenShift Container Platform Operators:
+		- Cluster Version Operator
+		- Machine Config Operator
+		- Operator Lifecycle Manager (OLM) and the OperatorHub
+		- Red Hat Quay Container Registry: Quay.io container registry
+		- OpenShift SDN: configures an overlay network using Open vSwitch (OVS).
+			- **ovs-subnet**
+			- **ovs-multitenant**
+				- project level isolation for pods and services
+				- projects that receive VNID 0 are more privileged in that they are allowed to communicate with all other pods, and all other pods can communicate with them
+				- Virtual Network ID (VNID)
+			- **ovs-networkpolicy**
+- **Red Hat OpenShift Platform Plus**: Red Hat OpenShift Container Platform + advanced multicluster security features, Day-2 management capabilities, integrated data management, and a global container registry.
+- project: extensions to Kubernetes namespaces. additional features that enable user self-provisioning, has its own set of objects, policies, constraints, and service accounts.
+- OpenShift Container Platform CLI tool (`oc`)
+- architectures: 
+  ![](https://raw.githubusercontent.com/openshift/openshift-docs/main/images/oke-about-ocp-stack-image.png){:height 767, :width 807}
+- [Red Hat Middleware Subscriptions Bundles Overview](https://access.redhat.com/articles/3666991)
+- OpenShift Local
+- [OKD](https://docs.okd.io/4.14/welcome/index.html)
+- Red Hat OpenShift Data Foundation: a provider of agnostic persistent storage for OpenShift Container Platform supporting file, block, and object storage, either in-house or in hybrid clouds. As a Red Hat storage solution, Red Hat OpenShift Data Foundation is completely integrated with OpenShift Container Platform for deployment, management, and monitoring.
+- OpenShift Virtualization: an add-on to OpenShift Container Platform that allows you to run and manage virtual machine workloads alongside container workloads. based on **KubeVirt **

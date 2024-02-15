@@ -1,0 +1,1 @@
+- `EFAIL exploit` affects certain implementations of PGP (Pretty Good Privacy) and S/MIME (Secure/Multipurpose Internet Mail Extensions), two popular encryption standards used for securing email communications

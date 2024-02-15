@@ -1,0 +1,13 @@
+- [Taking Effective Notes](https://sites.austincc.edu/student-skills-workshops/taking-effective-notes/) #workshops
+	- [Notetaking Strategies: Before, During, and After Class](https://sites.austincc.edu/student-skills-workshops/taking-effective-notes/notetaking-strategies/)
+- [Revise Your Notes Before You Leave Class](https://lifehacker.com/revise-your-notes-before-you-leave-class-1850774684)
+	- What to do with notes after class
+	- How to maximize your post-class notes
+- [7 Note-Taking Tips to Make Studying a Breeze](https://www.grammarly.com/blog/note-taking/)
+	- handwriting vs digital note-taking
+	- methods
+		- outlining
+		- charting
+		- mapping
+		- Cornell Notes system
+		- SQ4R

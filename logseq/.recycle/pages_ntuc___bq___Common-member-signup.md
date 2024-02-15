@@ -1,0 +1,2 @@
+- dedicated db
+- unique campaign

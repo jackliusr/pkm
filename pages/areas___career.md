@@ -1,0 +1,3 @@
+- AWS: all colleague agreement on promotion
+- ai singapore:  attachment program
+- blockchain

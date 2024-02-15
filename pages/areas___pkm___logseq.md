@@ -1,0 +1,4 @@
+- namespace https://blog.logseqmastery.com/post/logseq-namespaces/
+- learning hub: https://hub.logseq.com/
+- feature request: # [Executable templates and data driven documents](https://discuss.logseq.com/t/executable-templates-and-data-driven-documents/1880)
+- incremental reading & writing

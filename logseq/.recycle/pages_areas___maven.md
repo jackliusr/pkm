@@ -1,0 +1,8 @@
+- [Maven Lab Specs](https://sntuc.sharepoint.com/:f:/r/sites/VendorSite/DXC/CR%20-%20Committed%20InProgress/CR2023-007-%20SMS%20Integration%20in%20Marketing/Maven%20Lab%20Specs?csf=1&web=1&e=cpQcyX)
+- Delivery Report (DR) API
+- Moobicast Auth API 18 Version 2
+- MOOBICAST API: SMS	Broadcasting	Platform Version2021: xml based, support templating and placeholders
+- Moobicast Single MT API 18 Version 2: json based
+	- Sending Single MT
+	- Sending Single MT in Batch
+-

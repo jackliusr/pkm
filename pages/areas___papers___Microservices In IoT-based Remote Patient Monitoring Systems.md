@@ -1,0 +1,1 @@
+- pdf: http://essay.utwente.nl/95905/1/Alikhujaev_BA_EEMCS.pdf #iot

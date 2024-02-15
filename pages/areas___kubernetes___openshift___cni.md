@@ -1,0 +1,7 @@
+- [A Deep Dive into OpenShift CNI: SDN, OVN, and More](https://meatybytes.io/posts/openshift/ocp-features/overview/core-foundations/networking/cni/)
+	- shift from Software-Defined Networking (SDN) to Open Virtual Network (OVN), the introduction of Multus and the Cluster Network Operator, and the support for various Container Network Interface (CNI) plugins
+	- SDN vs OVN
+	- ![](https://meatybytes.io/posts/openshift/ocp-features/overview/core-foundations/networking/cni/ocp-sdn-arch_hu6066ece0b3093b9ea0325a611669c4f6_28918_1320x0_resize_box_3.png){:height 364, :width 262}
+	- ![](https://meatybytes.io/posts/openshift/ocp-features/overview/core-foundations/networking/cni/ovn-k8s-arch_hude9f3e33d74c2cc0afa0cb6a3e5d0f80_126021_1320x0_resize_box_3.png){:height 680, :width 558}
+	- ![](https://meatybytes.io/posts/openshift/ocp-features/overview/core-foundations/networking/cni/ocp-multus-arch-cno_hu0f92491b9098c10688b1cd705ad70cee_86084_1320x0_resize_box_3.png){:height 432, :width 643}
+	- ![](https://meatybytes.io/posts/openshift/ocp-features/overview/core-foundations/networking/cni/ocp-cni-updated_huf2d02d3a34e59430e8601b93da3ac834_199896_1320x0_resize_box_3.png){:height 236, :width 705}

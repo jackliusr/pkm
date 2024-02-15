@@ -1,0 +1,7 @@
+- [Counting endpoints](https://medium.com/@danielepolencic/kubernetes-challenge-1-counting-endpoints-9d9c49dac2aa)
+	- **So, if you have a service targeting a single pod on port 8080, you will have a single endpoint (i.e. <pod ip>:8080).**
+	- **There’s a one-to-one mapping between a Service and an Endpoint object.** If one is called “demo”, the other has the same name.
+	- The Endpoint object has an endpoints column that is a collection of IP:port pairs.
+	- The endpoints for the demo Endpoint object point to the pod’s IP address and the ports defined in the service.
+	- **It’s also worth noting that even if the app doesn’t expose port 9000, there’s still an endpoint for it.**
+-

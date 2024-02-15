@@ -1,0 +1,2 @@
+- Microsoft SharePoint is the ideal enterprise Project Management Information System (PMIS) for managing major projects
+-

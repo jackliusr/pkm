@@ -1,0 +1,1 @@
+- verify scripts: /run/kc-internal/scenario-service

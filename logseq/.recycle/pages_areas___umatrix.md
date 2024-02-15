@@ -1,0 +1,2 @@
+- TODO Search for global sites or just in microsite?
+- coveo for insite search

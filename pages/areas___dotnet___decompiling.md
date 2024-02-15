@@ -1,0 +1,2 @@
+- CS0452: Force T as reference type in code
+-

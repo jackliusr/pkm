@@ -1,0 +1,7 @@
+- PM: Michelle Lee Lay Hoon
+- public login service
+- don't need refresh tokens in PLS
+- NRIC options:
+	- full
+	- hash: sha512(utf-8)
+	- null

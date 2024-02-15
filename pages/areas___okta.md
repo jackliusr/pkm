@@ -1,0 +1,2 @@
+- [user account status](https://help.okta.com/en-us/content/topics/users-groups-profiles/usgp-end-user-states.htm)
+- Factor Assurance

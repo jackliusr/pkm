@@ -1,0 +1,13 @@
+- GTP-4
+	- GPT-4 Turbo: GPT-4 Turbo with 128K context and lower prices,
+	- the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more.
+	- New multimodal capabilities in the platform, including vision, image creation (DALL·E 3), and text-to-speech (TTS)
+	- capabilites
+- GPT-4 with vision (GPT-4V)
+- model:
+	- Whisper: a general-purpose speech recognition model
+	- Moderation models: designed to check whether content complies with OpenAI's [usage policies](https://openai.com/policies/usage-policies).
+- GPTs
+	- instructions + expanded knowledge + actions
+- Assistants API: The Assistants API allows you to build AI assistants within your own applications. An Assistant has instructions and can leverage models, tools, and knowledge to respond to user queries. The Assistants API currently supports three types of [tools](https://platform.openai.com/docs/assistants/tools): Code Interpreter, Retrieval, and Function calling.
+	- <table><thead><tr><th>Object</th><th>What it represents</th></tr></thead><tbody><tr><td>Assistant</td><td>Purpose-built AI that uses OpenAI’s <a href="/docs/models">models</a> and calls <a href="/docs/assistants/tools">tools</a></td></tr><tr><td>Thread</td><td>A conversation session between an Assistant and a user. Threads store Messages and automatically handle truncation to fit content into a model’s context.</td></tr><tr><td>Message</td><td>A message created by an Assistant or a user. Messages can include text, images, and other files. Messages stored as a list on the Thread.</td></tr><tr><td>Run</td><td>An invocation of an Assistant on a Thread. The Assistant uses it’s configuration and the Thread’s Messages to perform tasks by calling models and tools. As part of a Run, the Assistant appends Messages to the Thread.</td></tr><tr><td>Run Step</td><td>A detailed list of steps the Assistant took as part of a Run. An Assistant can call tools or create Messages during it’s run. Examining Run Steps allows you to introspect how the Assistant is getting to it’s final results.</td></tr></tbody></table>

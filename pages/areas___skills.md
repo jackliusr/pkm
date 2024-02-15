@@ -1,0 +1,6 @@
+- Teamwork skills
+	- **Communication: **Conveying thoughts and information in a clear way, both verbally and nonverbally
+	- **Time management:** Remaining organized, and prioritizing and delegating tasks to reach your goals in a timely fashion
+	- **Transparency:** Being honest to build strong relationships, working through conflicts, developing trust, and effectively working together
+	- **Problem-solving:** Using critical thinking or creativity to deal with challenges and issues along the way; working toward a solution for the team's success
+	- **Building rapport:** Actively listening, focusing on others' interests and needs, and having empathy for others on your team to communicate more effectively and become a stronger, more efficient team
