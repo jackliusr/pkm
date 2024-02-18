@@ -8,7 +8,6 @@
   card-next-schedule:: 2024-03-05T00:51:25.139Z
   card-last-reviewed:: 2023-11-14T01:51:25.140Z
   card-last-score:: 5
-  collapsed:: true
 	- Transformation functions
 	- Aggregate
 	- Rules

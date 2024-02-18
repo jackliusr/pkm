@@ -1,0 +1,6 @@
+- *function.json*: the function's trigger, bindings, and other configuration settings
+- Function app: composed of one or more individual functions that are managed, deployed, and scaled together; 2.x version, must be authored in the same language
+- tools:
+	- Azure Functions Core Tools: develop and test your functions on your local computer: func
+	- Azure Functions for Visual Studio Code
+- identity-based connections

@@ -1,0 +1,2 @@
+- pillars: cost optimisation, operational excellence, performance efficiency, reliability, security
+-
