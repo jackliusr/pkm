@@ -15,3 +15,5 @@
 	- [Bunyan](https://www.npmjs.com/package/bunyan) — Another feature-rich logging framework that outputs in JSON by default and provides a CLI tool for viewing your logs.
 	- [Roarr](https://www.npmjs.com/package/roarr) — Roarr is a different kind of logger that works in Node.js and the browser.
 - RIFM: React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
+- URQL: The highly customizable and versatile GraphQL client for React, Svelte, Vue, or plain JavaScript, with which you add on features like normalized caching as you grow.
+- Immer: a tiny package that allows you to work with immutable state in a more convenient way.

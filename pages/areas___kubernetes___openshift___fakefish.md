@@ -1,0 +1,1 @@
+- An experimental Redfish proxy that calls shell scripts for executing hardware actions

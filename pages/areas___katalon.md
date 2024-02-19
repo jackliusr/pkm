@@ -1,0 +1,1 @@
+- an automation testing software tool developed by Katalon, Inc. The software is built on top of the open-source automation frameworks Selenium, Appium with a specialized IDE interface for web, API, mobile and desktop application testing

@@ -1,0 +1,25 @@
+- [Agency for Integrated Care (AIC)](https://www.aic.sg/about-us/)
+	- Home Caregiving Grant (HCG)
+	- Seniors’ Mobility and Enabling Fund (SMF)
+- Healthier SG Administrative Repository (HSAR): ==a system that stores administrative and non-medical data for patients==. It is part of the National Health Information Grid (NHIG)
+- [Central Infrastructure Services (EUC)](https://www.facebook.com/ihis.sg/photos/a.859520894144188/4505156809580560/?type=3&paipv=0&eav=AfZbWmhZ9y_r8fgom6i_PbufGcrAvv4VynH2PuTz_pI3vMGcvUXW3BPjhkgev_8xsII&_rdr):  ==the first point of contact for all IT==. EUC can include tasks and activities such as service vendor management and setting process and procedures
+- [Outcome-Based Spiral Contracting Framework](https://www.synapxe.sg/partner-us/healthx/outcome-based-spiral-contracting-framework)
+  ![](https://mc-ae878fb3-424b-4ec4-86b1-1740-cdn-endpoint.azureedge.net/-/media/project/ihis/ihis/partner-us/healthx/outcome-based-spiral-contracting-framework/healthx-outcome-based-spiral-contracting-framework-infographic.jpg?rev=aec4c3f7603847db8fb45a7913ed9938&hash=A9FF7749082A325B1A8575206971EE10)
+- **HealthX Innovation Sandbox (HX-IS)**: HX-IS enables public healthcare institutes and tech partners to conduct fast experimentation, assessments and demonstrate viability of your innovation projects.
+- Healthcare Commercial Cloud (HCC)
+- Common Consumer Digital Platform (CCDP): provides below apis
+	- Appointments and Registration
+	- Patient Profile
+	- Pre/Post Consultation Questionnaire
+	- Notifications
+	- Bills
+	- Payments
+	- Consent and Relationship
+- Healthier SG (HSG): a Singapore government initiative that aims to improve the country's healthcare system. It is a national initiative by the Ministry of Health (MOH)
+	- A focus on preventive care
+	- A personalized health plan
+	- Access to a wide range of healthy lifestyle ac
+	- Support from a family doctor
+	- Fully-subsidized screenings and vaccinations
+	- Access to more affordable medications
+	- No need for MediSave co-paymen

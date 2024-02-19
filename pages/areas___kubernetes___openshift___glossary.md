@@ -3,6 +3,7 @@
 - **Project**: a Kubernetes namespace with additional annotations
 - `OperatorGroup`: An *Operator group*, defined by the `OperatorGroup` resource, provides multitenant configuration to **OLM**-installed Operators. An Operator group selects target namespaces in which to generate required RBAC access for its member Operators.
 - *security context constraints* (SCCs)
+- openshift-state-metrics exporter (OSM):==an add-on agent that adds metrics for OpenShift Container Platform-specific resources==. It builds on the kube-state-metrics exporter agent (KSM), which converts Kubernetes objects into metrics that Prometheus can use.
 - [GPU sharing methods](https://docs.openshift.com/container-platform/4.14/architecture/nvidia-gpu-architecture-overview.html#nvidia-gpu-sharing-methods_nvidia-gpu-architecture-overview)
 	- Compute Unified Device Architecture (CUDA) streams
 	- Time-slicing

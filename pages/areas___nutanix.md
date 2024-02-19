@@ -1,0 +1,1 @@
+- an American cloud computing company that sells software solutions for datacenters and hybrid multicloud deployments.

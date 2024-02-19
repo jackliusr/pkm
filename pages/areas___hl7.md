@@ -1,0 +1,1 @@
+- Clinical Document Architecture (CDA): ==a Health Level 7 (HL7) standard that specifies the structure and semantics of clinical documents==. CDA is an XML-based standard that allows healthcare providers to create digital documents containing patient information. CDA documents can include text, images, sounds, and other multimedia content.
