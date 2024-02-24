@@ -2,7 +2,6 @@
 - Mastercard Payment Gateway Services (MGPS)
 	- MID:  Merchant ID
 - how do a payment system handle the issue that bad internet connection from banks without compromising user experiences?
-  collapsed:: true
 	- **Offline Mode**: Implement an offline mode that allows users to continue using the payment system even when there's a bad internet connection. In offline mode, the system can store transaction data locally and synchronize with the bank's servers once the connection is restored. Inform users that their transactions will be processed as soon as connectivity is regained.
 	- **Real-time Feedback**: Provide real-time feedback to users about the status of their transactions. If a transaction fails due to connectivity issues, immediately inform the user, explain the situation, and provide an estimated time for when the system will retry the transaction.
 	- **Smart Caching**: Utilize smart caching mechanisms to store relevant data on the client-side. This can include recently used payment methods, transaction history, and other relevant information. This data can be displayed to the user even when the internet connection is poor.
@@ -20,7 +19,6 @@
 	- a system that processes financial transactions electronically. It replaces physical and paper-based activities with automation.
 	- An STP system speeds up remittance and settlement when taking payments. The goal is to streamline payments so that when a transaction starts, all activities associated with the payment processing are automated. This method doesn't require any manual intervention and is quicker.
 - end-to-end payment processing: all-inclusive payment services to merchants, covering everything from point-of-sale terminals to online payments, fraud protection, billing management, sales reporting and more. In a business environment in which having multiple sales channels is becoming the norm, end-to-end payment processing can help you save time and money compared to using several different providers.
-  collapsed:: true
 	- Opening a dedicated merchant account
 	- Point of sale software and hardware or a virtual terminal
 	- A global payment gateway

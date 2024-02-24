@@ -1,0 +1,8 @@
+- Clinical Decision Support (CDS)
+- CDS Hooks: The CDS Hooks specification describes the RESTful APIs and interactions between EHRs and CDS Services.
+	- ![](https://cds-hooks.hl7.org/ballots/2018May/images/overview.png)
+	- CDS Cards
+		- Each CDS service can return any number of **cards** in response to the hook. Cards convey some combination of text (*information card*), alternative suggestions (*suggestion card*), and links to apps or reference materials (*app link card*). A user sees these cards — one or more of each type — embedded in the EHR, and can interact with them as follows:
+		- *information card*: provides text for the user to read.
+		- *suggestion card*: provides a specific suggestion for which the EHR renders a button that the user can click to accept. Clicking automatically populates the suggested change into the EHR's UI.
+		- *app link card*: provides a link to an app (often a SMART app) where the user can supply details, step through a flowchart, or do anything else required to help reach an informed decision.

@@ -27,6 +27,8 @@
 	  </tbody>
 	  </table>
 - CLI-based project (.esproj)
+- Shared Project: shproj
+- The `.projitems` file defines what the `.shproj` file will add to the compilation.
 - Develop code in Visual Studio without projects or solutions: .code-workspace json file
   
   ``` json

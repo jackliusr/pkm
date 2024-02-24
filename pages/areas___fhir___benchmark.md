@@ -1,0 +1,10 @@
+- https://github.com/karlmdavis/fhir-benchmarks
+- https://www.smiledigitalhealth.com/benchmarking-smile-cdr
+- https://github.com/synthetichealth/synthea
+- https://github.com/fhir-crucible/testscript-generator
+- https://github.com/fhir-crucible/testscript-engine
+- https://touchstone.aegis.net/touchstone/
+- ![Final-Version_-Google-Healthcare-API-Whitepaper-Update_-October-2021.pdf](../assets/Final-Version_-Google-Healthcare-API-Whitepaper-Update_-October-2021_1708760430047_0.pdf)
+- InterSystems IRIS for Health 2020.1 HL7 Benchmark
+- [Why HL7 Message Throughput Is a Critical Metric for Interface Engines [White Paper]](https://blog.interfaceware.com/hl7-message-throughput-is-a-critical-metric-for-interface-engines/)
+- [MIMIC (Medical Information Mart for Intensive Care](https://mimic.mit.edu/docs/about/): a large, freely-available database comprising deidentified health-related data from patients who were admitted to the critical care units of the Beth Israel Deaconess Medical Center

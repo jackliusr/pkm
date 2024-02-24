@@ -51,7 +51,6 @@
 	- **Business Support**: spans a wide range of general business management and support activities that may be found in any commercial business and that are therefore not specific to Banking. This area of the Landscape is included for completeness as many banking specific business activities may need to make reference to these more **general capabilities**.
 - ![image.png](../assets/image_1696865852832_0.png){:height 430, :width 795} ![]( ![image.png](../assets/image_1696865849449_0.png) )
 - [An Introduction to BIAN Adoption Journey](https://bian.org/wp-content/uploads/2021/05/CCC_An-Introduction-to-BIAN-Adoption-Journey_2021.pdf)
-  collapsed:: true
 	- The Bank Digital Ecosystem
 	  ![image.png](../assets/image_1695487753090_0.png){:height 542, :width 650}
 	- BIAN – Coreless Banking
@@ -59,7 +58,6 @@
 	- BIAN INFOGRAPHICS STAGES
 	  ![image.png](../assets/image_1695487904553_0.png){:height 380, :width 659}
 - [A guide to adoption](https://view.ceros.com/hotwirepr/bian-guide-to-adoption)
-  collapsed:: true
 	- STAGE 1:Evaluate BIAN
 		- Assess your needs
 		- Conduct a GAP Analysis

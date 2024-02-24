@@ -1,0 +1,5 @@
+- [IHE](http://www.ihe.net/) FormatCode code system: The [IHE](http://www.ihe.net/) FormatCode code system with canonical URI of http://ihe.net/fhir/ihe.formatcode.fhir/CodeSystem/formatcode is defined to be the set of FormatCodes define by IHE, for use with [Document Sharing](https://profiles.ihe.net/ITI/HIE-Whitepaper/index.html).
+- invariants:
+	- csd
+	- cnl
+	- spd

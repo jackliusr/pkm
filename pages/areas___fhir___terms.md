@@ -1,0 +1,9 @@
+- [SNOMED Clinical Terms](https://confluence.ihtsdotools.org/display/DOCGLOSS/SNOMED+Clinical+Terms)
+	- SCT
+- Digital Imaging and Communications in Medicine: DICOM
+- **National Health Information Network** (NHIN)
+- Ensembl.org is a **genome** browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation. Ensembl annotate genes, computes multiple alignments, predicts regulatory function and collects disease data. Ensembl tools include BLAST, BLAT, BioMart and the Variant Effect Predictor (VEP) for all supported species.
+- https://precision.fda.gov/: A secure, collaborative, high-performance computing platform that builds a community of experts around the analysis of biological datasets in order to advance precision medicine.
+- **Integrating the Healthcare Enterprise** IHE
+- **Draft Standard for Trial Use 2** (DSTU2)
+- FHIR at Scale Taskforce (*FAST*): The FHIR at Scale Taskforce (*FAST*) identifies Fast Healthcare Interoperability Resources (FHIR) scalability gaps, defines solutions to address current barriers, and identifies needed infrastructure for scalable FHIR solutions.

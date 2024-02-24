@@ -1,0 +1,1 @@
+- Solution filter files are JSON files with the extension *.slnf* that indicate which projects to build or load from all the projects in a solution

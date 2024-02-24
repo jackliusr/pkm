@@ -1,0 +1,1 @@
+- FiveWs: Who What When Where Why - Common pattern for all resources that deals with attribution.
