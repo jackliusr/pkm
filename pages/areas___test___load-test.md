@@ -9,6 +9,7 @@
 	- hey:
 	- locust: python
 	- k6: javascript
+        - bombardier
 	- Siege
 	- **[Hyperfoil](https://hyperfoil.io/docs/intro.html): distributed, YAML**
 - injection rate:  Injects a given number of users distributed evenly on a time window of a given duration
