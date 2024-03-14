@@ -27,11 +27,11 @@
 	  background-color:: blue
 	- Business Development
 - Core Banking Object Model #card
-  card-last-interval:: 40.96
-  card-repeats:: 4
-  card-ease-factor:: 3.2
-  card-next-schedule:: 2024-02-18T01:03:07.133Z
-  card-last-reviewed:: 2024-01-08T02:03:07.134Z
+  card-last-interval:: 143.75
+  card-repeats:: 5
+  card-ease-factor:: 3.3
+  card-next-schedule:: 2024-07-23T07:38:36.158Z
+  card-last-reviewed:: 2024-03-01T13:38:36.159Z
   card-last-score:: 5
 	- ![image.png](../assets/image_1697211302565_0.png)
 - concepts:

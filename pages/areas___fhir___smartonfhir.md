@@ -1,0 +1,9 @@
+- [SMART on FHIR (smarthealthit.org)](https://docs.smarthealthit.org/)
+- standards and specifications
+	- foundation: FHIR and CDS hooks
+	- data access
+		- [US Core Data Profiles](https://www.hl7.org/fhir/us/core/): FHIR data profiles for health data in the US (“core data for interoperability”)
+		- [FHIR Bulk Data API Implementation Guide](https://hl7.org/fhir/uv/bulkdata/index.html): FHIR export API for large-scale data access
+	- UI and security integration
+		- smart app launch
+		- SMART backend services:  Server-to-server FHIR connections

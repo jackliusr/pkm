@@ -2,11 +2,11 @@
 - Logseq Hypothes.is Plugin: fetch annotations from Hypothes.is as a page
 - query: https://docs.datomic.com/pro/query/query.html
 - [data log learning](https://www.learndatalogtoday.org/) #card
-  card-last-interval:: 111.96
-  card-repeats:: 5
-  card-ease-factor:: 3
-  card-next-schedule:: 2024-03-05T00:51:25.139Z
-  card-last-reviewed:: 2023-11-14T01:51:25.140Z
+  card-last-interval:: 396.09
+  card-repeats:: 6
+  card-ease-factor:: 3.1
+  card-next-schedule:: 2025-04-14T16:04:30.879Z
+  card-last-reviewed:: 2024-03-14T14:04:30.879Z
   card-last-score:: 5
 	- Transformation functions
 	- Aggregate

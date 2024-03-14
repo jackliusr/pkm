@@ -1,9 +1,9 @@
 - This command has to be run under the root user. #card
-  card-last-interval:: 11.2
-  card-repeats:: 3
-  card-ease-factor:: 2.8
-  card-next-schedule:: 2024-02-25T10:56:05.341Z
-  card-last-reviewed:: 2024-02-14T06:56:05.341Z
+  card-last-interval:: 36.02
+  card-repeats:: 4
+  card-ease-factor:: 2.9
+  card-next-schedule:: 2024-04-06T13:42:52.080Z
+  card-last-reviewed:: 2024-03-01T13:42:52.080Z
   card-last-score:: 5
 	- /etc/ansible/ansible.cfg
 	  ``` ini
