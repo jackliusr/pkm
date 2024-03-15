@@ -20,3 +20,5 @@
 		  
 		  docker trust inspect --pretty registry.example.com/admin/demo:1
 		  ```
+	- issues:
+		- [How do I look at what's cached by Docker](https://stackoverflow.com/questions/54290925/how-do-i-look-at-whats-cached-by-docker)

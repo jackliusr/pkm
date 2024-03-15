@@ -31,3 +31,4 @@
 	- factor: performance, resilience, global consistency, elasticity, auto-splitting/rebalancing?
 - storage engines
 	- OrioleDB a new storage engine for PostgreSQL, bringing a modern approach to database capacity, capabilities and performance to the world's most-loved database platform. OrioleDB consists of an extension, building on the innovative table access method framework and other standard Postgres extension interfaces. By extending and enhancing the current table access methods, OrioleDB opens the door to a future of more powerful storage models that are optimized for cloud and modern hardware architectures.
+- pg_default vs pg_global: The **pg_global tablespace** is used for shared system catalogs. The pg_default tablespace is the default tablespace of the template1 and template0 databases (and, therefore, will be the default tablespace for other databases as well, unless overridden by a TABLESPACE clause in CREATE DATABASE).

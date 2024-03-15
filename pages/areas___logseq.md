@@ -14,6 +14,11 @@
 - install plugins manually
 	- install plugins via using logseq in wsl2
 	- sync plugins from wsl2 to windows host
+- plugins I used:
+	- fence code plus
+	- diagram as code
+	- agendar
+	- smark block
 - block attrs: https://github.com/logseq/logseq/blob/c67c4aa3c8c05f60cf66f1cb9fd35ae531c60a5f/src/main/frontend/db/model.cljs#L37
 - [Change text color for individual blocks or even words](https://discuss.logseq.com/t/change-text-color-for-individual-blocks-or-even-words/20508)
 - add checkbox + [ ]

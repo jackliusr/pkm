@@ -1,5 +1,6 @@
 - [Unified Code for Units of Measure (UCUM)](https://ucum.org/): a code system intended to include all units of measures being contemporarily used in international science, engineering, and business.
 - five mechanisms for communicating collections of resources
+  collapsed:: true
 	- This **List** resource - enumerates a flat collection of resources and provides features for managing the collection. While a particular List instance may represent a "snapshot", from a business process perspective the notion of "List" is dynamic – items are added and removed over time. The List resource references other resources. Lists may be curated and have specific business meaning.
 	- The [Group](https://build.fhir.org/group.html) resource - defines a group of specific people, animals, devices, etc. by enumerating them, or by describing qualities that group members have. The group resource refers to other resources, possibly implicitly. Groups are intended to be acted upon or observed as a whole; e.g. performing therapy on a group, calculating risk for a group, etc. This resource will commonly be used for public health (e.g. describing an at-risk population), clinical trials (e.g. defining a test subject pool) and similar purposes.
 	- The [Composition](https://build.fhir.org/composition.html) resource - defines a set of healthcare-related information that is assembled together into a single logical document that provides a single coherent statement of meaning, establishes its own context and that has clinical attestation with regard to who is making the statement. The Composition resource provides the basic structure of a FHIR [document](https://build.fhir.org/documents.html). The full content of the document is expressed using a bundle. Compositions will often reference Lists as the focus of particular sections.
@@ -7,3 +8,6 @@
 	- The [DomainResource](https://build.fhir.org/domainresource.html).`contained` element - allows multiple resources to be nested inside any DomainResource. This is a special type of grouping where the grouped resources lose independent existence - they no longer have their own identifiers, can't easily be queried independently, etc. Use of this grouping is a technical mechanism for managing the independence of resources and has no impact on meaning. Contained, bundled, and remotely referenced resources convey the same meaning.
 - Web Access to DICOM Objects (WADO)
 - validation: profile, structure
+- Da Vinci Project: a private sector initiative that addresses the needs of the Value-Based Care Community by leveraging the HL7 FHIR platform.
+- Clinical Data Exchange (CDex)
+- Healthcare Effectiveness Data and Information Set (HEDIS)

@@ -2,7 +2,10 @@
 	- error handling, retry and recovery
 	- cache ( consumer or producer side)
 - ddd & microservice
-	- TODO how to get bounded context ( business domain or aggerate root)
+	- DOING how to get bounded context ( business domain or aggerate root)
+	  :LOGBOOK:
+	  CLOCK: [2024-03-16 Sat 00:09:33]
+	  :END:
 - dotnet
 	- container: how to register service, scaning based attributes
 - Fortify vs sonarqube
