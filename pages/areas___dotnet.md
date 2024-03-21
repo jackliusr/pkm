@@ -8,6 +8,7 @@
 	- .NET Reflector for history   [paid unsupported  C# VB IL MC++]
 	- **NDepend** to go beyond decompilation
 - Centralize .NET Project Settings using Directory.Build.Props and Directory.Package.Props
+- .NEXT (dotNext): the family of powerful libraries aimed to improve development productivity and extend the .NET API with unique features. The project is supported by the [.NET Foundation](https://dotnetfoundation.org/).
 - aspnet.core
 	- Integration tests in ASP.NET Core
 	- e2e test

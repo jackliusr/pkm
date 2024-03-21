@@ -1,7 +1,13 @@
 - Frequently asked questions about .NET Aspire
 	- docker-compose, dapr, tye, Orleans etc
+- ![](https://learn.microsoft.com/en-us/dotnet/aspire/docs/media/app-host-resource-diagram.png){:height 301, :width 653}
+- ![](https://learn.microsoft.com/en-us/dotnet/aspire/docs/fundamentals/media/networking/networking-proxies-1x.png){:height 502, :width 542}
 - issues:
 	- Aspire.Hosting.Dcp.dcpctrl.ServiceReconciler.Proxy[0]:  Error handling TCP connection     {"Service": {"name":"elasticsearch_elasticsearch-http"}, "error": "no endpoints configured"}: reason: exit code 137, elasticsearch can't reserve enough memory
+- [Microsoft Developer Control Plane (DCP)](https://dev.to/asimmon/exploring-the-microsoft-developer-control-plane-at-the-heart-of-the-new-net-aspire-123)
+	- dcp.exe
+	- dcpctrl.exe
+	- dcpd.exe
 - Aspir8: Generate deployment yaml for a .NET Aspire AppHost project.
 	- **issues**:
 		- command generate: don't generate kubernetes manifest files and kustomize.yml

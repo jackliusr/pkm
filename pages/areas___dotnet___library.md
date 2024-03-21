@@ -1,1 +1,24 @@
 - Microsoft.Extensions.Primitives
+- servicestack
+- unittest
+	- mstest
+	- xunit
+	- nunit
+- bdd
+	- specflow
+- dotnet-install: Script used to install the .NET SDK and the shared runtime.
+- [crank](https://github.com/dotnet/crank): the benchmarking infrastructure used by the .NET team to run benchmarks including (but not limited to) scenarios from the TechEmpower Web Framework Benchmarks.
+- abp
+- NUnit vs xunit
+- expression tree
+	- ReadableExpressions.Visualizers
+- regex:
+- [Trust HTTPS certificate from Windows Subsystem for Linux](https://learn.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-8.0&tabs=visual-studio%2Clinux-ubuntu#trust-https-certificate-from-windows-subsystem-for-linux)https://learn.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-8.0&tabs=visual-studio%2Clinux-ubuntu#trust-https-certificate-from-windows-subsystem-for-linux
+- Tools that accept XML documentation input
+	- docfx
+	- Sandcastle
+	- Doxygen
+- code snippet runner
+	- C# Interactive
+	- linqpad
+	- https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world?tutorial-step=1
