@@ -1,3 +1,4 @@
 - synthea: Synthetic Patient Population Simulator
 - [Home - Epic on FHIR](https://fhir.epic.com/)
 - fhir-crucible
+- Bunsen: lets users load, transform, and analyze FHIR data with Apache Spark. It offers Java and Python APIs to convert FHIR resources into Spark Datasets, which then can be explored with the full power of that platform, including with Spark SQL.

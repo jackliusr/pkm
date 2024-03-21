@@ -17,3 +17,10 @@
 - RIFM: React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
 - URQL: The highly customizable and versatile GraphQL client for React, Svelte, Vue, or plain JavaScript, with which you add on features like normalized caching as you grow.
 - Immer: a tiny package that allows you to work with immutable state in a more convenient way.
+- @rushstack/heft: a config-driven toolchain that invokes other popular tools such as TypeScript, ESLint, Jest, Webpack, and API Extractor.
+- @microsoft/api-extractor: API Extractor provides an integrated, professional-quality solution for all these problems. It is invoked at build time by your toolchain and leverages the TypeScript compiler engine to:
+	- Detect a project's exported API surface
+	- Capture the contracts in a concise report designed to facilitate review
+	- Warn about common mistakes (e.g. missing exports, inconsistent visibility, etc.)
+	- Generate *.d.ts rollups with trimming according to release type- Output API documentation in a portable format that's easy to integrate with your content pipeline
+- @rushstack/rig-package

@@ -1,0 +1,2 @@
+- AWS Nuke: AWS Nuke searches for deleteable resources in the provided AWS acccount and deletes those which are not considered "Default" or "AWS-Managed"
+-

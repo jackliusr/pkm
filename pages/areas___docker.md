@@ -1,4 +1,5 @@
 - Docker Content Trust (DCT) provides the ability to use digital signatures for data sent to and received from remote Docker registries. These signatures allow client-side or runtime verification of the integrity and publisher of specific image tags.
+  collapsed:: true
 	- [Signing Images with Docker Content Trust](https://docs.docker.com/engine/security/trust/#signing-images-with-docker-content-trust)
 		- ``` bash
 		  docker trust key generate jeff
@@ -22,3 +23,25 @@
 		  ```
 	- issues:
 		- [How do I look at what's cached by Docker](https://stackoverflow.com/questions/54290925/how-do-i-look-at-whats-cached-by-docker)
+- plugins
+  collapsed:: true
+	- buildx
+	  ```bash
+	  curl -o  docker-buildx -L https://github.com/docker/buildx/releases/download/v0.13.0/buildx-v0.13.0.linux-amd64
+	  chmod +x docker-buildx
+	  mv docker-buildx $HOME/.docker/cli-plugins/docker-buildx
+	  ```
+	- compose
+	  ```bash
+	  DOCKER_CONFIG=${DOCKER_CONFIG:-$HOME/.docker}
+	  mkdir -p $DOCKER_CONFIG/cli-plugins
+	  curl -SL https://github.com/docker/compose/releases/download/v2.24.7/docker-compose-linux-x86_64 \
+	      -o $DOCKER_CONFIG/cli-plugins/docker-compose
+	  ```
+- oneliners
+	- get ip address based on container name
+	  ```bash
+	   docker container inspect $(docker container ls --filter=name=redis- -q) \
+	         --format '{{json .NetworkSettings.Networks.bridge.IPAddress}}'
+	  ```
+-

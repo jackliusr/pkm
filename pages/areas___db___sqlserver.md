@@ -10,3 +10,6 @@
 		- Peer-to-peer topology
 		- Bidirectional transactional replication
 	- supports updates at Subscribers through updatable subscriptions and peer-to-peer replication
+- memory-optimized table
+- node table and edge table
+-

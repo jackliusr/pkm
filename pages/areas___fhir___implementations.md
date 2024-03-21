@@ -1,0 +1,3 @@
+- [aws-solutions/fhir-works-on-aws: A serverless implementation of the FHIR standard that enables users to focus more on their business needs/uniqueness rather than the FHIR specification. (github.com)](https://github.com/aws-solutions/fhir-works-on-aws)
+- [microsoft/fhir-server: A service that implements the FHIR standard (github.com)](https://github.com/microsoft/fhir-server)
+- [hapifhir/hapi-fhir: 🔥 HAPI FHIR - Java API for HL7 FHIR Clients and Servers (github.com)](https://github.com/hapifhir/hapi-fhir)

@@ -5,9 +5,9 @@
 	- how to determine
 - joke card sequence #card
   card-last-score:: 5
-  card-repeats:: 5
-  card-next-schedule:: 2024-03-16T14:14:58.384Z
-  card-last-interval:: 131.07
-  card-ease-factor:: 3.2
-  card-last-reviewed:: 2023-11-06T13:14:58.384Z
+  card-repeats:: 6
+  card-next-schedule:: 2025-07-08T09:42:39.004Z
+  card-last-interval:: 474.37
+  card-ease-factor:: 3.3
+  card-last-reviewed:: 2024-03-21T01:42:39.004Z
 	- <p>seq: diamonds(<span style="color:red">♦</span>), clubs (♣), hearts (<span style="color:red">♥</span>) and spades (♠)</p>

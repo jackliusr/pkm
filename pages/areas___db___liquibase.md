@@ -1,0 +1,1 @@
+- an [open-source](https://en.wikipedia.org/wiki/Open-source_model) database-independent library for tracking, managing and applying database schema changes.

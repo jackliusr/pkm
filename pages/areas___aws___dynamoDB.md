@@ -1,0 +1,11 @@
+- 3 properteis of access patterns
+	- data size
+	- data shape
+	- data velocity
+- table class
+	- Standard table class
+	- DynamoDB Standard-IA
+- not support stored procedures
+- NoSQL Workbench
+	- facet:  represent an application's different data access patterns for Amazon DynamoDB. Facets can help you visualize your data model when multiple data types are represented by a sort key. Facets give you a way to view a subset of the data in a table, without having to see records that don't meet the constraints of the facet. Facets are considered a visual data modeling tool, and don't exist as a usable construct in DynamoDB, as they are purely an aid to modeling of access patterns.
+- [6 Common DynamoDB Issues in 2022](https://hackernoon.com/6-common-dynamodb-issues-in-2022)https://hackernoon.com/6-common-dynamodb-issues-in-2022)

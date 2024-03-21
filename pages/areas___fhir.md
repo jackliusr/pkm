@@ -11,3 +11,4 @@
 - Da Vinci Project: a private sector initiative that addresses the needs of the Value-Based Care Community by leveraging the HL7 FHIR platform.
 - Clinical Data Exchange (CDex)
 - Healthcare Effectiveness Data and Information Set (HEDIS)
+- HL7 Object Identifier (OID)

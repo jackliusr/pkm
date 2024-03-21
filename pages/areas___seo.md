@@ -1,9 +1,9 @@
 - [redirections](https://www.onely.com/blog/ultimate-guide-to-redirects-seo/) #card
-  card-last-interval:: 36.02
-  card-repeats:: 4
-  card-ease-factor:: 2.9
-  card-next-schedule:: 2024-03-16T00:31:46.805Z
-  card-last-reviewed:: 2024-02-09T00:31:46.805Z
+  card-last-interval:: 116.07
+  card-repeats:: 5
+  card-ease-factor:: 3
+  card-next-schedule:: 2024-07-10T10:43:21.154Z
+  card-last-reviewed:: 2024-03-16T09:43:21.154Z
   card-last-score:: 5
 	- use cases:
 		- merging websites,
