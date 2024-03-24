@@ -1,0 +1,1 @@
+- [Provide JSON Schema for a JSON file like settings JSON in Visual Studio Code](https://stackoverflow.com/questions/34192948/provide-json-schema-for-a-json-file-like-settings-json-in-visual-studio-code)

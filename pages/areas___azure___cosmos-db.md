@@ -1,3 +1,4 @@
+- Fully managed, distributed NoSQL & relational database for modern app development. High performance, high availability, and support for open-source PostgreSQL, MongoDB, and Apache Cassandra. Build cloud-native apps effortlessly.
 - DynamoDB vs CosmosDB
   <table aria-label="Table 1" class="table table-sm margin-top-none">
   <thead>
@@ -59,3 +60,41 @@
 	- Accept requests intended for a Cosmos DB replica.
 	- Serialize and send the requests to the intended endpoint ,
 	- De-serialize the response and return a StoreResponse in a timely fashion or fail with an appropriate error.
+- Azure Cosmos DB Emulator: nosql, json document based
+  ```bash
+  # https://localhost:8081/_explorer/index.html
+   docker run     --publish 8081:8081    \
+      --publish 10250-10255:10250-10255     --interactive     --tty    \
+      mcr.microsoft.com/cosmosdb/linux/azure-cosmos-emulator:latest
+  ```
+- synthetic partition key
+- data modeling
+- c: often represents a shorthand for a collection or container within queries, especially when using the SQL API. Cosmos DB uses SQL-like syntax for querying data, and when writing queries, you need to specify the source of the data. By convention, `c` is used as an alias for the current collection or container being queried. This is similar to using table aliases in SQL.
+- index policy
+	- index mode: **Consistent** and none
+	- custom indexing policy can specify property paths that are explicitly included or excluded
+	- Composite indexing policy
+	  ```json
+	  {  
+	      "automatic":true,
+	      "indexingMode":"Consistent",
+	      "includedPaths":[  
+	          {  
+	              "path":"/*"
+	          }
+	      ],
+	      "excludedPaths":[],
+	      "compositeIndexes":[  
+	          [  
+	              {  
+	                  "path":"/name",
+	                  "order":"ascending"
+	              },
+	              {  
+	                  "path":"/age",
+	                  "order":"descending"
+	              }
+	          ]
+	      ]
+	  }
+	  ```
