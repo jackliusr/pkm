@@ -1,1 +1,3 @@
 - find all authors
+- [keep a changelog](https://keepachangelog.com/en/1.1.0/)
+- commitizen vs cog

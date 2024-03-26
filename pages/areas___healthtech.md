@@ -1,2 +1,12 @@
 - Trusted Exchange Framework and Common Agreement (TEFCA)
 - FHIR
+- [Point-of-Care Device Implementation Guide](https://build.fhir.org/ig/HL7/uv-pocd/mappingsdc.html)
+- Protecting Access to Medicare Act (PAMA)
+- openehr
+	- [Clinical Knowledge Manager (openehr.org)](https://ckm.openehr.org/ckm/)
+	- [Zotero | Your personal research assistant](https://www.zotero.org/libraries)
+- modeling
+	- Entity Attribute Value (EAV),
+	- Dynamic Tables (DT),
+	- Optimized Entity Attribute Value (OEAV), and
+	- Optimized Column-oriented Model (OCOM)

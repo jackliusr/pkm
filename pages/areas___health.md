@@ -1,4 +1,0 @@
-- FHIR, HL7
-	- **Standard for Trial Use (STU)**
-- [Point-of-Care Device Implementation Guide](https://build.fhir.org/ig/HL7/uv-pocd/mappingsdc.html)
-- Protecting Access to Medicare Act (PAMA)

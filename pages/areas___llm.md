@@ -39,7 +39,6 @@
 					- Make statements that sound plausible but are not true
 				- Reducing hallucinations: First find relevant information, then answer the question based on the relevant information
 		- Iterative Prompt Development
-		  collapsed:: true
 			- process ![image.png](../assets/image_1685805639838_0.png){:height 306, :width 406}
 		- user case: summarizing
 			- url: https://towardsdatascience.com/chatgpt-summarization-llms-chatgpt3-chatgpt4-artificial-intelligence-16cf0e3625ce#:~:text=%E2%80%9CExtract%E2%80%9D%20instead%20of%20%E2%80%9CSummarize%E2%80%9D&text=While%20summarization%20aims%20to%20provide,Let's%20try%20then%20with%20extraction!

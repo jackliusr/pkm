@@ -1,0 +1,6 @@
+- [Datatypes - FHIR v5.0.0 (hl7.org)](https://www.hl7.org/fhir/datatypes.html)
+- The base abstract types that provide [the foundation for all types](https://www.hl7.org/fhir/types.html)
+- Simple / primitive types, which are single elements with a primitive value ([below](https://www.hl7.org/fhir/datatypes.html#primitive))
+- General-purpose complex types, which are re-usable clusters of elements ([below](https://www.hl7.org/fhir/datatypes.html#complex))
+- [MetaDatatypes](https://www.hl7.org/fhir/metadatatypes.html): A set of types for use with metadata resources
+- Special purpose datatypes - defined elsewhere in the specification for specific usages: [Reference](https://www.hl7.org/fhir/references.html#Reference), [Meta](https://www.hl7.org/fhir/resource.html#Meta), [Narrative](https://www.hl7.org/fhir/narrative.html#Narrative), [Extension](https://www.hl7.org/fhir/extensibility.html#Extension), [xhtml](https://www.hl7.org/fhir/narrative.html#xhtml), [ElementDefinition](https://www.hl7.org/fhir/elementdefinition.html#ElementDefinition) and [Dosage](https://www.hl7.org/fhir/dosage.html#Dosage).

@@ -50,3 +50,7 @@
       ]
   }
   ```
+- custom view
+	- attributes:
+		- [DebuggerDisplayAttribute](https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.debuggerdisplayattribute), [DebuggerTypeProxyAttribute](https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.debuggertypeproxyattribute), and [DebuggerBrowsableAttribute](https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.debuggerbrowsableattribute).
+	- visualizer

@@ -12,3 +12,6 @@
 - Clinical Data Exchange (CDex)
 - Healthcare Effectiveness Data and Information Set (HEDIS)
 - HL7 Object Identifier (OID)
+- Financial Accounts and Billing (FIAB)
+- Financial Claims and Reimbursement (FICR)
+- modules

@@ -4,3 +4,4 @@
 - common issues:
 	- UNMET DEPENDENCY: https://stackoverflow.com/a/20765400/1101691
 	- [How can I mount a file with the contents of key/value of a ConfigMap without clearing the folder?](https://stackoverflow.com/questions/63412817/how-can-i-mount-a-file-with-the-contents-of-key-value-of-a-configmap-without-cle)
+- `resolutions` field in package.json: When you install packages in a Node.js project, each package may depend on other packages (dependencies). Sometimes, different packages depend on different versions of the same dependency, which can lead to version conflicts or the installation of multiple versions of a package. The `resolutions` field allows you to define specific versions of packages that should be used, overriding the version specified by any package's dependencies.

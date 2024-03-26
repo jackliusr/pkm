@@ -1,0 +1,1 @@
+- **Amazon Ion**: a [richly-typed](https://amazon-ion.github.io/ion-docs/guides/why.html#rich-type-system), [self-describing](https://amazon-ion.github.io/ion-docs/guides/why.html#self-describing), hierarchical data serialization format offering [interchangeable binary and text](https://amazon-ion.github.io/ion-docs/guides/why.html#dual-format-interoperability) representations

@@ -1,7 +1,20 @@
-- File Transfer:
-	- pros: easy to implement, as it does not require any special software or protocols, and it can handle large volumes of data
-	- cons: low reliability, high latency, lack of synchronization, and potential data corruption. does not support real-time or event-driven integration scenarios
-- Shared Database
-- Remote Procedure Invocation
-- Message Queue
-- Event Bus
+- Criteria: **Application coupling**, **Integration simplicity**, **Integration technology**, **Data format**, **Data timeliness**, **Data or functionality**, **Asynchronicity**
+- integration style
+	- File Transfer:
+		- pros: easy to implement, as it does not require any special software or protocols, and it can handle large volumes of data
+		- cons: low reliability, high latency, lack of synchronization, and potential data corruption. does not support real-time or event-driven integration scenarios
+	- Shared Database
+	- Remote Procedure Invocation
+	- Messaging
+- [Messaging Systems](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingComponentsIntro.html)
+	- concepts
+		- **Channels**
+		- **Messages**
+		- **Multi-step delivery**
+		- **Routing**
+		- **Transformation**
+		- **Endpoints**
+	- Message Channel
+	- ## Themes
+- ![image.png](../assets/image_1711370868931_0.png){:height 580, :width 962}
+-

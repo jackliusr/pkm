@@ -11,7 +11,6 @@
 		- *Environment Admin*
 		- *Environment Maker*
 	- type of environments
-	  collapsed:: true
 		- <table aria-label="Table 1" class="table table-sm">
 		  <thead>
 		  <tr>

@@ -1,1 +1,4 @@
 - The ExplanationOfBenefit (EOB) resource combines key information from a Claim, a ClaimResponse and optional Account information to inform a patient of the goods and services rendered by a provider and the settlement made under the patient's coverage in respect of that Claim
+- _nonDomainTypes: Bundle, Parameters, Binary
+- Resources:
+	- Binary: A resource that represents the data of a single raw artifact as digital content accessible in its native format. A Binary resource can contain any content, whether text, image, pdf, zip archive, etc.

@@ -26,12 +26,18 @@
 		  class UserToken
 		  class UserLogin
 		  class RoleClaim
-		  class UserRole
+		  'class UserRole
 		  
 		  User --* UserClaim: > has
 		  User --* UserLogin: > has
-		  user -- UserToken: > has
+		  User -- UserToken: > has
 		  Role -- RoleClaim: associate
 		  User *--* Role: : associate
 		  @enduml
 		  ```
+		- Middleware order
+		  <img src="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/index/_static/middleware-pipeline.svg?view=aspnetcore-8.0"></img>
+		- MVC
+		  <img src="https://learn.microsoft.com/en-us/aspnet/core/fundamentals/middleware/index/_static/mvc-endpoint.svg?view=aspnetcore-8.0"></img>
+		- IActionResultExecutor
+		- IStartupFilter

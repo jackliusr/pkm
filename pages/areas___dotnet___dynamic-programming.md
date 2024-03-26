@@ -1,4 +1,12 @@
 - [Dynamic Programming in the .NET Framework](https://learn.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/)
 - [Metaprogramming in .NET](https://livebook.manning.com/book/metaprogramming-in-dot-net/chapter-5)
+- [Metaprogramming | .NEXT (dotnet.github.io)](https://dotnet.github.io/dotNext/features/metaprogramming/index.html)
 - expression tree
 	- debug visualizers: ReadableExpressions.Visualizers and Expression Tree Visualizer
+- code emit
+- CodeDOM
+- generator
+- attributes
+- linq
+- [dynamic linq](https://dynamic-linq.net/)
+- dynamic
